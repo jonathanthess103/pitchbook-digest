@@ -2,9 +2,12 @@ name: fetch-deals
 
 on:
   schedule:
-    # 13:00 UTC weekdays = 9:00 EDT / 8:00 EST
-    # PitchBook Daily Pitch arrives in early morning ET; this runs after.
-    - cron: '0 13 * * 1-5'
+    # Multiple attempts to catch the newsletter whenever it lands.
+    # Routine fires at 13:30 UTC (6:30am PDT). We run at 12:00, 12:30, 13:00 UTC.
+    # Each run no-ops if deals.json is unchanged.
+    - cron: '0 12 * * 1-5'   # 5:00am PDT / 8:00am EDT
+    - cron: '30 12 * * 1-5'  # 5:30am PDT / 8:30am EDT
+    - cron: '0 13 * * 1-5'   # 6:00am PDT / 9:00am EDT
   workflow_dispatch: {}
 
 permissions:
