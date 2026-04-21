@@ -29,9 +29,10 @@ Call notion-query-data-sources with data_source_id "aaf6122d-9bb0-4d30-944b-fb73
 
 STEP 5 — ENRICH WITH ONE WEB SEARCH PER DEAL
 For each remaining deal, perform EXACTLY ONE WebSearch with the query: "{company}" official website linkedin
+Do NOT pass any blocked_domains to the WebSearch call — all domains must be allowed in the raw results so that LinkedIn company pages can be found.
 From the result list extract two URLs:
-- website: the FIRST result URL that is the company's own homepage. EXCLUDE any URL whose hostname contains any of: crunchbase.com, pitchbook.com, techcrunch.com, bloomberg.com, reuters.com, linkedin.com, wikipedia.org, twitter.com, x.com, facebook.com, medium.com, substack.com, forbes.com, businesswire.com, prnewswire.com, ycombinator.com. If none remain, website = null.
-- linkedin: the FIRST result URL whose path starts with linkedin.com/company/. Otherwise null.
+- website: the FIRST result URL that is the company's own homepage. EXCLUDE (in post-processing, not as a search filter) any URL whose hostname contains any of: crunchbase.com, pitchbook.com, techcrunch.com, bloomberg.com, reuters.com, linkedin.com, wikipedia.org, twitter.com, x.com, facebook.com, medium.com, substack.com, forbes.com, businesswire.com, prnewswire.com, ycombinator.com. If none remain, website = null.
+- linkedin: the FIRST result URL whose hostname contains linkedin.com AND whose path starts with /company/. Otherwise null.
 Under NO circumstances run a second search for the same company.
 
 STEP 6 — NORMALIZE ROUND
