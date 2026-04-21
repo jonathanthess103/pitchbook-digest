@@ -1,0 +1,42 @@
+name: fetch-deals
+
+on:
+  schedule:
+    # 13:00 UTC weekdays = 9:00 EDT / 8:00 EST
+    # PitchBook Daily Pitch arrives in early morning ET; this runs after.
+    - cron: '0 13 * * 1-5'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - run: npm ci
+
+      - name: Run fetch-deals.js
+        env:
+          GMAIL_EMAIL: ${{ secrets.GMAIL_EMAIL }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+        run: node fetch-deals.js
+
+      - name: Commit deals.json if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet deals.json; then
+            echo "No change to deals.json"
+          else
+            git add deals.json
+            git commit -m "chore: update deals.json ($(date -u +%Y-%m-%d))"
+            git push
+          fi

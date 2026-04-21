@@ -1,0 +1,5 @@
+node_modules/
+.env
+batch*.json
+valid_deals.json
+batch*_notion_call*.json

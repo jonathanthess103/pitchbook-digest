@@ -1,0 +1,83 @@
+[
+  {
+    "company": "Upscale AI",
+    "dealSummary": "California-based Upscale AI is in talks to raise a new funding round that would value the startup at about $2 billion, Bloomberg reported.",
+    "round": null,
+    "amount": "$2 billion",
+    "leadInvestors": null,
+    "valuation": null,
+    "emailDate": "2026-04-20"
+  },
+  {
+    "company": "Factory",
+    "dealSummary": "Factory, a startup developing AI agents for software engineering, secured a $150 million Series C led by Khosla Ventures at a $1.5 billion valuation.",
+    "round": "Series C",
+    "amount": "$150 million",
+    "leadInvestors": "Khosla Ventures",
+    "valuation": "$1.5 billion",
+    "emailDate": "2026-04-20"
+  },
+  {
+    "company": "Loop",
+    "dealSummary": "Logistics platform developer Loop received a $95 million Series C led by Valor Equity Partners and the Valor Atreides AI Fund.",
+    "round": "Series C",
+    "amount": "$95 million",
+    "leadInvestors": "Valor Equity Partners, the Valor Atreides AI Fund",
+    "valuation": null,
+    "emailDate": "2026-04-20"
+  },
+  {
+    "company": "Ulysses",
+    "dealSummary": "Ulysses, a startup developing autonomous underwater robots to help restore marine habitats, raised a $38 million Series A led by Andreessen Horowitz.",
+    "round": "Series A",
+    "amount": "$38 million",
+    "leadInvestors": "Andreessen Horowitz",
+    "valuation": null,
+    "emailDate": "2026-04-20"
+  },
+  {
+    "company": "Nas.com",
+    "dealSummary": "Digital business management platform developer Nas.com secured a $27 million Series A led by Khosla Ventures.",
+    "round": "Series A",
+    "amount": "$27 million",
+    "leadInvestors": "Khosla Ventures",
+    "valuation": null,
+    "emailDate": "2026-04-20"
+  },
+  {
+    "company": "TextQL",
+    "dealSummary": "AI analytics startup TextQL raised a $17 million round led by Blackstone Innovations Investments, Fortune reported.",
+    "round": null,
+    "amount": "$17 million",
+    "leadInvestors": "Blackstone Innovations Investments",
+    "valuation": null,
+    "emailDate": "2026-04-20"
+  },
+  {
+    "company": "AlixLabs",
+    "dealSummary": "Swedish semiconductor startup AlixLabs raised a €15 million Series A from investors including Stephen Industries.",
+    "round": "Series A",
+    "amount": "€15 million",
+    "leadInvestors": "Stephen Industries",
+    "valuation": null,
+    "emailDate": "2026-04-20"
+  },
+  {
+    "company": "Zenskar",
+    "dealSummary": "Zenskar, the developer of a billing and revenue automation platform, raised a $15 million Series A led by investors including Susquehanna Venture Capital, Bessemer Venture Partners and Shine Capital.",
+    "round": "Series A",
+    "amount": "$15 million",
+    "leadInvestors": "Susquehanna Venture Capital, Bessemer Venture Partners, Shine Capital",
+    "valuation": null,
+    "emailDate": "2026-04-20"
+  },
+  {
+    "company": "Eigen",
+    "dealSummary": "Eigen, the developer of an AI companion platform, secured a $15 million seed round from Benchmark.",
+    "round": "seed",
+    "amount": "$15 million",
+    "leadInvestors": null,
+    "valuation": null,
+    "emailDate": "2026-04-20"
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "name": "pitchbook-digest",
+  "version": "1.0.0",
+  "description": "Fetches PitchBook newsletter from Gmail and extracts VC deals",
+  "main": "fetch-deals.js",
+  "scripts": {
+    "start": "node fetch-deals.js",
+    "backfill": "node fetch-deals.js --backfill"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "dotenv": "^16.0.0",
+    "imap": "^0.8.19",
+    "mailparser": "^3.6.0"
+  }
+}
