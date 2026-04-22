@@ -1,12 +1,10 @@
 name: fetch-deals
 
 on:
+  # Triggered on-demand by the Claude Routine (via workflow_dispatch API) at
+  # 6:30am PDT weekdays. No cron schedule — the routine guarantees fresh data
+  # every run instead of trusting GitHub's flaky scheduled-job timing.
   workflow_dispatch: {}
-  push:
-    branches:
-      - main
-    paths:
-      - '.trigger'
 
 permissions:
   contents: write
