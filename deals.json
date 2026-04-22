@@ -1,65 +1,56 @@
 [
   {
-    "company": "Cursor",
-    "dealSummary": "Cursor, an AI coding startup, is raising a $2 billion round from investors including Andreessen Horowitz and Thrive at a $50 billion valuation, according to reports.",
+    "company": "Project Prometheus",
+    "dealSummary": "Project Prometheus, an AI lab co-founded by Jeff Bezos, is in talks to raise a $10 billion round at a $38 billion valuation, the Financial Times reported.",
     "round": null,
-    "amount": "$2 billion",
-    "leadInvestors": "Andreessen Horowitz, Thrive",
-    "valuation": "$50 billion",
-    "emailDate": "2026-04-21"
-  },
-  {
-    "company": "Recursive Superintelligence",
-    "dealSummary": "Recursive Superintelligence, the developer of a self-teaching AI system, secured at least $500 million in a round led by GV at a $4 billion valuation, the Financial Times reported.",
-    "round": null,
-    "amount": "$500 million",
-    "leadInvestors": "GV",
-    "valuation": "$4 billion",
-    "emailDate": "2026-04-21"
-  },
-  {
-    "company": "Polymarket",
-    "dealSummary": "Prediction market platform operator Polymarket is in talks to raise $400 million at a $15 billion valuation, The Information reported.",
-    "round": null,
-    "amount": "$400 million",
+    "amount": "$10 billion",
     "leadInvestors": null,
-    "valuation": "$15 billion",
-    "emailDate": "2026-04-21"
+    "valuation": "$38 billion",
+    "emailDate": "2026-04-22"
   },
   {
-    "company": "CuspAI",
-    "dealSummary": "UK-based CuspAI, which develops AI for materials discovery, is in talks to secure a $200 million round at a valuation over $2 billion, Bloomberg reported.",
+    "company": "Sarvam",
+    "dealSummary": "India-based Sarvam is in talks to raise $320 million to $350 million in a round from investors including Nvidia, Amazon and HCLTech that would value the AI startup at around $1.5 billion, The Economic Times reported.",
     "round": null,
-    "amount": "$200 million",
-    "leadInvestors": null,
+    "amount": "$320 million",
+    "leadInvestors": "Nvidia, Amazon, HCLTech that would value the AI startup at around $1",
     "valuation": null,
-    "emailDate": "2026-04-21"
+    "emailDate": "2026-04-22"
   },
   {
-    "company": "Euclyd",
-    "dealSummary": "Netherlands-based chip startup Euclyd is in talks to raise a €100 million round, CNBC reported.",
-    "round": null,
-    "amount": "€100 million",
-    "leadInvestors": null,
-    "valuation": null,
-    "emailDate": "2026-04-21"
-  },
-  {
-    "company": "Rivan",
-    "dealSummary": "Rivan, a London-based synthetic fuel producer, received £25 million in a round led by IQ Capital.",
-    "round": null,
-    "amount": "£25 million",
-    "leadInvestors": "IQ Capital",
-    "valuation": null,
-    "emailDate": "2026-04-21"
-  },
-  {
-    "company": "Planetary",
-    "dealSummary": "Swiss advanced manufacturing fermentation startup Planetary secured almost €17 million for its Series A led by Radikal Capital.",
+    "company": "Collov Labs",
+    "dealSummary": "Collov Labs, a visual AI startup, secured a $23 million Series A from investors including Brightway Future Capital, Taihill Venture and Mindworks Capital.",
     "round": "Series A",
-    "amount": "€17 million",
-    "leadInvestors": "Radikal Capital",
+    "amount": "$23 million",
+    "leadInvestors": "Brightway Future Capital, Taihill Venture, Mindworks Capital",
     "valuation": null,
-    "emailDate": "2026-04-21"
+    "emailDate": "2026-04-22"
+  },
+  {
+    "company": "Orange Quantum Systems",
+    "dealSummary": "Dutch quantum chip testing startup Orange Quantum Systems received €3 million at the second close of its seed round from investors including the European Innovation Council Fund, bringing the total for the round to €15 million.",
+    "round": "seed",
+    "amount": "€3 million",
+    "leadInvestors": "the European Innovation Council Fund",
+    "valuation": null,
+    "emailDate": "2026-04-22"
+  },
+  {
+    "company": "VisioLab",
+    "dealSummary": "VisioLab, the German developer of an AI self-checkout system, raised an $11 million Series A led by eCapital Entrepreneurial Partners and Simon Capital.",
+    "round": "Series A",
+    "amount": "$11 million",
+    "leadInvestors": "eCapital Entrepreneurial Partners, Simon Capital",
+    "valuation": null,
+    "emailDate": "2026-04-22"
+  },
+  {
+    "company": "Smart Robotics",
+    "dealSummary": "Smart Robotics, a Netherlands-based company focused on intralogistics automation, secured €10 million Series A led by Rotterdamse Havendraken.",
+    "round": "Series A",
+    "amount": "€10 million",
+    "leadInvestors": "Rotterdamse Havendraken",
+    "valuation": null,
+    "emailDate": "2026-04-22"
   }
 ]
