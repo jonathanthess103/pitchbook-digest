@@ -1,56 +1,92 @@
 [
   {
-    "company": "Project Prometheus",
-    "dealSummary": "Project Prometheus, an AI lab co-founded by Jeff Bezos, is in talks to raise a $10 billion round at a $38 billion valuation, the Financial Times reported.",
+    "company": "Vast Data",
+    "dealSummary": "Vast Data, the developer of AI data storage software, raised a $1 billion Series F led by Drive Capital and Access Industries at a $30 billion valuation.",
+    "round": "Series F",
+    "amount": "$1 billion",
+    "leadInvestors": "Drive Capital, Access Industries",
+    "valuation": "$30 billion",
+    "emailDate": "2026-04-23"
+  },
+  {
+    "company": "Blue Energy",
+    "dealSummary": "Nuclear power plant startup Blue Energy secured a $380 million round led by VXI Capital and Engine Ventures.",
     "round": null,
-    "amount": "$10 billion",
-    "leadInvestors": null,
-    "valuation": "$38 billion",
-    "emailDate": "2026-04-22"
+    "amount": "$380 million",
+    "leadInvestors": "VXI Capital, Engine Ventures",
+    "valuation": null,
+    "emailDate": "2026-04-23"
   },
   {
-    "company": "Sarvam",
-    "dealSummary": "India-based Sarvam is in talks to raise $320 million to $350 million in a round from investors including Nvidia, Amazon and HCLTech that would value the AI startup at around $1.5 billion, The Economic Times reported.",
+    "company": "Reliable Robotics",
+    "dealSummary": "Autonomous aircraft system provider Reliable Robotics received a $160 million round led by Nimble Partners.",
     "round": null,
-    "amount": "$320 million",
-    "leadInvestors": "Nvidia, Amazon, HCLTech that would value the AI startup at around $1",
+    "amount": "$160 million",
+    "leadInvestors": "Nimble Partners",
     "valuation": null,
-    "emailDate": "2026-04-22"
+    "emailDate": "2026-04-23"
   },
   {
-    "company": "Collov Labs",
-    "dealSummary": "Collov Labs, a visual AI startup, secured a $23 million Series A from investors including Brightway Future Capital, Taihill Venture and Mindworks Capital.",
-    "round": "Series A",
-    "amount": "$23 million",
-    "leadInvestors": "Brightway Future Capital, Taihill Venture, Mindworks Capital",
+    "company": "Ray Therapeutics",
+    "dealSummary": "Ray Therapeutics, a biopharma startup focused on retinal diseases, raised a $125 million Series B led by Janus Henderson Investors.",
+    "round": "Series B",
+    "amount": "$125 million",
+    "leadInvestors": "Janus Henderson Investors",
     "valuation": null,
-    "emailDate": "2026-04-22"
+    "emailDate": "2026-04-23"
   },
   {
-    "company": "Orange Quantum Systems",
-    "dealSummary": "Dutch quantum chip testing startup Orange Quantum Systems received €3 million at the second close of its seed round from investors including the European Innovation Council Fund, bringing the total for the round to €15 million.",
+    "company": "Courier Health",
+    "dealSummary": "Healthtech startup Courier Health raised a $50 million Series B led by Oak HC/FT.",
+    "round": "Series B",
+    "amount": "$50 million",
+    "leadInvestors": "Oak HC/FT",
+    "valuation": null,
+    "emailDate": "2026-04-23"
+  },
+  {
+    "company": "AI research lab NeoCognition",
+    "dealSummary": "AI research lab NeoCognition secured a $40 million seed round led by Cambium Capital and Walden Catalyst Ventures.",
     "round": "seed",
-    "amount": "€3 million",
-    "leadInvestors": "the European Innovation Council Fund",
+    "amount": "$40 million",
+    "leadInvestors": "Cambium Capital, Walden Catalyst Ventures",
     "valuation": null,
-    "emailDate": "2026-04-22"
+    "emailDate": "2026-04-23"
   },
   {
-    "company": "VisioLab",
-    "dealSummary": "VisioLab, the German developer of an AI self-checkout system, raised an $11 million Series A led by eCapital Entrepreneurial Partners and Simon Capital.",
-    "round": "Series A",
-    "amount": "$11 million",
-    "leadInvestors": "eCapital Entrepreneurial Partners, Simon Capital",
+    "company": "Afresh",
+    "dealSummary": "Afresh, the developer of an AI platform for grocery stores, raised a $34 million round led by Just Climate and High Sage Ventures.",
+    "round": null,
+    "amount": "$34 million",
+    "leadInvestors": "Just Climate, High Sage Ventures",
     "valuation": null,
-    "emailDate": "2026-04-22"
+    "emailDate": "2026-04-23"
   },
   {
-    "company": "Smart Robotics",
-    "dealSummary": "Smart Robotics, a Netherlands-based company focused on intralogistics automation, secured €10 million Series A led by Rotterdamse Havendraken.",
+    "company": "Monk",
+    "dealSummary": "Monk, the developer of an AI accounts receivable platform, received a $25 million Series A led by Footwork and Acrew Capital.",
     "round": "Series A",
-    "amount": "€10 million",
-    "leadInvestors": "Rotterdamse Havendraken",
+    "amount": "$25 million",
+    "leadInvestors": "Footwork, Acrew Capital",
     "valuation": null,
-    "emailDate": "2026-04-22"
+    "emailDate": "2026-04-23"
+  },
+  {
+    "company": "Mosaic",
+    "dealSummary": "Mosaic, which develops a deal-modeling platform for private markets secured an $18 million Series A led by Radical Ventures.",
+    "round": "Series A",
+    "amount": "$18 million",
+    "leadInvestors": "Radical Ventures",
+    "valuation": null,
+    "emailDate": "2026-04-23"
+  },
+  {
+    "company": "Atmos Space Cargo",
+    "dealSummary": "Atmos Space Cargo, a German orbital transport developer, raised a €25.7 million series A co-led by Balnord and Expansion.",
+    "round": "series A",
+    "amount": "€25.7 million",
+    "leadInvestors": "Balnord, Expansion",
+    "valuation": null,
+    "emailDate": "2026-04-23"
   }
 ]
