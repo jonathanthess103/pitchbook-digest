@@ -5,9 +5,6 @@ on:
   # 6:30am PDT weekdays. No cron schedule — the routine guarantees fresh data
   # every run instead of trusting GitHub's flaky scheduled-job timing.
   workflow_dispatch: {}
-  push:
-    branches: [main]
-    paths: ['.trigger-fetch']
 
 permissions:
   contents: write
