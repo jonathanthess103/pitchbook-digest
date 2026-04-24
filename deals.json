@@ -1,92 +1,65 @@
 [
   {
-    "company": "Vast Data",
-    "dealSummary": "Vast Data, the developer of AI data storage software, raised a $1 billion Series F led by Drive Capital and Access Industries at a $30 billion valuation.",
-    "round": "Series F",
-    "amount": "$1 billion",
-    "leadInvestors": "Drive Capital, Access Industries",
-    "valuation": "$30 billion",
-    "emailDate": "2026-04-23"
+    "company": "San Francisco-based Omni",
+    "dealSummary": "San Francisco-based Omni, an AI analytics startup, raised a $120 million Series C at a $1.5 billion valuation led by Iconiq Capital.",
+    "round": "Series C",
+    "amount": "$120 million",
+    "leadInvestors": "Iconiq Capital",
+    "valuation": "$1.5 billion",
+    "emailDate": "2026-04-24"
   },
   {
-    "company": "Blue Energy",
-    "dealSummary": "Nuclear power plant startup Blue Energy secured a $380 million round led by VXI Capital and Engine Ventures.",
-    "round": null,
-    "amount": "$380 million",
-    "leadInvestors": "VXI Capital, Engine Ventures",
-    "valuation": null,
-    "emailDate": "2026-04-23"
-  },
-  {
-    "company": "Reliable Robotics",
-    "dealSummary": "Autonomous aircraft system provider Reliable Robotics received a $160 million round led by Nimble Partners.",
-    "round": null,
-    "amount": "$160 million",
-    "leadInvestors": "Nimble Partners",
-    "valuation": null,
-    "emailDate": "2026-04-23"
-  },
-  {
-    "company": "Ray Therapeutics",
-    "dealSummary": "Ray Therapeutics, a biopharma startup focused on retinal diseases, raised a $125 million Series B led by Janus Henderson Investors.",
-    "round": "Series B",
-    "amount": "$125 million",
-    "leadInvestors": "Janus Henderson Investors",
-    "valuation": null,
-    "emailDate": "2026-04-23"
-  },
-  {
-    "company": "Courier Health",
-    "dealSummary": "Healthtech startup Courier Health raised a $50 million Series B led by Oak HC/FT.",
-    "round": "Series B",
-    "amount": "$50 million",
-    "leadInvestors": "Oak HC/FT",
-    "valuation": null,
-    "emailDate": "2026-04-23"
-  },
-  {
-    "company": "AI research lab NeoCognition",
-    "dealSummary": "AI research lab NeoCognition secured a $40 million seed round led by Cambium Capital and Walden Catalyst Ventures.",
+    "company": "Tortugas Neuroscience",
+    "dealSummary": "Tortugas Neuroscience, a biotech startup focused on neurology, raised $106 million in seed and Series A funding.",
     "round": "seed",
-    "amount": "$40 million",
-    "leadInvestors": "Cambium Capital, Walden Catalyst Ventures",
+    "amount": "$106 million",
+    "leadInvestors": null,
     "valuation": null,
-    "emailDate": "2026-04-23"
+    "emailDate": "2026-04-24"
   },
   {
-    "company": "Afresh",
-    "dealSummary": "Afresh, the developer of an AI platform for grocery stores, raised a $34 million round led by Just Climate and High Sage Ventures.",
+    "company": "The seed round was led by Cure Ventures",
+    "dealSummary": "The seed round was led by Cure Ventures, which also led the Series A alongside The Column Group, and AN Venture Partners. Cloudsmith, a UK-based artifact management specialist, raised a $72 million Series C led by TCV.",
+    "round": "seed",
+    "amount": "$72 million",
+    "leadInvestors": "Cure Ventures, which also led the Series A alongside The Column Group,, AN Venture Partners",
+    "valuation": null,
+    "emailDate": "2026-04-24"
+  },
+  {
+    "company": "Orkes",
+    "dealSummary": "Orkes, a workflow orchestration startup, raised a $60 million Series B led by AVP.",
+    "round": "Series B",
+    "amount": "$60 million",
+    "leadInvestors": "AVP",
+    "valuation": null,
+    "emailDate": "2026-04-24"
+  },
+  {
+    "company": "Univity",
+    "dealSummary": "Paris-based space infrastructure developer Univity received a €27 million Series A from investors including Blast Club, Bpifrance and Expansion Ventures.",
+    "round": "Series A",
+    "amount": "€27 million",
+    "leadInvestors": "Blast Club, Bpifrance, Expansion Ventures",
+    "valuation": null,
+    "emailDate": "2026-04-24"
+  },
+  {
+    "company": "Decade Energy",
+    "dealSummary": "Decade Energy, a Paris-based startup building power infrastructure at logistics depots, raised €22 million in a round led by Eiffel Investment Group and SET Ventures.",
     "round": null,
-    "amount": "$34 million",
-    "leadInvestors": "Just Climate, High Sage Ventures",
+    "amount": "€22 million",
+    "leadInvestors": "Eiffel Investment Group, SET Ventures",
     "valuation": null,
-    "emailDate": "2026-04-23"
+    "emailDate": "2026-04-24"
   },
   {
-    "company": "Monk",
-    "dealSummary": "Monk, the developer of an AI accounts receivable platform, received a $25 million Series A led by Footwork and Acrew Capital.",
-    "round": "Series A",
-    "amount": "$25 million",
-    "leadInvestors": "Footwork, Acrew Capital",
+    "company": "specialty coffee distributor Incapto",
+    "dealSummary": "Barcelona-based specialty coffee distributor Incapto secured a €10 million Series B led by McWin Capital Partners.",
+    "round": "Series B",
+    "amount": "€10 million",
+    "leadInvestors": "McWin Capital Partners",
     "valuation": null,
-    "emailDate": "2026-04-23"
-  },
-  {
-    "company": "Mosaic",
-    "dealSummary": "Mosaic, which develops a deal-modeling platform for private markets secured an $18 million Series A led by Radical Ventures.",
-    "round": "Series A",
-    "amount": "$18 million",
-    "leadInvestors": "Radical Ventures",
-    "valuation": null,
-    "emailDate": "2026-04-23"
-  },
-  {
-    "company": "Atmos Space Cargo",
-    "dealSummary": "Atmos Space Cargo, a German orbital transport developer, raised a €25.7 million series A co-led by Balnord and Expansion.",
-    "round": "series A",
-    "amount": "€25.7 million",
-    "leadInvestors": "Balnord, Expansion",
-    "valuation": null,
-    "emailDate": "2026-04-23"
+    "emailDate": "2026-04-24"
   }
 ]
