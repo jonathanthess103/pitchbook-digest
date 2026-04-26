@@ -75,9 +75,6 @@ function fetchMessage(imap, uid) {
 
 // ─── Parsing ─────────────────────────────────────────────────────────────────
 
-const SECTION_PATTERN = /^(VC\s+DEALS?|VENTURE\s+(?:CAPITAL\s+)?DEALS?)/i;
-const NEXT_SECTION_PATTERN = /^(PE\s+DEALS?|M&A|EXITS?|FUNDS?|PEOPLE|CHART|STAT|QUOTE|SPONSOR|ADVERTI)/i;
-
 function extractVcDeals(html, emailDate) {
   const $ = cheerio.load(html);
 
@@ -95,20 +92,23 @@ function extractVcDeals(html, emailDate) {
   const sectionText = sectionMatch[1].trim();
 
   // Split the section into individual deals.
-  // Deals are separated by ". " or "." before a capital letter.
-  // Accumulate sentences until we have one that contains a dollar amount (= complete deal).
+  // Accumulate sentences until we have one that contains a currency amount (= complete deal).
+  // Skip investor-context sentences ("The seed round was led by…") that trail a prior deal.
+  const INVESTOR_CTX_RE = /^The\s+\w[\w\s-]*?\s+round\s+was\s+/i;
   const sentences = sectionText.split(/(?<=\.)\s*(?=[A-Z])/);
   const dealTexts = [];
   let buffer = '';
 
   for (const sentence of sentences) {
-    buffer = buffer ? `${buffer} ${sentence.trim()}` : sentence.trim();
-    if (/[$€£¥][\d,.]+\s*(million|billion)/i.test(buffer)) {
+    const s = sentence.trim();
+    if (!buffer && INVESTOR_CTX_RE.test(s)) continue;
+    buffer = buffer ? `${buffer} ${s}` : s;
+    if (AMOUNT_RE.test(buffer)) {
       dealTexts.push(buffer);
       buffer = '';
     }
   }
-  if (buffer && /[$€£¥][\d,.]+\s*(million|billion)/i.test(buffer)) {
+  if (buffer && AMOUNT_RE.test(buffer)) {
     dealTexts.push(buffer);
   }
 
@@ -125,9 +125,9 @@ const FROM_RE = /(?:raised?|received?|secured?)\s+\$[\d,.]+ \w+ (?:\w+ )?from\s+
 const VALUATION_RE = /at\s+a\s+(\$[\d,.]+\s*(?:million|billion))\s+valuation/i;
 
 // Words used to categorise companies — stripped as prefixes
-const TYPE_WORDS = 'fintech|startup|company|firm|developer|provider|platform|maker|operator|group|insurer|lender|bank|venture';
+const TYPE_WORDS = 'fintech|startup|company|firm|developer|provider|platform|maker|operator|group|insurer|lender|bank|venture|specialist|lab|distributor';
 const PREFIX_RE = new RegExp(
-  `^(?:[\\w-]+-based\\s+)?(?:\\w+\\s+)*(?:${TYPE_WORDS})\\s+`,
+  `^(?:(?:\\w+\\s+)*\\w+-based\\s+)?(?:\\w+\\s+)*(?:${TYPE_WORDS})\\s+`,
   'i'
 );
 
@@ -135,7 +135,7 @@ function cleanCompany(raw) {
   return raw
     .replace(/,\s+(?:a|an|the|which|that|who)\s+.+$/i, '') // strip appositives/clauses
     .replace(PREFIX_RE, '')                                  // strip descriptor prefix
-    .replace(/^[\w-]+-based\s+/i, '')                       // strip any remaining "X-based "
+    .replace(/^(?:\w+\s+)*\w+-based\s+/i, '')               // strip any remaining "City Name-based "
     .replace(/,\s*$/, '')
     .trim();
 }
@@ -153,9 +153,9 @@ function parseDeal(text, emailDate) {
   const rawInvestors = ledByMatch ? ledByMatch[1].replace(/\s+and\s+/g, ', ').trim() : null;
 
   return {
-    company: company.replace(/,\s*$/, '').trim(),
+    company,
     dealSummary: text,
-    round: roundMatch ? roundMatch[1].trim() : null,
+    round: roundMatch ? roundMatch[1].replace(/^\w/, c => c.toUpperCase()) : null,
     amount: amountMatch ? `${amountMatch[1]}${amountMatch[2]} ${amountMatch[3].toLowerCase()}` : null,
     leadInvestors: rawInvestors ? rawInvestors.replace(/,\s*\w+\s+reported\.?$/i, '').trim() : null,
     valuation: valuationMatch ? valuationMatch[1].trim() : null,
