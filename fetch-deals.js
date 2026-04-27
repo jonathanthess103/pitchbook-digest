@@ -24,7 +24,7 @@ const SENDER = 'news-noreply@news.pitchbook.com';
 const OUTPUT_FILE = path.join(__dirname, 'deals.json');
 const BACKFILL_MODE = process.argv.includes('--backfill');
 
-// ─── IMAP helpers ────────────────────────────────────────────────────────────
+// ─── IMAP helpers ───────────────────────────────────────────────────
 
 function connectImap() {
   return new Imap({
@@ -73,10 +73,32 @@ function fetchMessage(imap, uid) {
   });
 }
 
-// ─── Parsing ─────────────────────────────────────────────────────────────────
+// ─── Parsing ──────────────────────────────────────────────────────────────
 
-const SECTION_PATTERN = /^(VC\s+DEALS?|VENTURE\s+(?:CAPITAL\s+)?DEALS?)/i;
-const NEXT_SECTION_PATTERN = /^(PE\s+DEALS?|M&A|EXITS?|FUNDS?|PEOPLE|CHART|STAT|QUOTE|SPONSOR|ADVERTI)/i;
+const ET_DATE_FMT = new Intl.DateTimeFormat('en-CA', { timeZone: 'America/New_York', year: 'numeric', month: '2-digit', day: '2-digit' });
+function formatEtDate(d) { return ET_DATE_FMT.format(d); }
+
+const AMOUNT_RE = /([€£¥$])([\d,.]+)\s*(million|billion|M\b|B\b)/i;
+const ROUND_RE = /\b(Series\s+[A-F]|Seed|Pre-Seed|Pre-seed|Growth|Late[\s-]stage|Early[\s-]stage|Bridge)\b/i;
+const LED_BY_RE = /(?:led\s+by|from\s+investors?\s+(?:including|such\s+as|led\s+by))\s+(?:investors?\s+including\s+)?(.+?)(?:\s+at\s+a\s+\$|\s+at\s+a\s+valuation|\.|,\s+bringing|$)/i;
+const FROM_RE = /(?:raised?|received?|secured?)\s+\$[\d,.]+ \w+ (?:\w+ )?from\s+([A-Z][A-Za-z\s,]+?(?:\s+and\s+[A-Z][A-Za-z\s]+?)?)(?:\s+at\s+a|\s+in\s+a|\s+to\s+|\.|$)/;
+const VALUATION_RE = /at\s+a\s+(\$[\d,.]+\s*(?:million|billion))\s+valuation/i;
+
+// Words used to categorise companies — stripped as prefixes
+const TYPE_WORDS = 'fintech|startup|company|firm|developer|provider|platform|maker|operator|group|insurer|lender|bank|venture|distributor|specialist|manufacturer|retailer|servicer|processor|lab';
+const PREFIX_RE = new RegExp(
+  `^(?:\\w+\\s+)*(?:${TYPE_WORDS})\\s+`,
+  'i'
+);
+
+function cleanCompany(raw) {
+  return raw
+    .replace(/,\s+(?:a|an|the|which|that|who)\s+.+$/i, '') // strip appositives/clauses
+    .replace(/^.+?-based\s+/i, '')                          // strip "City-based " / "San Francisco-based "
+    .replace(PREFIX_RE, '')                                  // strip descriptor prefix
+    .replace(/,\s*$/, '')
+    .trim();
+}
 
 function extractVcDeals(html, emailDate) {
   const $ = cheerio.load(html);
@@ -95,49 +117,27 @@ function extractVcDeals(html, emailDate) {
   const sectionText = sectionMatch[1].trim();
 
   // Split the section into individual deals.
-  // Deals are separated by ". " or "." before a capital letter.
-  // Accumulate sentences until we have one that contains a dollar amount (= complete deal).
+  // Accumulate sentences until we have one that contains a currency amount (= complete deal).
+  // Skip continuation sentences ("The seed round was led by…", "It closed…") that trail a prior deal.
+  const CONTINUATION_RE = /^(The\s+(seed|series\s+[a-f]|round|funding|investment|raise|lead|capital|financing|deal)\b|It\s+(will|has|closed|raised|is)\b|Its\s+|Their\s+|They\s+)/i;
   const sentences = sectionText.split(/(?<=\.)\s*(?=[A-Z])/);
   const dealTexts = [];
   let buffer = '';
 
   for (const sentence of sentences) {
-    buffer = buffer ? `${buffer} ${sentence.trim()}` : sentence.trim();
-    if (/[$€£¥][\d,.]+\s*(million|billion)/i.test(buffer)) {
+    const s = sentence.trim();
+    if (!buffer && CONTINUATION_RE.test(s)) continue;
+    buffer = buffer ? `${buffer} ${s}` : s;
+    if (AMOUNT_RE.test(buffer)) {
       dealTexts.push(buffer);
       buffer = '';
     }
   }
-  if (buffer && /[$€£¥][\d,.]+\s*(million|billion)/i.test(buffer)) {
+  if (buffer && AMOUNT_RE.test(buffer)) {
     dealTexts.push(buffer);
   }
 
   return dealTexts.map((text) => parseDeal(text, emailDate)).filter(Boolean);
-}
-
-const ET_DATE_FMT = new Intl.DateTimeFormat('en-CA', { timeZone: 'America/New_York', year: 'numeric', month: '2-digit', day: '2-digit' });
-function formatEtDate(d) { return ET_DATE_FMT.format(d); }
-
-const AMOUNT_RE = /([€£¥$])([\d,.]+)\s*(million|billion|M\b|B\b)/i;
-const ROUND_RE = /\b(Series\s+[A-F]|Seed|Pre-Seed|Pre-seed|Growth|Late[\s-]stage|Early[\s-]stage|Bridge)\b/i;
-const LED_BY_RE = /(?:led\s+by|from\s+investors?\s+(?:including|such\s+as|led\s+by))\s+(?:investors?\s+including\s+)?(.+?)(?:\s+at\s+a\s+\$|\s+at\s+a\s+valuation|\.|,\s+bringing|$)/i;
-const FROM_RE = /(?:raised?|received?|secured?)\s+\$[\d,.]+ \w+ (?:\w+ )?from\s+([A-Z][A-Za-z\s,]+?(?:\s+and\s+[A-Z][A-Za-z\s]+?)?)(?:\s+at\s+a|\s+in\s+a|\s+to\s+|\.|$)/;
-const VALUATION_RE = /at\s+a\s+(\$[\d,.]+\s*(?:million|billion))\s+valuation/i;
-
-// Words used to categorise companies — stripped as prefixes
-const TYPE_WORDS = 'fintech|startup|company|firm|developer|provider|platform|maker|operator|group|insurer|lender|bank|venture';
-const PREFIX_RE = new RegExp(
-  `^(?:[\\w-]+-based\\s+)?(?:\\w+\\s+)*(?:${TYPE_WORDS})\\s+`,
-  'i'
-);
-
-function cleanCompany(raw) {
-  return raw
-    .replace(/,\s+(?:a|an|the|which|that|who)\s+.+$/i, '') // strip appositives/clauses
-    .replace(PREFIX_RE, '')                                  // strip descriptor prefix
-    .replace(/^[\w-]+-based\s+/i, '')                       // strip any remaining "X-based "
-    .replace(/,\s*$/, '')
-    .trim();
 }
 
 function parseDeal(text, emailDate) {
@@ -153,9 +153,9 @@ function parseDeal(text, emailDate) {
   const rawInvestors = ledByMatch ? ledByMatch[1].replace(/\s+and\s+/g, ', ').trim() : null;
 
   return {
-    company: company.replace(/,\s*$/, '').trim(),
+    company,
     dealSummary: text,
-    round: roundMatch ? roundMatch[1].trim() : null,
+    round: roundMatch ? roundMatch[1].replace(/^\w/, c => c.toUpperCase()) : null,
     amount: amountMatch ? `${amountMatch[1]}${amountMatch[2]} ${amountMatch[3].toLowerCase()}` : null,
     leadInvestors: rawInvestors ? rawInvestors.replace(/,\s*\w+\s+reported\.?$/i, '').trim() : null,
     valuation: valuationMatch ? valuationMatch[1].trim() : null,
@@ -163,7 +163,7 @@ function parseDeal(text, emailDate) {
   };
 }
 
-// ─── Main ─────────────────────────────────────────────────────────────────────
+// ─── Main ─────────────────────────────────────────────────────────────────
 
 async function main() {
   if (!process.env.GMAIL_EMAIL || !process.env.GMAIL_APP_PASSWORD) {

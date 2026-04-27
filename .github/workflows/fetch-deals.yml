@@ -1,9 +1,13 @@
 name: fetch-deals
 
 on:
-  # Triggered on-demand by the Claude Routine (via workflow_dispatch API) at
-  # 6:30am PDT weekdays. No cron schedule — the routine guarantees fresh data
-  # every run instead of trusting GitHub's flaky scheduled-job timing.
+  schedule:
+    # Newsletter arrives 11:00-12:00 UTC; routine fires at 13:30 UTC.
+    # 12:00 run catches it every time; 12:30 and 13:00 are safety nets.
+    # Each run no-ops if deals.json is already current.
+    - cron: '0 12 * * 1-5'   # 5:00am PDT / 8:00am EDT
+    - cron: '30 12 * * 1-5'  # 5:30am PDT / 8:30am EDT
+    - cron: '0 13 * * 1-5'   # 6:00am PDT / 9:00am EDT
   workflow_dispatch: {}
 
 permissions:
