@@ -1,65 +1,29 @@
 [
   {
-    "company": "San Francisco-based Omni",
-    "dealSummary": "San Francisco-based Omni, an AI analytics startup, raised a $120 million Series C at a $1.5 billion valuation led by Iconiq Capital.",
-    "round": "Series C",
-    "amount": "$120 million",
-    "leadInvestors": "Iconiq Capital",
-    "valuation": "$1.5 billion",
-    "emailDate": "2026-04-24"
-  },
-  {
-    "company": "Tortugas Neuroscience",
-    "dealSummary": "Tortugas Neuroscience, a biotech startup focused on neurology, raised $106 million in seed and Series A funding.",
-    "round": "seed",
-    "amount": "$106 million",
-    "leadInvestors": null,
-    "valuation": null,
-    "emailDate": "2026-04-24"
-  },
-  {
-    "company": "The seed round was led by Cure Ventures",
-    "dealSummary": "The seed round was led by Cure Ventures, which also led the Series A alongside The Column Group, and AN Venture Partners. Cloudsmith, a UK-based artifact management specialist, raised a $72 million Series C led by TCV.",
-    "round": "seed",
-    "amount": "$72 million",
-    "leadInvestors": "Cure Ventures, which also led the Series A alongside The Column Group,, AN Venture Partners",
-    "valuation": null,
-    "emailDate": "2026-04-24"
-  },
-  {
-    "company": "Orkes",
-    "dealSummary": "Orkes, a workflow orchestration startup, raised a $60 million Series B led by AVP.",
-    "round": "Series B",
-    "amount": "$60 million",
-    "leadInvestors": "AVP",
-    "valuation": null,
-    "emailDate": "2026-04-24"
-  },
-  {
-    "company": "Univity",
-    "dealSummary": "Paris-based space infrastructure developer Univity received a €27 million Series A from investors including Blast Club, Bpifrance and Expansion Ventures.",
-    "round": "Series A",
-    "amount": "€27 million",
-    "leadInvestors": "Blast Club, Bpifrance, Expansion Ventures",
-    "valuation": null,
-    "emailDate": "2026-04-24"
-  },
-  {
-    "company": "Decade Energy",
-    "dealSummary": "Decade Energy, a Paris-based startup building power infrastructure at logistics depots, raised €22 million in a round led by Eiffel Investment Group and SET Ventures.",
+    "company": "Cognition",
+    "dealSummary": "San Francisco-based Cognition, an AI coding startup, is in talks to raise new funding at a $25 billion valuation, Bloomberg reported.",
     "round": null,
-    "amount": "€22 million",
-    "leadInvestors": "Eiffel Investment Group, SET Ventures",
-    "valuation": null,
-    "emailDate": "2026-04-24"
+    "amount": "$25 billion",
+    "leadInvestors": null,
+    "valuation": "$25 billion",
+    "emailDate": "2026-04-27"
   },
   {
-    "company": "specialty coffee distributor Incapto",
-    "dealSummary": "Barcelona-based specialty coffee distributor Incapto secured a €10 million Series B led by McWin Capital Partners.",
-    "round": "Series B",
-    "amount": "€10 million",
-    "leadInvestors": "McWin Capital Partners",
+    "company": "Verda",
+    "dealSummary": "Helsinki-based AI cloud infrastructure startup Verda raised $117 million in equity and debt in a round led by Lifeline Ventures.",
+    "round": null,
+    "amount": "$117 million",
+    "leadInvestors": "Lifeline Ventures",
     "valuation": null,
-    "emailDate": "2026-04-24"
+    "emailDate": "2026-04-27"
+  },
+  {
+    "company": "Salmon",
+    "dealSummary": "Salmon, a Philippines-based fintech startup, has raised $100 million in new funding, consisting of $40 million in debt and $60 million in equity from investors including Spice Expeditions, FJ Labs and Moore Strategic Ventures.",
+    "round": null,
+    "amount": "$100 million",
+    "leadInvestors": "Spice Expeditions, FJ Labs, Moore Strategic Ventures",
+    "valuation": null,
+    "emailDate": "2026-04-27"
   }
 ]
