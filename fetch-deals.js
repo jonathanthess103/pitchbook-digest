@@ -101,8 +101,16 @@ function extractVcDeals(html, emailDate) {
   const dealTexts = [];
   let buffer = '';
 
+  // Sentences starting with these patterns are continuations of the previous deal
+  // (e.g. "The seed round was led by…") and must not seed a new deal buffer.
+  const CONTINUATION_RE = /^(The\s+(seed|series\s+[a-f]|round|funding|investment|raise|lead|capital|financing|deal)\b|It\s+(will|has|closed|raised|is)\b|Its\s+|Their\s+|They\s+)/i;
+
   for (const sentence of sentences) {
-    buffer = buffer ? `${buffer} ${sentence.trim()}` : sentence.trim();
+    const trimmed = sentence.trim();
+    if (!buffer && CONTINUATION_RE.test(trimmed)) {
+      continue;
+    }
+    buffer = buffer ? `${buffer} ${trimmed}` : trimmed;
     if (/[$€£¥][\d,.]+\s*(million|billion)/i.test(buffer)) {
       dealTexts.push(buffer);
       buffer = '';
@@ -125,17 +133,17 @@ const FROM_RE = /(?:raised?|received?|secured?)\s+\$[\d,.]+ \w+ (?:\w+ )?from\s+
 const VALUATION_RE = /at\s+a\s+(\$[\d,.]+\s*(?:million|billion))\s+valuation/i;
 
 // Words used to categorise companies — stripped as prefixes
-const TYPE_WORDS = 'fintech|startup|company|firm|developer|provider|platform|maker|operator|group|insurer|lender|bank|venture';
+const TYPE_WORDS = 'fintech|startup|company|firm|developer|provider|platform|maker|operator|group|insurer|lender|bank|venture|distributor|specialist|manufacturer|retailer|servicer|processor';
 const PREFIX_RE = new RegExp(
-  `^(?:[\\w-]+-based\\s+)?(?:\\w+\\s+)*(?:${TYPE_WORDS})\\s+`,
+  `^(?:\\w+\\s+)*(?:${TYPE_WORDS})\\s+`,
   'i'
 );
 
 function cleanCompany(raw) {
   return raw
     .replace(/,\s+(?:a|an|the|which|that|who)\s+.+$/i, '') // strip appositives/clauses
+    .replace(/^.+?-based\s+/i, '')                          // strip "City-based " / "San Francisco-based "
     .replace(PREFIX_RE, '')                                  // strip descriptor prefix
-    .replace(/^[\w-]+-based\s+/i, '')                       // strip any remaining "X-based "
     .replace(/,\s*$/, '')
     .trim();
 }
