@@ -3,11 +3,14 @@ name: fetch-deals
 on:
   schedule:
     # Multiple attempts to catch the newsletter whenever it lands.
-    # Routine fires at 13:30 UTC (6:30am PDT). We run at 12:00, 12:30, 13:00 UTC.
+    # Routine fires at 13:30 UTC (6:30am PDT). Final run at 13:25 ensures
+    # deals.json is fresh before the routine reads it, making the
+    # workflow_dispatch in STEP 1 redundant (the MCP connector can't do it).
     # Each run no-ops if deals.json is unchanged.
     - cron: '0 12 * * 1-5'   # 5:00am PDT / 8:00am EDT
     - cron: '30 12 * * 1-5'  # 5:30am PDT / 8:30am EDT
     - cron: '0 13 * * 1-5'   # 6:00am PDT / 9:00am EDT
+    - cron: '25 13 * * 1-5'  # 6:25am PDT / 9:25am EDT  ← 5 min before routine
   workflow_dispatch: {}
 
 permissions:
