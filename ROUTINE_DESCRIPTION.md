@@ -34,7 +34,13 @@ STEP 4 — FILTER TO TODAY
 Compute today's date as YYYY-MM-DD in the America/New_York timezone (the parser uses ET because PitchBook is a US business newsletter). Keep only deals where emailDate equals that string. If the filtered list is empty, stop and output: "No PitchBook newsletter for today." Do not proceed.
 
 STEP 5 — DEDUPE AGAINST NOTION
-Call notion-query-data-sources with data_source_id "aaf6122d-9bb0-4d30-944b-fb734db55ba0" and a filter that the Date property equals today. For each result, build a key = lower(Company) + "|" + emailDate + "|" + Amount. Collect into a set ALREADY_WRITTEN. Remove from your filtered list any deal whose own key is in ALREADY_WRITTEN.
+Call notion-search with:
+  query = today's date string (YYYY-MM-DD, e.g. "2026-04-27")
+  data_source_url = "collection://aaf6122d-9bb0-4d30-944b-fb734db55ba0"
+  page_size = 25
+  max_highlight_length = 0
+For each result, build a key = lower(Company field) + "|" + date + "|" + Amount. Collect into a set ALREADY_WRITTEN. Remove from your filtered list any deal whose own key is in ALREADY_WRITTEN.
+If notion-search returns any error, set ALREADY_WRITTEN = {} (empty — assume no duplicates), add "dedup unavailable" to the report line, and continue.
 
 STEP 6 — ENRICH WITH ONE WEB SEARCH PER DEAL
 For each remaining deal, perform EXACTLY ONE WebSearch with the query: "{company}" official website linkedin
@@ -75,3 +81,5 @@ HARD CONSTRAINTS
 - Never fabricate URLs — if extraction fails, leave the field null.
 - Never use the collection:// prefix when calling notion-create-pages.
 - Never claim to have "waited" between steps. Advancing past step 2 requires a real successful poll of the GitHub API, not a simulated pause.
+- HTTP 400 from any tool means bad request — do NOT retry the same call or a cosmetic variation. Treat it as a hard failure for that approach and immediately use the documented fallback or safe default. Only HTTP 429 / 503 / network errors warrant retries.
+- Identical errors from the same tool call mean the approach is wrong, not the attempt count. If you receive the same error twice from any single approach, stop that approach, note the diagnosis in your report, and move on.
