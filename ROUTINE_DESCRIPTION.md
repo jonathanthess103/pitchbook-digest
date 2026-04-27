@@ -1,8 +1,17 @@
-# Paste this into the Routines "Description" field
+# HOW THIS FILE WORKS (read before editing)
+#
+# The SOURCE OF TRUTH for the routine is the text in the Routines instruction
+# box in the platform — not this file. This file exists so Claude can read and
+# edit the routine instructions in a normal git workflow.
+#
+# Any time a change is made to this file, Claude must ALSO paste the revised
+# instruction text (everything below the --- line) into the chat so the user
+# can copy it into the Routines platform.
+#
 # Routine name: PitchBook VC Deals — Notion writer
-# Repository: jonathanthess103/pitchbook-digest
-# Trigger: Schedule — `30 13 * * 1-5` UTC (= 6:30am PDT weekdays)
-# Connectors: Notion + the GitHub connection that comes with the attached repo
+# Repository:   jonathanthess103/pitchbook-digest
+# Trigger:      Schedule — `30 13 * * 1-5` UTC (= 6:30am PDT weekdays)
+# Connectors:   Notion + the GitHub connection that comes with the attached repo
 
 ---
 
