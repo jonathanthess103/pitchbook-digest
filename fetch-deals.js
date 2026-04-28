@@ -107,7 +107,7 @@ function extractVcDeals(html, emailDate) {
   const fullText = $('body').text().replace(/\s+/g, ' ').trim();
 
   const sectionMatch = fullText.match(
-    /VC\s+DEALS?\s+([\s\S]+?)(?=\s+PE\s+DEALS?|\s+M&A\s+DEALS?|\s+VENTURE\s+DEBT|\s+EXITS?\s+&|\bFrom our sponsor\b|\bAdvertisement\b|$)/i
+    /VC\s+DEALS\s+([\s\S]+?)(?=\s+PE\s+DEALS|\s+M&A\s+DEALS|\s+VENTURE\s+DEBT|\s+EXITS?\s+&|\bFrom our sponsor\b|\bAdvertisement\b|$)/i
   );
   if (!sectionMatch) {
     console.warn('  Could not find VC DEALS section in email');

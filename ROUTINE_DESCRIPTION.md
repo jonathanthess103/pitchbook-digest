@@ -1,12 +1,12 @@
 # Paste this into the Routines "Description" field
 # Routine name: PitchBook VC Deals — Notion writer
 # Repository: jonathanthess103/pitchbook-digest
-# Trigger: Schedule — `30 13 * * 1-5` UTC (= 9:30am ET weekdays)
+# Trigger: Schedule — `0 20 * * 1-5` UTC (= 4:00pm ET weekdays)
 # Connectors: Notion + WebFetch/WebSearch
 
 ---
 
-You are triggered on a weekday morning schedule. The fetch-deals GitHub Actions workflow already runs automatically at 12:00, 12:30, and 13:00 UTC — well before this routine fires at 13:30 UTC — so deals.json is already up to date. Your job: load the parsed deals, enrich them, and write them to Notion. Execute in this exact order and do NOT skip steps.
+You are triggered on a weekday afternoon schedule. The fetch-deals GitHub Actions workflow runs automatically throughout the day (12:00–18:00 UTC) and will have committed today's deals.json well before this routine fires at 20:00 UTC. Your job: load the parsed deals, enrich them, and write them to Notion. Execute in this exact order and do NOT skip steps.
 
 STEP 1 — LOAD DEALS
 WebFetch https://raw.githubusercontent.com/jonathanthess103/pitchbook-digest/main/deals.json with the prompt: "Return the JSON array verbatim. Do not summarize, reformat, or omit any fields." Parse the response as JSON. Each element has: {company, dealSummary, round, amount, leadInvestors, valuation, emailDate}.
