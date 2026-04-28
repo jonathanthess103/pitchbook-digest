@@ -1,29 +1,65 @@
 [
   {
-    "company": "Cognition",
-    "dealSummary": "San Francisco-based Cognition, an AI coding startup, is in talks to raise new funding at a $25 billion valuation, Bloomberg reported.",
-    "round": null,
-    "amount": "$25 billion",
-    "leadInvestors": null,
-    "valuation": "$25 billion",
-    "emailDate": "2026-04-27"
+    "company": "count has hit its highest quarterly level this decade, up 80% year-over-year. Find out more • Two loans in Blackstone's giant private credit fund stopped making interest payments—one to software company Medallia, one to dental chain Affordable Care—causing the fund's non-performing debt ratio to rise from 0.6% to 2.4%. Read more OpenAI loosens Microsoft's grip ahead of IPO push NurPhoto/Getty Images By Jacob Robbins, Technology Reporter OpenAI and Microsoft have restructured their partnership again, shedding the last exclusivity deal with Azure, Microsoft's cloud computing unit. The new agreement gives OpenAI flexibility and leverage as it moves toward a potential IPO this year. \"The greater predictability in the amended agreement strengthens our joint ability to build and operate AI platforms at scale while providing both companies the flexibility to pursue new opportunities,\" the companies said in a joint statement. Under the revised partnership, OpenAI can now sell API access to its models through any cloud provider. Until now",
+    "dealSummary": "count has hit its highest quarterly level this decade, up 80% year-over-year. Find out more • Two loans in Blackstone's giant private credit fund stopped making interest payments—one to software company Medallia, one to dental chain Affordable Care—causing the fund's non-performing debt ratio to rise from 0.6% to 2.4%. Read more OpenAI loosens Microsoft's grip ahead of IPO push NurPhoto/Getty Images By Jacob Robbins, Technology Reporter OpenAI and Microsoft have restructured their partnership again, shedding the last exclusivity deal with Azure, Microsoft's cloud computing unit. The new agreement gives OpenAI flexibility and leverage as it moves toward a potential IPO this year. \"The greater predictability in the amended agreement strengthens our joint ability to build and operate AI platforms at scale while providing both companies the flexibility to pursue new opportunities,\" the companies said in a joint statement. Under the revised partnership, OpenAI can now sell API access to its models through any cloud provider. Until now, the company was limited to hosting its API products developed with third parties on Azure. Now it can offer them across competing platforms like Amazon Web Services or Google Cloud. The agreement still stipulates that OpenAI will launch its products first on Azure, but also states that Microsoft can opt to forgo that exclusivity if it so chooses or doesn't have the capacity. Microsoft's revenue share agreement with OpenAI is also ending. In the past, Microsoft paid OpenAI when users accessed models through Azure. OpenAI will continue to share its revenue with Microsoft, but only through a set date in 2030 and subject to a \"total cap.\" This aspect of the agreement was originally supposed to be in place until OpenAI achieved true \"artificial general intelligence.\" The agreement gives OpenAI more leverage to compete with Anthropic, its chief competitor, which it has accused of inflating its revenue, according to Harrison Rolfes, PitchBook's senior research analyst focusing on the big three large language model providers.\"OpenAI removed all the overhangs Anthropic was built without,\" he said. \"OpenAI is definitely racing to look more like Anthropic. An IPO seems more likely, but they still have to tighten loose ends.\" Share this story Related analyst note: Mapping the AI super-cycle Side Letters Smart reads that caught our eye. • China is trying to unwind a Meta acquisition that closed four months ago. Employees of Manus, the AI startup that Meta acquired for $2 billion, have already moved into their new Singapore offices. [Bloomberg] • Life insurers are relying too much on private credit, making them vulnerable to withdrawals and ill-prepared to manage funds in an economic downturn, Apollo's former risk chief says. [Financial Times] • The Cannes Film Festival may have banned AI from its Palme d'Or competition, but a rival AI film festival drew studio investment and warnings of a mounting wave set to reshape cinema. [The Guardian] Since yesterday, the PitchBook Platform added: 708 Deals 2293 People 1081 Companies 42 Funds Request a free trial The Daily Benchmark: 2021 Vintage Global Funds-of-Funds Median IRR 9.80% Top Quartile IRR 13.50% 0.04x Median DPI Select top performers Bay Hills Capital Partners IV Constellation Generation IV Bay Hills Capital Partners V *IRR: net of fees 49 Funds in Benchmark » Check out the latest version of PitchBook Benchmarks VC Deals German physical AI startup Sereact raised a $110 million Series B led by Headline.",
+    "round": "Series B",
+    "amount": "$2 billion",
+    "leadInvestors": "Headline",
+    "valuation": null,
+    "emailDate": "2026-04-28"
   },
   {
-    "company": "Verda",
-    "dealSummary": "Helsinki-based AI cloud infrastructure startup Verda raised $117 million in equity and debt in a round led by Lifeline Ventures.",
-    "round": null,
-    "amount": "$117 million",
-    "leadInvestors": "Lifeline Ventures",
-    "valuation": null,
-    "emailDate": "2026-04-27"
+    "company": "Avoca",
+    "dealSummary": "Avoca, the developer of an AI platform for service businesses, secured a Series B led by Meritech and General Catalyst at a $1 billion valuation.",
+    "round": "Series B",
+    "amount": "$1 billion",
+    "leadInvestors": "Meritech, General Catalyst",
+    "valuation": "$1 billion",
+    "emailDate": "2026-04-28"
   },
   {
-    "company": "Salmon",
-    "dealSummary": "Salmon, a Philippines-based fintech startup, has raised $100 million in new funding, consisting of $40 million in debt and $60 million in equity from investors including Spice Expeditions, FJ Labs and Moore Strategic Ventures.",
-    "round": null,
-    "amount": "$100 million",
-    "leadInvestors": "Spice Expeditions, FJ Labs, Moore Strategic Ventures",
+    "company": "Kashable",
+    "dealSummary": "Finance and credit platform developer Kashable received a $60 million Series C led by Sustainable Investing at Goldman Sachs Alternatives.",
+    "round": "Series C",
+    "amount": "$60 million",
+    "leadInvestors": "Sustainable Investing at Goldman Sachs Alternatives",
     "valuation": null,
-    "emailDate": "2026-04-27"
+    "emailDate": "2026-04-28"
+  },
+  {
+    "company": "Nervonik",
+    "dealSummary": "Medical device startup Nervonik raised a $52.5 million Series B led by Amzak Health.",
+    "round": "Series B",
+    "amount": "$52.5 million",
+    "leadInvestors": "Amzak Health",
+    "valuation": null,
+    "emailDate": "2026-04-28"
+  },
+  {
+    "company": "Fathom Therapeutics",
+    "dealSummary": "Fathom Therapeutics, an AI drug discovery startup, secured a $47 million Series A led by Sutter Hill Ventures.",
+    "round": "Series A",
+    "amount": "$47 million",
+    "leadInvestors": "Sutter Hill Ventures",
+    "valuation": null,
+    "emailDate": "2026-04-28"
+  },
+  {
+    "company": "ComfyUI",
+    "dealSummary": "ComfyUI, the developer of a generative AI workflow platform, raised a $30 million round led by Craft Ventures at a $500 million valuation.",
+    "round": null,
+    "amount": "$30 million",
+    "leadInvestors": "Craft Ventures",
+    "valuation": "$500 million",
+    "emailDate": "2026-04-28"
+  },
+  {
+    "company": "SquareMind",
+    "dealSummary": "SquareMind, a Paris-based developer of a skin cancer detection robot, secured $18 million led by Bpifrance's Deeptech 2030 fund and Sonder Capital, Maddyness reported.",
+    "round": null,
+    "amount": "$18 million",
+    "leadInvestors": "Bpifrance's Deeptech 2030 fund, Sonder Capital",
+    "valuation": null,
+    "emailDate": "2026-04-28"
   }
 ]
