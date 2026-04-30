@@ -1,92 +1,101 @@
 [
   {
-    "company": "Ineffable Intelligence",
-    "dealSummary": "Ineffable Intelligence, a London-based frontier AI lab, raised a $1.1 billion seed round led by Sequoia and Lightspeed.",
-    "round": "Seed",
-    "amount": "$1.1 billion",
-    "leadInvestors": "Sequoia, Lightspeed",
-    "valuation": null,
-    "emailDate": "2026-04-29"
-  },
-  {
-    "company": "True Anomaly",
-    "dealSummary": "Autonomous spacecraft systems developer True Anomaly received a $650 million Series D led by Eclipse and Riot Ventures.",
+    "company": "Rogo",
+    "dealSummary": "AI financial services platform developer Rogo secured a $160 million Series D led by Kleiner Perkins.",
     "round": "Series D",
-    "amount": "$650 million",
-    "leadInvestors": "Eclipse, Riot Ventures",
+    "amount": "$160 million",
+    "leadInvestors": "Kleiner Perkins",
     "valuation": null,
-    "emailDate": "2026-04-29"
+    "emailDate": "2026-04-30"
   },
   {
-    "company": "Coultreon Biopharma",
-    "dealSummary": "Belgian biotech startup Coultreon Biopharma secured a $125 million Series A led by Sofinnova Investments.",
-    "round": "Series A",
-    "amount": "$125 million",
-    "leadInvestors": "Sofinnova Investments",
+    "company": "Hightouch",
+    "dealSummary": "Hightouch, the developer of a marketing data platform, raised a $150 million Series D led by Growth Equity at Goldman Sachs Alternatives.",
+    "round": "Series D",
+    "amount": "$150 million",
+    "leadInvestors": "Growth Equity at Goldman Sachs Alternatives",
     "valuation": null,
-    "emailDate": "2026-04-29"
+    "emailDate": "2026-04-30"
   },
   {
-    "company": "Manifest OS",
-    "dealSummary": "Manifest OS, a legaltech startup, received a $60 million Series A from investors including Menlo Ventures, Kleiner Perkins and First Round Capital at a $750 million valuation.",
+    "company": "Aidoc",
+    "dealSummary": "Aidoc, which develops clinical AI tools for healthcare, received a $150 million Series E led by Growth Equity at Goldman Sachs Alternatives.",
+    "round": "Series E",
+    "amount": "$150 million",
+    "leadInvestors": "Growth Equity at Goldman Sachs Alternatives",
+    "valuation": null,
+    "emailDate": "2026-04-30"
+  },
+  {
+    "company": "Scout AI",
+    "dealSummary": "Defense tech startup Scout AI secured a $100 million Series A led by Align Ventures and Draper Associates.",
     "round": "Series A",
-    "amount": "$60 million",
-    "leadInvestors": "Menlo Ventures, Kleiner Perkins, First Round Capital",
-    "valuation": "$750 million",
-    "emailDate": "2026-04-29"
+    "amount": "$100 million",
+    "leadInvestors": "Align Ventures, Draper Associates",
+    "valuation": null,
+    "emailDate": "2026-04-30"
   },
   {
-    "company": "Liquid Instruments",
-    "dealSummary": "Liquid Instruments, a developer of testing and measurement tools, raised a $50 million Series C led by Keysight Technologies and the Australian government's National Reconstruction Fund Corporation.",
+    "company": "Parallel Web Systems",
+    "dealSummary": "Parallel Web Systems, the developer of infrastructure for AI agents to access the web, raised a $100 million Series B led by Sequoia at a $2 billion valuation.",
+    "round": "Series B",
+    "amount": "$100 million",
+    "leadInvestors": "Sequoia",
+    "valuation": "$2 billion",
+    "emailDate": "2026-04-30"
+  },
+  {
+    "company": "Firestorm Labs",
+    "dealSummary": "Defense tech manufacturing startup Firestorm Labs secured an $82 million Series B led by Washington Harbour Partners.",
+    "round": "Series B",
+    "amount": "$82 million",
+    "leadInvestors": "Washington Harbour Partners",
+    "valuation": null,
+    "emailDate": "2026-04-30"
+  },
+  {
+    "company": "Axoft",
+    "dealSummary": "Axoft, a startup developing implantable brain-computer interface devices, raised a $55 million Series A led by CP Group Innovation.",
+    "round": "Series A",
+    "amount": "$55 million",
+    "leadInvestors": "CP Group Innovation",
+    "valuation": null,
+    "emailDate": "2026-04-30"
+  },
+  {
+    "company": "Counterpart",
+    "dealSummary": "Los Angeles-based insurance company Counterpart received a $50 million Series C led by Valor Equity Partners.",
     "round": "Series C",
     "amount": "$50 million",
-    "leadInvestors": "Keysight Technologies, the Australian government's National Reconstruction Fund Corporation",
+    "leadInvestors": "Valor Equity Partners",
     "valuation": null,
-    "emailDate": "2026-04-29"
+    "emailDate": "2026-04-30"
   },
   {
-    "company": "OpenLight",
-    "dealSummary": "Semiconductor chip startup OpenLight secured a $50 million Series A1 led by Matter Venture Partners.",
-    "round": null,
-    "amount": "$50 million",
-    "leadInvestors": "Matter Venture Partners",
-    "valuation": null,
-    "emailDate": "2026-04-29"
-  },
-  {
-    "company": "Actively",
-    "dealSummary": "Actively, the developer of an AI-powered sales platform, raised a $45 million Series B led by TCV and First Harmonic.",
+    "company": "Spread AI",
+    "dealSummary": "Berlin-based engineering intelligence specialist Spread AI raised a $30 million Series B from investors including DTCP, IQT and OTB Ventures.",
     "round": "Series B",
-    "amount": "$45 million",
-    "leadInvestors": "TCV, First Harmonic",
+    "amount": "$30 million",
+    "leadInvestors": "DTCP, IQT, OTB Ventures",
     "valuation": null,
-    "emailDate": "2026-04-29"
+    "emailDate": "2026-04-30"
   },
   {
-    "company": "e-bike startup Forest",
-    "dealSummary": "London-based e-bike startup Forest secured an additional £27 million for its Series B from investors including Okai, B8 Venture Partners and Fen Ventures, bringing the round's total to £40 million, The Times reported.",
-    "round": "Series B",
-    "amount": "£27 million",
-    "leadInvestors": "Okai, B8 Venture Partners, Fen Ventures",
-    "valuation": null,
-    "emailDate": "2026-04-29"
-  },
-  {
-    "company": "Performativ",
-    "dealSummary": "Copenhagen-based wealth management specialist Performativ raised a $14 million Series A led by Deutsche Börse Group.",
-    "round": "Series A",
-    "amount": "$14 million",
-    "leadInvestors": "Deutsche Börse Group",
-    "valuation": null,
-    "emailDate": "2026-04-29"
-  },
-  {
-    "company": "Patronus",
-    "dealSummary": "Patronus, a Berlin-based startup making devices for older people, received €11 million in a round led by 3TS Capital Partners.",
+    "company": "Fence",
+    "dealSummary": "Fence, the developer of an asset-backed finance infrastructure platform, raised a $20 million round led by Galaxy Ventures.",
     "round": null,
-    "amount": "€11 million",
-    "leadInvestors": "3TS Capital Partners",
+    "amount": "$20 million",
+    "leadInvestors": "Galaxy Ventures",
     "valuation": null,
-    "emailDate": "2026-04-29"
+    "emailDate": "2026-04-30"
+  },
+  {
+    "company": "All3",
+    "dealSummary": "All3, a London-based construction robotics developer, received a $25 million seed round led by RTP Global.",
+    "round": "Seed",
+    "amount": "$25 million",
+    "leadInvestors": "RTP Global",
+    "valuation": null,
+    "emailDate": "2026-04-30"
   }
 ]
