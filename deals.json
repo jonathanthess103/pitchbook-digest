@@ -1,101 +1,101 @@
 [
   {
-    "company": "Rogo",
-    "dealSummary": "AI financial services platform developer Rogo secured a $160 million Series D led by Kleiner Perkins.",
-    "round": "Series D",
-    "amount": "$160 million",
-    "leadInvestors": "Kleiner Perkins",
-    "valuation": null,
-    "emailDate": "2026-04-30"
-  },
-  {
-    "company": "Hightouch",
-    "dealSummary": "Hightouch, the developer of a marketing data platform, raised a $150 million Series D led by Growth Equity at Goldman Sachs Alternatives.",
-    "round": "Series D",
-    "amount": "$150 million",
-    "leadInvestors": "Growth Equity at Goldman Sachs Alternatives",
-    "valuation": null,
-    "emailDate": "2026-04-30"
-  },
-  {
-    "company": "Aidoc",
-    "dealSummary": "Aidoc, which develops clinical AI tools for healthcare, received a $150 million Series E led by Growth Equity at Goldman Sachs Alternatives.",
-    "round": "Series E",
-    "amount": "$150 million",
-    "leadInvestors": "Growth Equity at Goldman Sachs Alternatives",
-    "valuation": null,
-    "emailDate": "2026-04-30"
-  },
-  {
-    "company": "Scout AI",
-    "dealSummary": "Defense tech startup Scout AI secured a $100 million Series A led by Align Ventures and Draper Associates.",
-    "round": "Series A",
-    "amount": "$100 million",
-    "leadInvestors": "Align Ventures, Draper Associates",
-    "valuation": null,
-    "emailDate": "2026-04-30"
-  },
-  {
-    "company": "Parallel Web Systems",
-    "dealSummary": "Parallel Web Systems, the developer of infrastructure for AI agents to access the web, raised a $100 million Series B led by Sequoia at a $2 billion valuation.",
-    "round": "Series B",
-    "amount": "$100 million",
-    "leadInvestors": "Sequoia",
-    "valuation": "$2 billion",
-    "emailDate": "2026-04-30"
-  },
-  {
-    "company": "Firestorm Labs",
-    "dealSummary": "Defense tech manufacturing startup Firestorm Labs secured an $82 million Series B led by Washington Harbour Partners.",
-    "round": "Series B",
-    "amount": "$82 million",
-    "leadInvestors": "Washington Harbour Partners",
-    "valuation": null,
-    "emailDate": "2026-04-30"
-  },
-  {
-    "company": "Axoft",
-    "dealSummary": "Axoft, a startup developing implantable brain-computer interface devices, raised a $55 million Series A led by CP Group Innovation.",
-    "round": "Series A",
-    "amount": "$55 million",
-    "leadInvestors": "CP Group Innovation",
-    "valuation": null,
-    "emailDate": "2026-04-30"
-  },
-  {
-    "company": "Counterpart",
-    "dealSummary": "Los Angeles-based insurance company Counterpart received a $50 million Series C led by Valor Equity Partners.",
-    "round": "Series C",
-    "amount": "$50 million",
-    "leadInvestors": "Valor Equity Partners",
-    "valuation": null,
-    "emailDate": "2026-04-30"
-  },
-  {
-    "company": "Spread AI",
-    "dealSummary": "Berlin-based engineering intelligence specialist Spread AI raised a $30 million Series B from investors including DTCP, IQT and OTB Ventures.",
-    "round": "Series B",
-    "amount": "$30 million",
-    "leadInvestors": "DTCP, IQT, OTB Ventures",
-    "valuation": null,
-    "emailDate": "2026-04-30"
-  },
-  {
-    "company": "Fence",
-    "dealSummary": "Fence, the developer of an asset-backed finance infrastructure platform, raised a $20 million round led by Galaxy Ventures.",
+    "company": "Netomi",
+    "dealSummary": "Netomi, the developer of an AI customer service platform, secured a $110 million round led by Accenture Ventures.",
     "round": null,
-    "amount": "$20 million",
-    "leadInvestors": "Galaxy Ventures",
+    "amount": "$110 million",
+    "leadInvestors": "Accenture Ventures",
     "valuation": null,
-    "emailDate": "2026-04-30"
+    "emailDate": "2026-05-01"
   },
   {
-    "company": "All3",
-    "dealSummary": "All3, a London-based construction robotics developer, received a $25 million seed round led by RTP Global.",
-    "round": "Seed",
-    "amount": "$25 million",
-    "leadInvestors": "RTP Global",
+    "company": "Iterative Health",
+    "dealSummary": "Iterative Health, a healthtech startup focused on clinical research, raised a $77 million Series C led by Intrepid Growth Partners and GV.",
+    "round": "Series C",
+    "amount": "$77 million",
+    "leadInvestors": "Intrepid Growth Partners, GV",
     "valuation": null,
-    "emailDate": "2026-04-30"
+    "emailDate": "2026-05-01"
+  },
+  {
+    "company": "JuliaHub",
+    "dealSummary": "Scientific machine learning startup JuliaHub secured a $65 million Series B led by Dorilton Capital.",
+    "round": "Series B",
+    "amount": "$65 million",
+    "leadInvestors": "Dorilton Capital",
+    "valuation": null,
+    "emailDate": "2026-05-01"
+  },
+  {
+    "company": "CMBlu Energy",
+    "dealSummary": "German energy storage company CMBlu Energy received €50 million in a Series C from investors including Samsung Ventures at a €1 billion valuation.",
+    "round": "Series C",
+    "amount": "€50 million",
+    "leadInvestors": "Samsung Ventures at a €1 billion valuation",
+    "valuation": null,
+    "emailDate": "2026-05-01"
+  },
+  {
+    "company": "Legora",
+    "dealSummary": "Stockholm-based legal AI startup Legora raised a $50 million Series D extension from investors including Atlassian, Airtree and NVentures at a $5.6 billion valuation, bringing the round's total to $600 million.",
+    "round": "Series D",
+    "amount": "$50 million",
+    "leadInvestors": "Atlassian, Airtree, NVentures",
+    "valuation": "$5.6 billion",
+    "emailDate": "2026-05-01"
+  },
+  {
+    "company": "Versana",
+    "dealSummary": "Versana, an enterprise data specialist serving the private credit market, received a $43 million round led by BNP Paribas.",
+    "round": null,
+    "amount": "$43 million",
+    "leadInvestors": "BNP Paribas",
+    "valuation": null,
+    "emailDate": "2026-05-01"
+  },
+  {
+    "company": "Moleculent",
+    "dealSummary": "Moleculent, a Swedish life sciences startup developing cell-mapping technology, received a $20 million Series A led by Rubicon Healthcare Partners.",
+    "round": "Series A",
+    "amount": "$20 million",
+    "leadInvestors": "Rubicon Healthcare Partners",
+    "valuation": null,
+    "emailDate": "2026-05-01"
+  },
+  {
+    "company": "Featherless",
+    "dealSummary": "AI inference company Featherless secured a $20 million Series A led by AMD Ventures and Airbus Ventures.",
+    "round": "Series A",
+    "amount": "$20 million",
+    "leadInvestors": "AMD Ventures, Airbus Ventures",
+    "valuation": null,
+    "emailDate": "2026-05-01"
+  },
+  {
+    "company": "Squads",
+    "dealSummary": "Squads, a financial infrastructure startup, raised an $18 million round led by Solana Ventures.",
+    "round": null,
+    "amount": "$18 million",
+    "leadInvestors": "Solana Ventures",
+    "valuation": null,
+    "emailDate": "2026-05-01"
+  },
+  {
+    "company": "Groove Quantum",
+    "dealSummary": "Dutch quantum computing specialist Groove Quantum secured a €16 million seed round led by Innovation Industries and 55 North.",
+    "round": "Seed",
+    "amount": "€16 million",
+    "leadInvestors": "Innovation Industries, 55 North",
+    "valuation": null,
+    "emailDate": "2026-05-01"
+  },
+  {
+    "company": "Photon, provider of a prescription platform for healthcare systems",
+    "dealSummary": "Photon, provider of a prescription platform for healthcare systems, raised a $16 million Series A led by Healthier Capital.",
+    "round": "Series A",
+    "amount": "$16 million",
+    "leadInvestors": "Healthier Capital",
+    "valuation": null,
+    "emailDate": "2026-05-01"
   }
 ]
