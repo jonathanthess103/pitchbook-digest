@@ -1,101 +1,47 @@
 [
   {
-    "company": "Netomi",
-    "dealSummary": "Netomi, the developer of an AI customer service platform, secured a $110 million round led by Accenture Ventures.",
+    "company": "Standard Intelligence",
+    "dealSummary": "Standard Intelligence, an artificial general intelligence lab, secured a $75 million round led by Sequoia and Spark Capital.",
     "round": null,
-    "amount": "$110 million",
-    "leadInvestors": "Accenture Ventures",
+    "amount": "$75 million",
+    "leadInvestors": "Sequoia, Spark Capital",
     "valuation": null,
-    "emailDate": "2026-05-01"
+    "emailDate": "2026-05-04"
   },
   {
-    "company": "Iterative Health",
-    "dealSummary": "Iterative Health, a healthtech startup focused on clinical research, raised a $77 million Series C led by Intrepid Growth Partners and GV.",
-    "round": "Series C",
-    "amount": "$77 million",
-    "leadInvestors": "Intrepid Growth Partners, GV",
-    "valuation": null,
-    "emailDate": "2026-05-01"
-  },
-  {
-    "company": "JuliaHub",
-    "dealSummary": "Scientific machine learning startup JuliaHub secured a $65 million Series B led by Dorilton Capital.",
-    "round": "Series B",
-    "amount": "$65 million",
-    "leadInvestors": "Dorilton Capital",
-    "valuation": null,
-    "emailDate": "2026-05-01"
-  },
-  {
-    "company": "CMBlu Energy",
-    "dealSummary": "German energy storage company CMBlu Energy received €50 million in a Series C from investors including Samsung Ventures at a €1 billion valuation.",
-    "round": "Series C",
-    "amount": "€50 million",
-    "leadInvestors": "Samsung Ventures at a €1 billion valuation",
-    "valuation": null,
-    "emailDate": "2026-05-01"
-  },
-  {
-    "company": "Legora",
-    "dealSummary": "Stockholm-based legal AI startup Legora raised a $50 million Series D extension from investors including Atlassian, Airtree and NVentures at a $5.6 billion valuation, bringing the round's total to $600 million.",
-    "round": "Series D",
-    "amount": "$50 million",
-    "leadInvestors": "Atlassian, Airtree, NVentures",
-    "valuation": "$5.6 billion",
-    "emailDate": "2026-05-01"
-  },
-  {
-    "company": "Versana",
-    "dealSummary": "Versana, an enterprise data specialist serving the private credit market, received a $43 million round led by BNP Paribas.",
+    "company": "KymaThera",
+    "dealSummary": "Precision therapeutics startup KymaThera is in talks to raise a $75 million round, Axios reported.",
     "round": null,
-    "amount": "$43 million",
-    "leadInvestors": "BNP Paribas",
+    "amount": "$75 million",
+    "leadInvestors": null,
     "valuation": null,
-    "emailDate": "2026-05-01"
+    "emailDate": "2026-05-04"
   },
   {
-    "company": "Moleculent",
-    "dealSummary": "Moleculent, a Swedish life sciences startup developing cell-mapping technology, received a $20 million Series A led by Rubicon Healthcare Partners.",
+    "company": "Fun",
+    "dealSummary": "Payments infrastructure company Fun received a $72 million Series A led by Multicoin Capital and SignalFire.",
     "round": "Series A",
-    "amount": "$20 million",
-    "leadInvestors": "Rubicon Healthcare Partners",
+    "amount": "$72 million",
+    "leadInvestors": "Multicoin Capital, SignalFire",
     "valuation": null,
-    "emailDate": "2026-05-01"
+    "emailDate": "2026-05-04"
   },
   {
-    "company": "Featherless",
-    "dealSummary": "AI inference company Featherless secured a $20 million Series A led by AMD Ventures and Airbus Ventures.",
-    "round": "Series A",
-    "amount": "$20 million",
-    "leadInvestors": "AMD Ventures, Airbus Ventures",
-    "valuation": null,
-    "emailDate": "2026-05-01"
-  },
-  {
-    "company": "Squads",
-    "dealSummary": "Squads, a financial infrastructure startup, raised an $18 million round led by Solana Ventures.",
+    "company": "Disa Technologies",
+    "dealSummary": "Disa Technologies, which develops a platform for mineral processing, raised a $33 million round led by Galvanize.",
     "round": null,
-    "amount": "$18 million",
-    "leadInvestors": "Solana Ventures",
+    "amount": "$33 million",
+    "leadInvestors": "Galvanize",
     "valuation": null,
-    "emailDate": "2026-05-01"
+    "emailDate": "2026-05-04"
   },
   {
-    "company": "Groove Quantum",
-    "dealSummary": "Dutch quantum computing specialist Groove Quantum secured a €16 million seed round led by Innovation Industries and 55 North.",
-    "round": "Seed",
-    "amount": "€16 million",
-    "leadInvestors": "Innovation Industries, 55 North",
+    "company": "Techcyte",
+    "dealSummary": "Digital pathology platform developer Techcyte secured a $15 million round led by Van Tuyl Companies.",
+    "round": null,
+    "amount": "$15 million",
+    "leadInvestors": "Van Tuyl Companies",
     "valuation": null,
-    "emailDate": "2026-05-01"
-  },
-  {
-    "company": "Photon, provider of a prescription platform for healthcare systems",
-    "dealSummary": "Photon, provider of a prescription platform for healthcare systems, raised a $16 million Series A led by Healthier Capital.",
-    "round": "Series A",
-    "amount": "$16 million",
-    "leadInvestors": "Healthier Capital",
-    "valuation": null,
-    "emailDate": "2026-05-01"
+    "emailDate": "2026-05-04"
   }
 ]
