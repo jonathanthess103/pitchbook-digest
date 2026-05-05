@@ -1,47 +1,74 @@
 [
   {
-    "company": "Standard Intelligence",
-    "dealSummary": "Standard Intelligence, an artificial general intelligence lab, secured a $75 million round led by Sequoia and Spark Capital.",
-    "round": null,
-    "amount": "$75 million",
-    "leadInvestors": "Sequoia, Spark Capital",
+    "company": "Panthalassa",
+    "dealSummary": "Panthalassa, a startup focused on producing renewable energy from ocean waves, raised a $140 million Series B led by Peter Thiel.",
+    "round": "Series B",
+    "amount": "$140 million",
+    "leadInvestors": "Peter Thiel",
     "valuation": null,
-    "emailDate": "2026-05-04"
+    "emailDate": "2026-05-05"
   },
   {
-    "company": "KymaThera",
-    "dealSummary": "Precision therapeutics startup KymaThera is in talks to raise a $75 million round, Axios reported.",
-    "round": null,
-    "amount": "$75 million",
-    "leadInvestors": null,
+    "company": "Reserv",
+    "dealSummary": "Reserv, which provides third-party administration software for the insurance industry, received a $125 million Series C led by KKR.",
+    "round": "Series C",
+    "amount": "$125 million",
+    "leadInvestors": "KKR",
     "valuation": null,
-    "emailDate": "2026-05-04"
+    "emailDate": "2026-05-05"
   },
   {
-    "company": "Fun",
-    "dealSummary": "Payments infrastructure company Fun received a $72 million Series A led by Multicoin Capital and SignalFire.",
+    "company": "Latus Bio",
+    "dealSummary": "Biotech startup Latus Bio secured a $97 million Series A from investors including 8VC, DCVC Bio and BioAdvance.",
     "round": "Series A",
-    "amount": "$72 million",
-    "leadInvestors": "Multicoin Capital, SignalFire",
+    "amount": "$97 million",
+    "leadInvestors": "8VC, DCVC Bio, BioAdvance",
     "valuation": null,
-    "emailDate": "2026-05-04"
+    "emailDate": "2026-05-05"
   },
   {
-    "company": "Disa Technologies",
-    "dealSummary": "Disa Technologies, which develops a platform for mineral processing, raised a $33 million round led by Galvanize.",
-    "round": null,
-    "amount": "$33 million",
-    "leadInvestors": "Galvanize",
+    "company": "Smartness",
+    "dealSummary": "Italy-based Smartness, a travel software specialist, raised a €47 million Series B led by United Ventures and CDP Venture Capital.",
+    "round": "Series B",
+    "amount": "€47 million",
+    "leadInvestors": "United Ventures, CDP Venture Capital",
     "valuation": null,
-    "emailDate": "2026-05-04"
+    "emailDate": "2026-05-05"
   },
   {
-    "company": "Techcyte",
-    "dealSummary": "Digital pathology platform developer Techcyte secured a $15 million round led by Van Tuyl Companies.",
-    "round": null,
-    "amount": "$15 million",
-    "leadInvestors": "Van Tuyl Companies",
+    "company": "Anello Photonics",
+    "dealSummary": "Anello Photonics, which focuses on navigation technology for autonomous systems, received a $25 million Series B-2 led by MESH.",
+    "round": "Series B",
+    "amount": "$25 million",
+    "leadInvestors": "MESH",
     "valuation": null,
-    "emailDate": "2026-05-04"
+    "emailDate": "2026-05-05"
+  },
+  {
+    "company": "Enzo Health",
+    "dealSummary": "Home health platform developer Enzo Health secured a $20 million Series A led by N47.",
+    "round": "Series A",
+    "amount": "$20 million",
+    "leadInvestors": "N47",
+    "valuation": null,
+    "emailDate": "2026-05-05"
+  },
+  {
+    "company": "EnteroBiotix",
+    "dealSummary": "UK-based biotech company EnteroBiotix, which focuses on microbiome therapies, raised a £19 million round led by Thairm Bio and the Scottish National Investment Bank.",
+    "round": null,
+    "amount": "£19 million",
+    "leadInvestors": "Thairm Bio, the Scottish National Investment Bank",
+    "valuation": null,
+    "emailDate": "2026-05-05"
+  },
+  {
+    "company": "coffee chain Blue Tokai",
+    "dealSummary": "India-based coffee chain Blue Tokai is raising a $19 million Series D led by Anicut Capital, Entrackr reported.",
+    "round": "Series D",
+    "amount": "$19 million",
+    "leadInvestors": "Anicut Capital",
+    "valuation": null,
+    "emailDate": "2026-05-05"
   }
 ]
