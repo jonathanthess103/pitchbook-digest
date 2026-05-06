@@ -200,7 +200,10 @@ async function main() {
       const { raw, date } = await fetchMessage(imap, uid);
       const parsed = await simpleParser(raw);
       const html = parsed.html || parsed.textAsHtml || '';
-      const emailDate = parsed.date || date;
+      // In backfill mode use the email's own Date header so historical records
+      // are stamped correctly. In normal mode use today's run date — newsletters
+      // are often sent the night before and would otherwise get yesterday's date.
+      const emailDate = BACKFILL_MODE ? (parsed.date || date) : new Date();
 
       const deals = extractVcDeals(html, emailDate);
       console.log(`  [${emailDate ? new Date(emailDate).toDateString() : 'unknown date'}] Found ${deals.length} VC deal(s)`);
