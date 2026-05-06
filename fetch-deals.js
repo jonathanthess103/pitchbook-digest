@@ -37,13 +37,18 @@ function connectImap() {
   });
 }
 
-function openInbox(imap) {
+function openMailbox(imap, boxName) {
   return new Promise((resolve, reject) => {
-    imap.openBox('INBOX', true, (err, box) => {
+    imap.openBox(boxName, true, (err, box) => {
       if (err) reject(err);
       else resolve(box);
     });
   });
+}
+
+const IMAP_MONTHS = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+function imapDateStr(d) {
+  return `${String(d.getDate()).padStart(2, '0')}-${IMAP_MONTHS[d.getMonth()]}-${d.getFullYear()}`;
 }
 
 function searchMessages(imap, criteria) {
@@ -179,13 +184,17 @@ async function main() {
     imap.connect();
   });
 
-  await openInbox(imap);
+  // Use All Mail so emails snoozed/reminded out of INBOX are still found.
+  // In normal mode, add SINCE today to avoid re-processing old newsletters.
+  await openMailbox(imap, '[Gmail]/All Mail');
 
-  const criteria = [['FROM', SENDER]];
+  const criteria = BACKFILL_MODE
+    ? [['FROM', SENDER]]
+    : [['FROM', SENDER], ['SINCE', imapDateStr(new Date())]];
   const uids = await searchMessages(imap, criteria);
 
   if (uids.length === 0) {
-    console.log('No PitchBook newsletters found in inbox.');
+    console.log('No PitchBook newsletter found for today.');
     imap.end();
     return;
   }
