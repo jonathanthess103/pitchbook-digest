@@ -1,74 +1,74 @@
 [
   {
-    "company": "Panthalassa",
-    "dealSummary": "Panthalassa, a startup focused on producing renewable energy from ocean waves, raised a $140 million Series B led by Peter Thiel.",
-    "round": "Series B",
-    "amount": "$140 million",
-    "leadInvestors": "Peter Thiel",
-    "valuation": null,
-    "emailDate": "2026-05-05"
-  },
-  {
-    "company": "Reserv",
-    "dealSummary": "Reserv, which provides third-party administration software for the insurance industry, received a $125 million Series C led by KKR.",
-    "round": "Series C",
-    "amount": "$125 million",
-    "leadInvestors": "KKR",
-    "valuation": null,
-    "emailDate": "2026-05-05"
-  },
-  {
-    "company": "Latus Bio",
-    "dealSummary": "Biotech startup Latus Bio secured a $97 million Series A from investors including 8VC, DCVC Bio and BioAdvance.",
-    "round": "Series A",
-    "amount": "$97 million",
-    "leadInvestors": "8VC, DCVC Bio, BioAdvance",
-    "valuation": null,
-    "emailDate": "2026-05-05"
-  },
-  {
-    "company": "Smartness",
-    "dealSummary": "Italy-based Smartness, a travel software specialist, raised a €47 million Series B led by United Ventures and CDP Venture Capital.",
-    "round": "Series B",
-    "amount": "€47 million",
-    "leadInvestors": "United Ventures, CDP Venture Capital",
-    "valuation": null,
-    "emailDate": "2026-05-05"
-  },
-  {
-    "company": "Anello Photonics",
-    "dealSummary": "Anello Photonics, which focuses on navigation technology for autonomous systems, received a $25 million Series B-2 led by MESH.",
-    "round": "Series B",
-    "amount": "$25 million",
-    "leadInvestors": "MESH",
-    "valuation": null,
-    "emailDate": "2026-05-05"
-  },
-  {
-    "company": "Enzo Health",
-    "dealSummary": "Home health platform developer Enzo Health secured a $20 million Series A led by N47.",
-    "round": "Series A",
-    "amount": "$20 million",
-    "leadInvestors": "N47",
-    "valuation": null,
-    "emailDate": "2026-05-05"
-  },
-  {
-    "company": "EnteroBiotix",
-    "dealSummary": "UK-based biotech company EnteroBiotix, which focuses on microbiome therapies, raised a £19 million round led by Thairm Bio and the Scottish National Investment Bank.",
+    "company": "Sierra",
+    "dealSummary": "Sierra, a startup developing customer-facing AI agents, is raising a $950 million funding round led by Tiger Global and GV at a valuation of over $15 billion.",
     "round": null,
-    "amount": "£19 million",
-    "leadInvestors": "Thairm Bio, the Scottish National Investment Bank",
+    "amount": "$950 million",
+    "leadInvestors": "Tiger Global, GV",
     "valuation": null,
-    "emailDate": "2026-05-05"
+    "emailDate": "2026-05-06"
   },
   {
-    "company": "coffee chain Blue Tokai",
-    "dealSummary": "India-based coffee chain Blue Tokai is raising a $19 million Series D led by Anicut Capital, Entrackr reported.",
-    "round": "Series D",
-    "amount": "$19 million",
-    "leadInvestors": "Anicut Capital",
+    "company": "Blitzy",
+    "dealSummary": "Autonomous software development platform provider Blitzy secured a $200 million round led by Northzone at a $1.4 billion valuation.",
+    "round": null,
+    "amount": "$200 million",
+    "leadInvestors": "Northzone",
+    "valuation": "$1.4 billion",
+    "emailDate": "2026-05-06"
+  },
+  {
+    "company": "DeepInfra",
+    "dealSummary": "AI cloud inference platform developer DeepInfra secured a $107 million Series B led by 500 Global and Georges Harik.",
+    "round": "Series B",
+    "amount": "$107 million",
+    "leadInvestors": "500 Global, Georges Harik",
     "valuation": null,
-    "emailDate": "2026-05-05"
+    "emailDate": "2026-05-06"
+  },
+  {
+    "company": "eleQtron",
+    "dealSummary": "German quantum computing startup eleQtron raised a €57 million Series A led by Schwarz Digits.",
+    "round": "Series A",
+    "amount": "€57 million",
+    "leadInvestors": "Schwarz Digits",
+    "valuation": null,
+    "emailDate": "2026-05-06"
+  },
+  {
+    "company": "Astrocade",
+    "dealSummary": "Astrocade, a provider of an AI game development platform, raised $56 million across its Series A and Series B from investors including Sea and Sequoia.",
+    "round": "Series A",
+    "amount": "$56 million",
+    "leadInvestors": "Sea, Sequoia",
+    "valuation": null,
+    "emailDate": "2026-05-06"
+  },
+  {
+    "company": "Lithosquare",
+    "dealSummary": "Paris-based mineral exploration startup Lithosquare secured $25 million from investors including World Fund, Kindred Capital, and Daphni.",
+    "round": null,
+    "amount": "$25 million",
+    "leadInvestors": "World Fund, Kindred Capital,, Daphni",
+    "valuation": null,
+    "emailDate": "2026-05-06"
+  },
+  {
+    "company": "Nace. AI",
+    "dealSummary": "Enterprise workflow model developer Nace. AI received a $21.5 million seed round led by Walden Catalyst.",
+    "round": "Seed",
+    "amount": "$21.5 million",
+    "leadInvestors": "Walden Catalyst",
+    "valuation": null,
+    "emailDate": "2026-05-06"
+  },
+  {
+    "company": "Barocal",
+    "dealSummary": "Barocal, a UK-based developer of solid cooling and heating technologies, raised $10 million from investors including World Fund, Breakthrough Energy and Cambridge Enterprise Ventures.",
+    "round": null,
+    "amount": "$10 million",
+    "leadInvestors": "World Fund, Breakthrough Energy, Cambridge Enterprise Ventures",
+    "valuation": null,
+    "emailDate": "2026-05-06"
   }
 ]
