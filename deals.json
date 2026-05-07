@@ -1,74 +1,101 @@
 [
   {
-    "company": "Sierra",
-    "dealSummary": "Sierra, a startup developing customer-facing AI agents, is raising a $950 million funding round led by Tiger Global and GV at a valuation of over $15 billion.",
-    "round": null,
-    "amount": "$950 million",
-    "leadInvestors": "Tiger Global, GV",
+    "company": "Advanced satellite builder Astranis",
+    "dealSummary": "Advanced satellite builder Astranis secured a $300 million Series E led by Snowpoint Ventures and Franklin Templeton alongside a credit facility of up to $155 million from Trinity Capital.",
+    "round": "Series E",
+    "amount": "$300 million",
+    "leadInvestors": "Snowpoint Ventures, Franklin Templeton alongside a credit facility of up to $155 million from Trinity Capital",
     "valuation": null,
-    "emailDate": "2026-05-06"
+    "emailDate": "2026-05-07"
   },
   {
-    "company": "Blitzy",
-    "dealSummary": "Autonomous software development platform provider Blitzy secured a $200 million round led by Northzone at a $1.4 billion valuation.",
+    "company": "Iceye",
+    "dealSummary": "Finnish satellite startup Iceye is in talks to raise a €250 million round that could value the startup at around €5 billion, Bloomberg reported.",
     "round": null,
-    "amount": "$200 million",
-    "leadInvestors": "Northzone",
-    "valuation": "$1.4 billion",
-    "emailDate": "2026-05-06"
+    "amount": "€250 million",
+    "leadInvestors": null,
+    "valuation": null,
+    "emailDate": "2026-05-07"
   },
   {
-    "company": "DeepInfra",
-    "dealSummary": "AI cloud inference platform developer DeepInfra secured a $107 million Series B led by 500 Global and Georges Harik.",
+    "company": "QuantWare",
+    "dealSummary": "Dutch industrial quantum processor developer QuantWare received a $178 million Series B from investors including Intel Capital, IQT and ETF Partners.",
     "round": "Series B",
-    "amount": "$107 million",
-    "leadInvestors": "500 Global, Georges Harik",
+    "amount": "$178 million",
+    "leadInvestors": "Intel Capital, IQT, ETF Partners",
     "valuation": null,
-    "emailDate": "2026-05-06"
+    "emailDate": "2026-05-07"
   },
   {
-    "company": "eleQtron",
-    "dealSummary": "German quantum computing startup eleQtron raised a €57 million Series A led by Schwarz Digits.",
+    "company": "Enter",
+    "dealSummary": "Enter, a Brazil-based legal AI startup, raised a $100 million Series B led by Founders Fund at a $1.2 billion valuation.",
+    "round": "Series B",
+    "amount": "$100 million",
+    "leadInvestors": "Founders Fund",
+    "valuation": "$1.2 billion",
+    "emailDate": "2026-05-07"
+  },
+  {
+    "company": "Cytospire Therapeutics",
+    "dealSummary": "Cytospire Therapeutics, a London biotech developing multispecific immune cell engager antibodies, secured a £61 million Series A led by 4BIO Capital.",
     "round": "Series A",
-    "amount": "€57 million",
-    "leadInvestors": "Schwarz Digits",
+    "amount": "£61 million",
+    "leadInvestors": "4BIO Capital",
     "valuation": null,
-    "emailDate": "2026-05-06"
+    "emailDate": "2026-05-07"
   },
   {
-    "company": "Astrocade",
-    "dealSummary": "Astrocade, a provider of an AI game development platform, raised $56 million across its Series A and Series B from investors including Sea and Sequoia.",
+    "company": "Tessera Labs",
+    "dealSummary": "Tessera Labs, the developer of enterprise automation tools, received a $60 million Series A led by Andreessen Horowitz.",
     "round": "Series A",
-    "amount": "$56 million",
-    "leadInvestors": "Sea, Sequoia",
+    "amount": "$60 million",
+    "leadInvestors": "Andreessen Horowitz",
     "valuation": null,
-    "emailDate": "2026-05-06"
+    "emailDate": "2026-05-07"
   },
   {
-    "company": "Lithosquare",
-    "dealSummary": "Paris-based mineral exploration startup Lithosquare secured $25 million from investors including World Fund, Kindred Capital, and Daphni.",
+    "company": "Kanvas Biosciences",
+    "dealSummary": "Kanvas Biosciences, which focuses on microbiome mapping and therapeutics, raised a $48 million Series A led by DCVC and Lions Capital.",
+    "round": "Series A",
+    "amount": "$48 million",
+    "leadInvestors": "DCVC, Lions Capital",
+    "valuation": null,
+    "emailDate": "2026-05-07"
+  },
+  {
+    "company": "Moment Energy",
+    "dealSummary": "Canadian EV battery repurposing specialist Moment Energy secured a $40 million Series B led by Evok Innovations.",
+    "round": "Series B",
+    "amount": "$40 million",
+    "leadInvestors": "Evok Innovations",
+    "valuation": null,
+    "emailDate": "2026-05-07"
+  },
+  {
+    "company": "XBOW",
+    "dealSummary": "Cybersecurity startup XBOW received a $35 million Series C extension from investors including Accenture Ventures, DNX Ventures and Liberty Global Tech Ventures.",
+    "round": "Series C",
+    "amount": "$35 million",
+    "leadInvestors": "Accenture Ventures, DNX Ventures, Liberty Global Tech Ventures",
+    "valuation": null,
+    "emailDate": "2026-05-07"
+  },
+  {
+    "company": "Copilotkit",
+    "dealSummary": "Copilotkit, the developer of a platform connecting AI agents with user interfaces, raised a $27 million Series A led by Glilot Capital, NFX and SignalFire.",
+    "round": "Series A",
+    "amount": "$27 million",
+    "leadInvestors": "Glilot Capital, NFX, SignalFire",
+    "valuation": null,
+    "emailDate": "2026-05-07"
+  },
+  {
+    "company": "Qutwo",
+    "dealSummary": "Helsinki-based quantum AI startup Qutwo secured €25 million at a €325 million valuation from angel investors.",
     "round": null,
-    "amount": "$25 million",
-    "leadInvestors": "World Fund, Kindred Capital,, Daphni",
+    "amount": "€25 million",
+    "leadInvestors": null,
     "valuation": null,
-    "emailDate": "2026-05-06"
-  },
-  {
-    "company": "Nace. AI",
-    "dealSummary": "Enterprise workflow model developer Nace. AI received a $21.5 million seed round led by Walden Catalyst.",
-    "round": "Seed",
-    "amount": "$21.5 million",
-    "leadInvestors": "Walden Catalyst",
-    "valuation": null,
-    "emailDate": "2026-05-06"
-  },
-  {
-    "company": "Barocal",
-    "dealSummary": "Barocal, a UK-based developer of solid cooling and heating technologies, raised $10 million from investors including World Fund, Breakthrough Energy and Cambridge Enterprise Ventures.",
-    "round": null,
-    "amount": "$10 million",
-    "leadInvestors": "World Fund, Breakthrough Energy, Cambridge Enterprise Ventures",
-    "valuation": null,
-    "emailDate": "2026-05-06"
+    "emailDate": "2026-05-07"
   }
 ]
