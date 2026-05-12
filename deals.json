@@ -1,47 +1,65 @@
 [
   {
-    "company": "Ramp",
-    "dealSummary": "Fintech startup Ramp is raising a $750 million round led by Iconiq Capital and Singapore's sovereign wealth fund GIC at a valuation above $40 billion, The Wall Street Journal reported.",
+    "company": "logic—but some investors worry that geopolitical conviction and venture returns don't always align. Find out more Barbarians meet their new gatekeepers: 'Wealthtech' middlemen By Alexander Davis, Head of Enterprise Reporting This year has been marked by news of investors trying to snatch back billions of dollars from retail-focused private credit funds that their wealth advisers had invested in on their behalf. Much of the coverage centers on questions about the health of the vehicles' underlying loan portfolios and whether the liquidity limits of the fund structures are suitable for the fickle timelines of retail investors. Far less understood is how registered investment advisers actually source, evaluate and buy into private fund opportunities. Opening up the private markets to individual investors hinges on behind-the-scenes infrastructure controlled by a crowded field of fintech middlemen fighting for a slice of the trillions of dollars of private wealth yet to be allocated to alternatives. Operators of these behind-the-scenes platforms wield outsized power in determining how individuals get access to private markets. Depending on their size and sophistication, wealth advisory firms rely on the platforms in varying ways. What they all have in common: They sit at the intersection of alts and the wealth channel, using financial technology to bring the two worlds together. Leading the cohort of alts marketplaces serving this market is iCapital",
+    "dealSummary": "logic—but some investors worry that geopolitical conviction and venture returns don't always align. Find out more Barbarians meet their new gatekeepers: 'Wealthtech' middlemen By Alexander Davis, Head of Enterprise Reporting This year has been marked by news of investors trying to snatch back billions of dollars from retail-focused private credit funds that their wealth advisers had invested in on their behalf. Much of the coverage centers on questions about the health of the vehicles' underlying loan portfolios and whether the liquidity limits of the fund structures are suitable for the fickle timelines of retail investors. Far less understood is how registered investment advisers actually source, evaluate and buy into private fund opportunities. Opening up the private markets to individual investors hinges on behind-the-scenes infrastructure controlled by a crowded field of fintech middlemen fighting for a slice of the trillions of dollars of private wealth yet to be allocated to alternatives. Operators of these behind-the-scenes platforms wield outsized power in determining how individuals get access to private markets. Depending on their size and sophistication, wealth advisory firms rely on the platforms in varying ways. What they all have in common: They sit at the intersection of alts and the wealth channel, using financial technology to bring the two worlds together. Leading the cohort of alts marketplaces serving this market is iCapital, a privately held powerhouse with a roughly 80% market share, Cerulli data shows. In addition to its platform for advisers to shop for products from fund managers, New York-based iCapital provides education, manager research and an array of back-office support for administrative supervision of client investments. Trailing behind iCapital are CAIS and Subscribe, which mainly target institutional investors. The platforms are powerful gatekeepers. They determine which fund products to distribute through their own websites and white-label portals custom-built for advisory firms. Using these sites, wealth managers typically choose from a menu of funds that their own firm curates based on a larger set of funds previously vetted by iCapital, CAIS and other intermediary firms. Read more Related research: As 401(k) plans eye alts, iCapital coaches public and private investors on convergence Side Letters Smart reads that caught our eye. • You may feel like Tony Stark, but your colleagues think you're annoying. AI dictation apps are taking over offices, and the main casualty is the open-plan workspace's last shred of dignity. [The Wall Street Journal] • Americans are prospecting like it's 1849. With gold near $5,000 an ounce and a president who thinks it can't be tariffed, the only thing missing is a covered wagon. [The New Yorker] • Lawyers say think twice about that AI note taker. The bots capture offhand executive comments that can surface in litigation and may void attorney-client privilege. [The New York Times] Since yesterday, the PitchBook Platform added: 817 Deals 2300 People 1060 Companies 41 Funds Request a free trial The Daily Benchmark: 2018 Vintage European VC Funds Median IRR 14.40% Top Quartile IRR 30.00% 0.08x Median DPI Select top performers Tera Ventures Fund II Forward One Fund I Practica Venture Capital II *IRR: net of fees 11 Funds in Benchmark » Check out the latest version of PitchBook Benchmarks VC Deals German drone startup Helsing is set to raise $1.2 billion in a round led by Dragoneer Investment Group and Lightspeed at a valuation of about $18 billion, the Financial Times reported.",
     "round": null,
-    "amount": "$750 million",
-    "leadInvestors": "Iconiq Capital, Singapore's sovereign wealth fund GIC",
+    "amount": "$1.2 billion",
+    "leadInvestors": "a crowded field of fintech middlemen fighting for a slice of the trillions of dollars of private wealth yet to be allocated to alternatives",
     "valuation": null,
-    "emailDate": "2026-05-11"
+    "emailDate": "2026-05-12"
   },
   {
-    "company": "Nova Intelligence",
-    "dealSummary": "Nova Intelligence, the developer of an agentic AI platform for SAP systems, raised a $31.5 million Series A led by Chemistry Ventures, Fortune reported.",
+    "company": "Digital Asset",
+    "dealSummary": "Blockchain company Digital Asset is raising a $300 million round led by Andreessen Horowitz's a16z crypto at around a $2 billion valuation, Bloomberg reported.",
+    "round": null,
+    "amount": "$300 million",
+    "leadInvestors": "Andreessen Horowitz's a16z crypto at around a $2 billion valuation",
+    "valuation": null,
+    "emailDate": "2026-05-12"
+  },
+  {
+    "company": "Cowboy Space",
+    "dealSummary": "Cowboy Space, a startup developing infrastructure for orbital data centers, secured a $275 million Series B led by Index Ventures at a $2 billion valuation.",
+    "round": "Series B",
+    "amount": "$275 million",
+    "leadInvestors": "Index Ventures",
+    "valuation": "$2 billion",
+    "emailDate": "2026-05-12"
+  },
+  {
+    "company": "Grand Games",
+    "dealSummary": "Grand Games, an Istanbul-based mobile gaming startup, raised a $70 million Series B led by Balderton Capital.",
+    "round": "Series B",
+    "amount": "$70 million",
+    "leadInvestors": "Balderton Capital",
+    "valuation": null,
+    "emailDate": "2026-05-12"
+  },
+  {
+    "company": "Eyeo",
+    "dealSummary": "Eyeo, a Dutch developer of image sensors, secured a €40 million Series A led by Innovation Industries.",
     "round": "Series A",
-    "amount": "$31.5 million",
-    "leadInvestors": "Chemistry Ventures",
+    "amount": "€40 million",
+    "leadInvestors": "Innovation Industries",
     "valuation": null,
-    "emailDate": "2026-05-11"
+    "emailDate": "2026-05-12"
   },
   {
-    "company": "Fazeshift",
-    "dealSummary": "Fazeshift, a startup developing agents for accounts receivable workflows, secured a $17 million Series A led by F-Prime.",
-    "round": "Series A",
-    "amount": "$17 million",
-    "leadInvestors": "F-Prime",
-    "valuation": null,
-    "emailDate": "2026-05-11"
-  },
-  {
-    "company": "Develo",
-    "dealSummary": "Develo, a company focused on electronic medical records in pediatrics, received a $14 million Series A led by Blueprint Equity, Axios reported.",
-    "round": "Series A",
-    "amount": "$14 million",
-    "leadInvestors": "Blueprint Equity",
-    "valuation": null,
-    "emailDate": "2026-05-11"
-  },
-  {
-    "company": "Balcony",
-    "dealSummary": "Blockchain data infrastructure company Balcony, which focuses on the real estate economy, raised a $12.7 million seed round led by Blockchange Ventures.",
+    "company": "Ciridae",
+    "dealSummary": "Ciridae, the developer of an AI operating system for companies in the home services and industrial distribution sectors, raised a $20 million seed round led by Accel.",
     "round": "Seed",
-    "amount": "$12.7 million",
-    "leadInvestors": "Blockchange Ventures",
+    "amount": "$20 million",
+    "leadInvestors": "Accel",
     "valuation": null,
-    "emailDate": "2026-05-11"
+    "emailDate": "2026-05-12"
+  },
+  {
+    "company": "Algorithmiq",
+    "dealSummary": "Milan-based quantum software startup Algorithmiq raised €18 million in a round led by United Ventures and CDP Venture Capital.",
+    "round": null,
+    "amount": "€18 million",
+    "leadInvestors": "United Ventures, CDP Venture Capital",
+    "valuation": null,
+    "emailDate": "2026-05-12"
   }
 ]
