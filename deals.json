@@ -1,101 +1,101 @@
 [
   {
-    "company": "Isomorphic Labs",
-    "dealSummary": "Isomorphic Labs, an AI drug design company spun out of DeepMind, raised a $2.1 billion round led by Thrive Capital.",
+    "company": "Anthropic",
+    "dealSummary": "Anthropic is in talks to raise a $30 billion round at a $900 billion valuation, Bloomberg reported.",
     "round": null,
-    "amount": "$2.1 billion",
-    "leadInvestors": "Thrive Capital",
-    "valuation": null,
-    "emailDate": "2026-05-13"
-  },
-  {
-    "company": "Nscale",
-    "dealSummary": "London-based AI data center specialist Nscale raised $790 million in financing from investors including ABN AMRO, DNB and Eksfin.",
-    "round": null,
-    "amount": "$790 million",
-    "leadInvestors": "ABN AMRO, DNB, Eksfin",
-    "valuation": null,
-    "emailDate": "2026-05-13"
-  },
-  {
-    "company": "N8n",
-    "dealSummary": "Berlin-based AI orchestration platform developer N8n secured a new investment from SAP at a valuation of over $5.2 billion.",
-    "round": null,
-    "amount": "$5.2 billion",
+    "amount": "$30 billion",
     "leadInvestors": null,
-    "valuation": null,
-    "emailDate": "2026-05-13"
+    "valuation": "$900 billion",
+    "emailDate": "2026-05-14"
   },
   {
-    "company": "Photonic",
-    "dealSummary": "Vancouver-based quantum computing startup Photonic received a C$275 million ($200 million) round led by Planet First Partners.",
+    "company": "Anduril",
+    "dealSummary": "Defense tech startup Anduril raised a $5 billion round led by Thrive Capital and Andreessen Horowitz at a $61 billion valuation.",
     "round": null,
-    "amount": "$275 million",
-    "leadInvestors": "Planet First Partners",
-    "valuation": null,
-    "emailDate": "2026-05-13"
+    "amount": "$5 billion",
+    "leadInvestors": "Thrive Capital, Andreessen Horowitz",
+    "valuation": "$61 billion",
+    "emailDate": "2026-05-14"
   },
   {
-    "company": "Exaforce",
-    "dealSummary": "Agentic security operations startup Exaforce raised a $125 million Series B from investors including HarbourVest, Peak XV Partners and Seligman Ventures.",
+    "company": "Quantum Systems",
+    "dealSummary": "Germany-based drone startup Quantum Systems is in talks to raise a €600 million round from investors including Airbus and Blackstone at a valuation close to €7 billion, Bloomberg reported.",
+    "round": null,
+    "amount": "€600 million",
+    "leadInvestors": "Airbus, Blackstone",
+    "valuation": null,
+    "emailDate": "2026-05-14"
+  },
+  {
+    "company": "Mind Robotics",
+    "dealSummary": "Mind Robotics, the developer of an industrial robotics platform, secured a $400 million round led by Kleiner Perkins.",
+    "round": null,
+    "amount": "$400 million",
+    "leadInvestors": "Kleiner Perkins",
+    "valuation": null,
+    "emailDate": "2026-05-14"
+  },
+  {
+    "company": "Wispr AI",
+    "dealSummary": "Wispr AI, the developer of an AI voice dictation tool, is in talks to raise a $260 million round led by Menlo Ventures at a $2 billion valuation, Bloomberg reported.",
+    "round": null,
+    "amount": "$260 million",
+    "leadInvestors": "Menlo Ventures",
+    "valuation": "$2 billion",
+    "emailDate": "2026-05-14"
+  },
+  {
+    "company": "Oishii",
+    "dealSummary": "Oishii, which operates an indoor vertical farm for strawberries, raised a $150 million Series C led by SPARX Asset Management.",
+    "round": "Series C",
+    "amount": "$150 million",
+    "leadInvestors": "SPARX Asset Management",
+    "valuation": null,
+    "emailDate": "2026-05-14"
+  },
+  {
+    "company": "German quantum-powered medical imaging specialist NVision",
+    "dealSummary": "German quantum-powered medical imaging specialist NVision raised a $55 million Series B led by Abbott.",
     "round": "Series B",
-    "amount": "$125 million",
-    "leadInvestors": "HarbourVest, Peak XV Partners, Seligman Ventures",
+    "amount": "$55 million",
+    "leadInvestors": "Abbott",
     "valuation": null,
-    "emailDate": "2026-05-13"
+    "emailDate": "2026-05-14"
   },
   {
-    "company": "Havoc",
-    "dealSummary": "Havoc, the developer of autonomous systems for military and defense, received a $100 million Series A from investors including CCM Capital Markets, Clear Street and Cobalt Capital.",
-    "round": "Series A",
-    "amount": "$100 million",
-    "leadInvestors": "CCM Capital Markets, Clear Street, Cobalt Capital",
+    "company": "Judgment Labs",
+    "dealSummary": "Judgment Labs, a startup building infrastructure for evaluating AI agents, received $32 million across its seed and Series A rounds led by Lightspeed.",
+    "round": "Seed",
+    "amount": "$32 million",
+    "leadInvestors": "Lightspeed",
     "valuation": null,
-    "emailDate": "2026-05-13"
+    "emailDate": "2026-05-14"
   },
   {
-    "company": "Star Catcher Industries",
-    "dealSummary": "Star Catcher Industries, a company building power infrastructure in space, raised a $65 million Series A led by B Capital and co-led by Shield Capital and Cerberus Ventures.",
-    "round": "Series A",
-    "amount": "$65 million",
-    "leadInvestors": "B Capital, co-led by Shield Capital, Cerberus Ventures",
+    "company": "Roadrunner",
+    "dealSummary": "Revenue infrastructure developer Roadrunner raised $27 million across a seed round led by Kleiner Perkins and a Series A led by Founders Fund.9amHealth, the operator of a virtual care platform for cardiometabolic care, secured a $26 million Series B led by Define Ventures.",
+    "round": "Seed",
+    "amount": "$27 million",
+    "leadInvestors": "Kleiner Perkins, a Series A led by Founders Fund",
     "valuation": null,
-    "emailDate": "2026-05-13"
+    "emailDate": "2026-05-14"
   },
   {
-    "company": "Vapi",
-    "dealSummary": "Voice AI startup Vapi secured a $50 million Series B led by Peak XV Partners.",
-    "round": "Series B",
-    "amount": "$50 million",
-    "leadInvestors": "Peak XV Partners",
-    "valuation": null,
-    "emailDate": "2026-05-13"
-  },
-  {
-    "company": "Gaiia",
-    "dealSummary": "Gaiia, which develops operating systems for communications service providers, raised a $40 million Series B led by JMI Equity.",
-    "round": "Series B",
-    "amount": "$40 million",
-    "leadInvestors": "JMI Equity",
-    "valuation": null,
-    "emailDate": "2026-05-13"
-  },
-  {
-    "company": "Embat",
-    "dealSummary": "Madrid-based treasury management startup Embat secured a €30 million Series B from investors including Cathay Innovation, Creandum and Samaipata.",
-    "round": "Series B",
-    "amount": "€30 million",
-    "leadInvestors": "Cathay Innovation, Creandum, Samaipata",
-    "valuation": null,
-    "emailDate": "2026-05-13"
-  },
-  {
-    "company": "Fifth Dimension",
-    "dealSummary": "Fifth Dimension, a London-based developer of an AI intelligence platform for real assets, raised a $26 million Series A led by HV Capital.",
+    "company": "BranchLab",
+    "dealSummary": "Pharmaceutical marketing platform developer BranchLab raised a $26 million Series A led by McKesson Ventures.",
     "round": "Series A",
     "amount": "$26 million",
-    "leadInvestors": "HV Capital",
+    "leadInvestors": "McKesson Ventures",
     "valuation": null,
-    "emailDate": "2026-05-13"
+    "emailDate": "2026-05-14"
+  },
+  {
+    "company": "Webidoo",
+    "dealSummary": "Webidoo, a Milan-based startup building an AI operating layer for small and midsized businesses, received $25 million in a round led by Azimut Libera Impresa.",
+    "round": null,
+    "amount": "$25 million",
+    "leadInvestors": "Azimut Libera Impresa",
+    "valuation": null,
+    "emailDate": "2026-05-14"
   }
 ]
