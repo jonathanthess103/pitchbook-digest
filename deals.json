@@ -1,101 +1,92 @@
 [
   {
-    "company": "Anthropic",
-    "dealSummary": "Anthropic is in talks to raise a $30 billion round at a $900 billion valuation, Bloomberg reported.",
+    "company": "Modal",
+    "dealSummary": "Modal, which rents out software and GPUs to train AI models, is in talks to raise a new round led by Accel and Redpoint Ventures at a valuation of around $4.5 billion, The Information reported.",
     "round": null,
-    "amount": "$30 billion",
-    "leadInvestors": null,
-    "valuation": "$900 billion",
-    "emailDate": "2026-05-14"
-  },
-  {
-    "company": "Anduril",
-    "dealSummary": "Defense tech startup Anduril raised a $5 billion round led by Thrive Capital and Andreessen Horowitz at a $61 billion valuation.",
-    "round": null,
-    "amount": "$5 billion",
-    "leadInvestors": "Thrive Capital, Andreessen Horowitz",
-    "valuation": "$61 billion",
-    "emailDate": "2026-05-14"
-  },
-  {
-    "company": "Quantum Systems",
-    "dealSummary": "Germany-based drone startup Quantum Systems is in talks to raise a €600 million round from investors including Airbus and Blackstone at a valuation close to €7 billion, Bloomberg reported.",
-    "round": null,
-    "amount": "€600 million",
-    "leadInvestors": "Airbus, Blackstone",
+    "amount": "$4.5 billion",
+    "leadInvestors": "Accel, Redpoint Ventures",
     "valuation": null,
-    "emailDate": "2026-05-14"
+    "emailDate": "2026-05-15"
   },
   {
-    "company": "Mind Robotics",
-    "dealSummary": "Mind Robotics, the developer of an industrial robotics platform, secured a $400 million round led by Kleiner Perkins.",
+    "company": "Fractile",
+    "dealSummary": "London-based AI chips developer Fractile secured $220 million in a round led by Accel, Factorial Funds and Founders Fund.",
     "round": null,
-    "amount": "$400 million",
-    "leadInvestors": "Kleiner Perkins",
+    "amount": "$220 million",
+    "leadInvestors": "Accel, Factorial Funds, Founders Fund",
     "valuation": null,
-    "emailDate": "2026-05-14"
+    "emailDate": "2026-05-15"
   },
   {
-    "company": "Wispr AI",
-    "dealSummary": "Wispr AI, the developer of an AI voice dictation tool, is in talks to raise a $260 million round led by Menlo Ventures at a $2 billion valuation, Bloomberg reported.",
-    "round": null,
-    "amount": "$260 million",
-    "leadInvestors": "Menlo Ventures",
-    "valuation": "$2 billion",
-    "emailDate": "2026-05-14"
-  },
-  {
-    "company": "Oishii",
-    "dealSummary": "Oishii, which operates an indoor vertical farm for strawberries, raised a $150 million Series C led by SPARX Asset Management.",
-    "round": "Series C",
-    "amount": "$150 million",
-    "leadInvestors": "SPARX Asset Management",
-    "valuation": null,
-    "emailDate": "2026-05-14"
-  },
-  {
-    "company": "German quantum-powered medical imaging specialist NVision",
-    "dealSummary": "German quantum-powered medical imaging specialist NVision raised a $55 million Series B led by Abbott.",
+    "company": "Create Medicines",
+    "dealSummary": "Create Medicines, a biotech startup developing treatments for cancer and autoimmune diseases, raised a $122 million Series B led by Newpath Partners, ARCH Venture Partners and Hatteras Venture Partners.",
     "round": "Series B",
-    "amount": "$55 million",
-    "leadInvestors": "Abbott",
+    "amount": "$122 million",
+    "leadInvestors": "Newpath Partners, ARCH Venture Partners, Hatteras Venture Partners",
     "valuation": null,
-    "emailDate": "2026-05-14"
+    "emailDate": "2026-05-15"
   },
   {
-    "company": "Judgment Labs",
-    "dealSummary": "Judgment Labs, a startup building infrastructure for evaluating AI agents, received $32 million across its seed and Series A rounds led by Lightspeed.",
-    "round": "Seed",
-    "amount": "$32 million",
-    "leadInvestors": "Lightspeed",
-    "valuation": null,
-    "emailDate": "2026-05-14"
-  },
-  {
-    "company": "Roadrunner",
-    "dealSummary": "Revenue infrastructure developer Roadrunner raised $27 million across a seed round led by Kleiner Perkins and a Series A led by Founders Fund.9amHealth, the operator of a virtual care platform for cardiometabolic care, secured a $26 million Series B led by Define Ventures.",
-    "round": "Seed",
-    "amount": "$27 million",
-    "leadInvestors": "Kleiner Perkins, a Series A led by Founders Fund",
-    "valuation": null,
-    "emailDate": "2026-05-14"
-  },
-  {
-    "company": "BranchLab",
-    "dealSummary": "Pharmaceutical marketing platform developer BranchLab raised a $26 million Series A led by McKesson Ventures.",
+    "company": "Gridcare",
+    "dealSummary": "AI power infrastructure company Gridcare secured a $64 million Series A led by Sutter Hill Ventures.",
     "round": "Series A",
-    "amount": "$26 million",
-    "leadInvestors": "McKesson Ventures",
+    "amount": "$64 million",
+    "leadInvestors": "Sutter Hill Ventures",
     "valuation": null,
-    "emailDate": "2026-05-14"
+    "emailDate": "2026-05-15"
   },
   {
-    "company": "Webidoo",
-    "dealSummary": "Webidoo, a Milan-based startup building an AI operating layer for small and midsized businesses, received $25 million in a round led by Azimut Libera Impresa.",
-    "round": null,
-    "amount": "$25 million",
-    "leadInvestors": "Azimut Libera Impresa",
+    "company": "Mantle8",
+    "dealSummary": "French natural hydrogen exploration startup Mantle8 raised a €31 million Series A led by Sandwater.",
+    "round": "Series A",
+    "amount": "€31 million",
+    "leadInvestors": "Sandwater",
     "valuation": null,
-    "emailDate": "2026-05-14"
+    "emailDate": "2026-05-15"
+  },
+  {
+    "company": "Equipifi, developer of a bank-integrated buy now, pay later platform",
+    "dealSummary": "Equipifi, developer of a bank-integrated buy now, pay later platform, received a $34 million Series B led by Left Lane Capital.",
+    "round": "Series B",
+    "amount": "$34 million",
+    "leadInvestors": "Left Lane Capital",
+    "valuation": null,
+    "emailDate": "2026-05-15"
+  },
+  {
+    "company": "Nectar Social",
+    "dealSummary": "Nectar Social, the developer of an agentic marketing operating system, raised a $30 million Series A led by Menlo Ventures.",
+    "round": "Series A",
+    "amount": "$30 million",
+    "leadInvestors": "Menlo Ventures",
+    "valuation": null,
+    "emailDate": "2026-05-15"
+  },
+  {
+    "company": "Stitch",
+    "dealSummary": "Saudi Arabia-based fintech Stitch secured a $25 million Series A led by Andreessen Horowitz.",
+    "round": "Series A",
+    "amount": "$25 million",
+    "leadInvestors": "Andreessen Horowitz",
+    "valuation": null,
+    "emailDate": "2026-05-15"
+  },
+  {
+    "company": "GovWell",
+    "dealSummary": "GovWell, a developer of AI software for government institutions, raised a $25 million Series A led by Insight Partners.",
+    "round": "Series A",
+    "amount": "$25 million",
+    "leadInvestors": "Insight Partners",
+    "valuation": null,
+    "emailDate": "2026-05-15"
+  },
+  {
+    "company": "Wirestock",
+    "dealSummary": "Wirestock, a startup providing datasets to AI labs for model development, secured a $23 million Series A led by Nava Ventures.",
+    "round": "Series A",
+    "amount": "$23 million",
+    "leadInvestors": "Nava Ventures",
+    "valuation": null,
+    "emailDate": "2026-05-15"
   }
 ]
