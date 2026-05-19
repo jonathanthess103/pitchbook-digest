@@ -1,92 +1,65 @@
 [
   {
-    "company": "Low Carbon Materials",
-    "dealSummary": "UK-based Low Carbon Materials, which develops carbon-negative additives that decarbonize concrete and asphalt, raised $1.5 billion in March.",
-    "round": null,
-    "amount": "$1.5 billion",
-    "leadInvestors": null,
-    "valuation": null,
-    "emailDate": "2026-05-18"
+    "company": "Sigma",
+    "dealSummary": "Data analytics software developer Sigma raised an $80 million Series E led by Princeville Capital at a $3 billion valuation.",
+    "round": "Series E",
+    "amount": "$80 million",
+    "leadInvestors": "Princeville Capital",
+    "valuation": "$3 billion",
+    "emailDate": "2026-05-19"
   },
   {
-    "company": "Cloover",
-    "dealSummary": "German renewable energy startup Cloover closed a $1.2 billion Series A in January, while Octopus Energy spin-off Kraken Technologies secured $1 billion in the same month.",
+    "company": "Gradiant",
+    "dealSummary": "Gradiant, which offers water treatment technology, raised a Series E led by Safar Partners and Hostplus Superannuation Fund at a $2 billion valuation.",
+    "round": "Series E",
+    "amount": "$2 billion",
+    "leadInvestors": "Safar Partners, Hostplus Superannuation Fund",
+    "valuation": "$2 billion",
+    "emailDate": "2026-05-19"
+  },
+  {
+    "company": "Tomorrow.io",
+    "dealSummary": "Tomorrow.io, the developer of a weather forecasting platform, secured an additional $35 million in a Series F extension from Pitango and Harel Insurance.",
+    "round": "Series F",
+    "amount": "$35 million",
+    "leadInvestors": null,
+    "valuation": null,
+    "emailDate": "2026-05-19"
+  },
+  {
+    "company": "Arkeus",
+    "dealSummary": "Melbourne-based defense tech startup Arkeus received an $18 million Series A led by QIC Ventures.",
     "round": "Series A",
-    "amount": "$1.2 billion",
-    "leadInvestors": null,
-    "valuation": null,
-    "emailDate": "2026-05-18"
-  },
-  {
-    "company": "Together, these deals represent 56.4% of Europe's Q1 deal value. The concentration in capital is reflected in deal count",
-    "dealSummary": "Together, these deals represent 56.4% of Europe's Q1 deal value. The concentration in capital is reflected in deal count, which is tracking below last year's level with just 191 European rounds closing in Q1. While dealmaking has slowed, there are meaningful tailwinds for climate-tech startups. Conflicts in Ukraine and the Middle East have reinforced the urgency of energy independence in Europe, accelerating political and corporate appetite for alternatives such as renewables. AI offers opportunities for startups, particularly in the built environment segment. AI is being used to optimize energy management and grid infrastructure. The high energy demands of data centers are spawning a new global subset of companies focused on reducing their environmental impact. But geopolitical instability cuts both ways. Disruption to global shipping routes and supply chains is affecting hardware-heavy verticals, including climate tech, adding costs and uncertainty for startups. Download the research Related article: LP interest in climate has cooled, but sophistication is rising Side Letters Smart reads that caught our eye. • Meta employees are being asked to train the AI that will replace them. \"Even if we haven't lost our jobs to AI yet, we're being commoditized in advance.\" [The San Francisco Standard] • Larry Peter sees AI agents as a crucial part of keeping his cheese business alive. See how Petaluma Creamery embraced technology to improve the delivery of products from its 400 cows. [Fortune] • Personalized health algorithms might be missing the mark, especially for those with chronic health conditions. [The Verge] Since yesterday, the PitchBook Platform added: 45 Deals 190 People 66 Companies Request a free trial The Daily Benchmark: 2016 Vintage Global Real Assets Funds Median IRR 7.54% Top Quartile IRR 11.54% 0.54x Median DPI Select top performers Kimmeridge Energy Fund III AIM Storage AIM Landfill *IRR: net of fees 51 Funds in Benchmark » Check out the latest version of PitchBook Benchmarks VC Deals Seoul-based Dunamu, which operates a crypto exchange platform, received a $1 trillion won ($670 million) investment from Hana Bank.",
-    "round": null,
-    "amount": "$670 million",
-    "leadInvestors": null,
-    "valuation": null,
-    "emailDate": "2026-05-18"
-  },
-  {
-    "company": "Destinus",
-    "dealSummary": "Destinus, a Netherlands-based weapons and drone startup, is in talks to raise a €200 million round at a valuation of over €5 billion, Bloomberg reported.",
-    "round": null,
-    "amount": "€200 million",
-    "leadInvestors": null,
-    "valuation": null,
-    "emailDate": "2026-05-18"
-  },
-  {
-    "company": "Multiverse",
-    "dealSummary": "London-based AI upskilling startup Multiverse raised $70 million in a round led by Schroders Capital.",
-    "round": null,
-    "amount": "$70 million",
-    "leadInvestors": "Schroders Capital",
-    "valuation": null,
-    "emailDate": "2026-05-18"
-  },
-  {
-    "company": "BlueWind Medical",
-    "dealSummary": "BlueWind Medical, which develops medical devices for urinary incontinence, secured $47.8 million in equity and debt.",
-    "round": null,
-    "amount": "$47.8 million",
-    "leadInvestors": null,
-    "valuation": null,
-    "emailDate": "2026-05-18"
-  },
-  {
-    "company": "Iceotope",
-    "dealSummary": "Iceotope, a UK-based precision liquid cooling specialist, received a $26 million Series B led by Two Seas Capital and Barclays Climate Ventures.",
-    "round": "Series B",
-    "amount": "$26 million",
-    "leadInvestors": "Two Seas Capital, Barclays Climate Ventures",
-    "valuation": null,
-    "emailDate": "2026-05-18"
-  },
-  {
-    "company": "Crew Carbon",
-    "dealSummary": "Carbon dioxide removal startup Crew Carbon raised a $25 million Series A led by Burnt Island Ventures.",
-    "round": "Series A",
-    "amount": "$25 million",
-    "leadInvestors": "Burnt Island Ventures",
-    "valuation": null,
-    "emailDate": "2026-05-18"
-  },
-  {
-    "company": "Xpanner",
-    "dealSummary": "Xpanner, a robotics and physical AI startup focused on construction automation, secured an $18 million Series B bridge round led by Korea Investment Partners.",
-    "round": "Series B",
     "amount": "$18 million",
-    "leadInvestors": "Korea Investment Partners",
+    "leadInvestors": "QIC Ventures",
     "valuation": null,
-    "emailDate": "2026-05-18"
+    "emailDate": "2026-05-19"
   },
   {
-    "company": "Nof1",
-    "dealSummary": "AI research lab Nof1, which focuses on financial markets, received a $15 million round led by SUI Group and Karatage Opportunities.",
+    "company": "Blink",
+    "dealSummary": "Blink, which offers a workforce management platform for frontline industries like restaurants, raised a $17 million round from Enlightened Hospitality Investments.",
     "round": null,
-    "amount": "$15 million",
-    "leadInvestors": "SUI Group, Karatage Opportunities",
+    "amount": "$17 million",
+    "leadInvestors": null,
     "valuation": null,
-    "emailDate": "2026-05-18"
+    "emailDate": "2026-05-19"
+  },
+  {
+    "company": "Cosmico",
+    "dealSummary": "Cosmico, a Milan-based talent startup, raised $14 million in a round led by P101.",
+    "round": null,
+    "amount": "$14 million",
+    "leadInvestors": "P101",
+    "valuation": null,
+    "emailDate": "2026-05-19"
+  },
+  {
+    "company": "Searchable",
+    "dealSummary": "London-based Searchable, which focuses on AI search optimization, secured a $14 million round led by Headline at an $85 million valuation.",
+    "round": null,
+    "amount": "$14 million",
+    "leadInvestors": "Headline at an $85 million valuation",
+    "valuation": null,
+    "emailDate": "2026-05-19"
   }
 ]
