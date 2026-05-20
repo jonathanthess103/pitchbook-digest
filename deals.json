@@ -1,65 +1,110 @@
 [
   {
-    "company": "Sigma",
-    "dealSummary": "Data analytics software developer Sigma raised an $80 million Series E led by Princeville Capital at a $3 billion valuation.",
-    "round": "Series E",
-    "amount": "$80 million",
-    "leadInvestors": "Princeville Capital",
-    "valuation": "$3 billion",
-    "emailDate": "2026-05-19"
+    "company": "Decart",
+    "dealSummary": "AI startup Decart raised a $300 million round led by Radical Ventures at a $4 billion valuation.",
+    "round": null,
+    "amount": "$300 million",
+    "leadInvestors": "Radical Ventures",
+    "valuation": "$4 billion",
+    "emailDate": "2026-05-20"
   },
   {
-    "company": "Gradiant",
-    "dealSummary": "Gradiant, which offers water treatment technology, raised a Series E led by Safar Partners and Hostplus Superannuation Fund at a $2 billion valuation.",
-    "round": "Series E",
-    "amount": "$2 billion",
-    "leadInvestors": "Safar Partners, Hostplus Superannuation Fund",
+    "company": "Modular data center builder Armada",
+    "dealSummary": "Modular data center builder Armada secured a $230 million Series B led by Overmatch, BlackRock and 8090 Industries at a $2 billion valuation.",
+    "round": "Series B",
+    "amount": "$230 million",
+    "leadInvestors": "Overmatch, BlackRock, 8090 Industries",
     "valuation": "$2 billion",
-    "emailDate": "2026-05-19"
+    "emailDate": "2026-05-20"
   },
   {
-    "company": "Tomorrow.io",
-    "dealSummary": "Tomorrow.io, the developer of a weather forecasting platform, secured an additional $35 million in a Series F extension from Pitango and Harel Insurance.",
-    "round": "Series F",
+    "company": "Radar",
+    "dealSummary": "Radar, the developer of a retail intelligence platform, raised a $170 million Series B led by Gideon Strategic Partners and Nimble Partners at a $1 billion valuation.",
+    "round": "Series B",
+    "amount": "$170 million",
+    "leadInvestors": "Gideon Strategic Partners, Nimble Partners",
+    "valuation": "$1 billion",
+    "emailDate": "2026-05-20"
+  },
+  {
+    "company": "Sima.ai",
+    "dealSummary": "Sima.ai, the developer of specialized chips for drones and cameras, is in talks to raise over $100 million in a new round at a $1.4 billion valuation, The Information reported.",
+    "round": null,
+    "amount": "$100 million",
+    "leadInvestors": null,
+    "valuation": "$1.4 billion",
+    "emailDate": "2026-05-20"
+  },
+  {
+    "company": "Nourish",
+    "dealSummary": "Nourish, the operator of a telehealth platform for nutrition-related chronic conditions, secured a $100 million Series C led by Menlo Ventures.",
+    "round": "Series C",
+    "amount": "$100 million",
+    "leadInvestors": "Menlo Ventures",
+    "valuation": null,
+    "emailDate": "2026-05-20"
+  },
+  {
+    "company": "Commure",
+    "dealSummary": "Commure, which develops AI for healthcare administration, raised a $70 million round led by General Catalyst at a $7 billion valuation.",
+    "round": null,
+    "amount": "$70 million",
+    "leadInvestors": "General Catalyst",
+    "valuation": "$7 billion",
+    "emailDate": "2026-05-20"
+  },
+  {
+    "company": "Lexroom",
+    "dealSummary": "Milan-based legal tech startup Lexroom raised a $50 million Series B led by Left Lane Capital.",
+    "round": "Series B",
+    "amount": "$50 million",
+    "leadInvestors": "Left Lane Capital",
+    "valuation": null,
+    "emailDate": "2026-05-20"
+  },
+  {
+    "company": "Relay",
+    "dealSummary": "Relay, a fintech startup focused on small business banking, received a $50 million investment from General Catalyst.",
+    "round": null,
+    "amount": "$50 million",
+    "leadInvestors": null,
+    "valuation": null,
+    "emailDate": "2026-05-20"
+  },
+  {
+    "company": "Cagent Vascular",
+    "dealSummary": "Cagent Vascular, which specializes in technology for endovascular treatments, raised a $41 million Series D led by US Venture Partners and Astoria Health Investors.",
+    "round": "Series D",
+    "amount": "$41 million",
+    "leadInvestors": "US Venture Partners, Astoria Health Investors",
+    "valuation": null,
+    "emailDate": "2026-05-20"
+  },
+  {
+    "company": "Dust",
+    "dealSummary": "Dust, a Paris-based startup helping businesses build custom AI agents, secured a $40 million Series B from investors including Abstract, Sequoia and Snowflake Ventures.",
+    "round": "Series B",
+    "amount": "$40 million",
+    "leadInvestors": "Abstract, Sequoia, Snowflake Ventures",
+    "valuation": null,
+    "emailDate": "2026-05-20"
+  },
+  {
+    "company": "Bunch, operator of an AI-native fund operations platform for private markets",
+    "dealSummary": "Berlin-based Bunch, operator of an AI-native fund operations platform for private markets, raised a $35 million Series B led by Portage.",
+    "round": "Series B",
     "amount": "$35 million",
-    "leadInvestors": null,
+    "leadInvestors": "Portage",
     "valuation": null,
-    "emailDate": "2026-05-19"
+    "emailDate": "2026-05-20"
   },
   {
-    "company": "Arkeus",
-    "dealSummary": "Melbourne-based defense tech startup Arkeus received an $18 million Series A led by QIC Ventures.",
+    "company": "Scope",
+    "dealSummary": "Scope, a London-based provider of AI-enabled industrial inspection software, received a $20 million Series A led by Index Ventures.",
     "round": "Series A",
-    "amount": "$18 million",
-    "leadInvestors": "QIC Ventures",
+    "amount": "$20 million",
+    "leadInvestors": "Index Ventures",
     "valuation": null,
-    "emailDate": "2026-05-19"
-  },
-  {
-    "company": "Blink",
-    "dealSummary": "Blink, which offers a workforce management platform for frontline industries like restaurants, raised a $17 million round from Enlightened Hospitality Investments.",
-    "round": null,
-    "amount": "$17 million",
-    "leadInvestors": null,
-    "valuation": null,
-    "emailDate": "2026-05-19"
-  },
-  {
-    "company": "Cosmico",
-    "dealSummary": "Cosmico, a Milan-based talent startup, raised $14 million in a round led by P101.",
-    "round": null,
-    "amount": "$14 million",
-    "leadInvestors": "P101",
-    "valuation": null,
-    "emailDate": "2026-05-19"
-  },
-  {
-    "company": "Searchable",
-    "dealSummary": "London-based Searchable, which focuses on AI search optimization, secured a $14 million round led by Headline at an $85 million valuation.",
-    "round": null,
-    "amount": "$14 million",
-    "leadInvestors": "Headline at an $85 million valuation",
-    "valuation": null,
-    "emailDate": "2026-05-19"
+    "emailDate": "2026-05-20"
   }
 ]
