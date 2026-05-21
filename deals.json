@@ -1,110 +1,56 @@
 [
   {
-    "company": "Decart",
-    "dealSummary": "AI startup Decart raised a $300 million round led by Radical Ventures at a $4 billion valuation.",
-    "round": null,
-    "amount": "$300 million",
-    "leadInvestors": "Radical Ventures",
-    "valuation": "$4 billion",
-    "emailDate": "2026-05-20"
+    "company": "Mercury",
+    "dealSummary": "Mercury, a banking-focused fintech specialist, raised a $200 million Series D led by TCV at a $5.2 billion valuation.",
+    "round": "Series D",
+    "amount": "$200 million",
+    "leadInvestors": "TCV",
+    "valuation": "$5.2 billion",
+    "emailDate": "2026-05-21"
   },
   {
-    "company": "Modular data center builder Armada",
-    "dealSummary": "Modular data center builder Armada secured a $230 million Series B led by Overmatch, BlackRock and 8090 Industries at a $2 billion valuation.",
-    "round": "Series B",
-    "amount": "$230 million",
-    "leadInvestors": "Overmatch, BlackRock, 8090 Industries",
-    "valuation": "$2 billion",
-    "emailDate": "2026-05-20"
-  },
-  {
-    "company": "Radar",
-    "dealSummary": "Radar, the developer of a retail intelligence platform, raised a $170 million Series B led by Gideon Strategic Partners and Nimble Partners at a $1 billion valuation.",
-    "round": "Series B",
-    "amount": "$170 million",
-    "leadInvestors": "Gideon Strategic Partners, Nimble Partners",
-    "valuation": "$1 billion",
-    "emailDate": "2026-05-20"
-  },
-  {
-    "company": "Sima.ai",
-    "dealSummary": "Sima.ai, the developer of specialized chips for drones and cameras, is in talks to raise over $100 million in a new round at a $1.4 billion valuation, The Information reported.",
-    "round": null,
-    "amount": "$100 million",
-    "leadInvestors": null,
-    "valuation": "$1.4 billion",
-    "emailDate": "2026-05-20"
-  },
-  {
-    "company": "Nourish",
-    "dealSummary": "Nourish, the operator of a telehealth platform for nutrition-related chronic conditions, secured a $100 million Series C led by Menlo Ventures.",
+    "company": "Primer",
+    "dealSummary": "Primer, a London-based payments infrastructure startup, raised a $100 million Series C led by Sofina.",
     "round": "Series C",
     "amount": "$100 million",
-    "leadInvestors": "Menlo Ventures",
+    "leadInvestors": "Sofina",
     "valuation": null,
-    "emailDate": "2026-05-20"
+    "emailDate": "2026-05-21"
   },
   {
-    "company": "Commure",
-    "dealSummary": "Commure, which develops AI for healthcare administration, raised a $70 million round led by General Catalyst at a $7 billion valuation.",
-    "round": null,
-    "amount": "$70 million",
-    "leadInvestors": "General Catalyst",
-    "valuation": "$7 billion",
-    "emailDate": "2026-05-20"
-  },
-  {
-    "company": "Lexroom",
-    "dealSummary": "Milan-based legal tech startup Lexroom raised a $50 million Series B led by Left Lane Capital.",
-    "round": "Series B",
-    "amount": "$50 million",
-    "leadInvestors": "Left Lane Capital",
-    "valuation": null,
-    "emailDate": "2026-05-20"
-  },
-  {
-    "company": "Relay",
-    "dealSummary": "Relay, a fintech startup focused on small business banking, received a $50 million investment from General Catalyst.",
-    "round": null,
-    "amount": "$50 million",
-    "leadInvestors": null,
-    "valuation": null,
-    "emailDate": "2026-05-20"
-  },
-  {
-    "company": "Cagent Vascular",
-    "dealSummary": "Cagent Vascular, which specializes in technology for endovascular treatments, raised a $41 million Series D led by US Venture Partners and Astoria Health Investors.",
-    "round": "Series D",
-    "amount": "$41 million",
-    "leadInvestors": "US Venture Partners, Astoria Health Investors",
-    "valuation": null,
-    "emailDate": "2026-05-20"
-  },
-  {
-    "company": "Dust",
-    "dealSummary": "Dust, a Paris-based startup helping businesses build custom AI agents, secured a $40 million Series B from investors including Abstract, Sequoia and Snowflake Ventures.",
-    "round": "Series B",
-    "amount": "$40 million",
-    "leadInvestors": "Abstract, Sequoia, Snowflake Ventures",
-    "valuation": null,
-    "emailDate": "2026-05-20"
-  },
-  {
-    "company": "Bunch, operator of an AI-native fund operations platform for private markets",
-    "dealSummary": "Berlin-based Bunch, operator of an AI-native fund operations platform for private markets, raised a $35 million Series B led by Portage.",
-    "round": "Series B",
-    "amount": "$35 million",
-    "leadInvestors": "Portage",
-    "valuation": null,
-    "emailDate": "2026-05-20"
-  },
-  {
-    "company": "Scope",
-    "dealSummary": "Scope, a London-based provider of AI-enabled industrial inspection software, received a $20 million Series A led by Index Ventures.",
+    "company": "Variational",
+    "dealSummary": "Variational, the developer of a decentralized protocol for crypto trading, secured a $50 million Series A led by Dragonfly Capital.",
     "round": "Series A",
-    "amount": "$20 million",
-    "leadInvestors": "Index Ventures",
+    "amount": "$50 million",
+    "leadInvestors": "Dragonfly Capital",
     "valuation": null,
-    "emailDate": "2026-05-20"
+    "emailDate": "2026-05-21"
+  },
+  {
+    "company": "Catena Labs",
+    "dealSummary": "Catena Labs, which offers tools for AI agents to conduct financial transactions, raised a $30 million Series A led by Acrew Capital and Andreessen Horowitz's a16z crypto.",
+    "round": "Series A",
+    "amount": "$30 million",
+    "leadInvestors": "Acrew Capital, Andreessen Horowitz's a16z crypto",
+    "valuation": null,
+    "emailDate": "2026-05-21"
+  },
+  {
+    "company": "CircuitHub",
+    "dealSummary": "CircuitHub, a UK-based hardware production startup, secured $28 million in a round led by Plural.",
+    "round": null,
+    "amount": "$28 million",
+    "leadInvestors": "Plural",
+    "valuation": null,
+    "emailDate": "2026-05-21"
+  },
+  {
+    "company": "RemotePass",
+    "dealSummary": "RemotePass, which offers an employment and payroll platform, raised a $17.4 million Series B led by EBRD Venture Capital.",
+    "round": "Series B",
+    "amount": "$17.4 million",
+    "leadInvestors": "EBRD Venture Capital",
+    "valuation": null,
+    "emailDate": "2026-05-21"
   }
 ]
