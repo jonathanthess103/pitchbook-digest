@@ -1,101 +1,20 @@
 [
   {
-    "company": "Manus",
-    "dealSummary": "Manus is in talks to raise about $1 billion in a round that could fulfill demands from the Chinese government for the AI startup to unwind its acquisition by Meta, Bloomberg reported.",
+    "company": "Starlab Space",
+    "dealSummary": "Starlab Space, an aerospace startup developing a commercial space station, received an investment from 1789 Capital. Austrian clean energy startup REPS raised $23.6 million.",
     "round": null,
-    "amount": "$1 billion",
+    "amount": "$23.6 million",
     "leadInvestors": null,
     "valuation": null,
-    "emailDate": "2026-05-22"
+    "emailDate": "2026-05-25"
   },
   {
-    "company": "Hark",
-    "dealSummary": "Hark, the developer of a personal AI platform, raised a $700 million Series A led by Parkway Venture Capital at a $6 billion valuation.",
-    "round": "Series A",
-    "amount": "$700 million",
-    "leadInvestors": "Parkway Venture Capital",
-    "valuation": "$6 billion",
-    "emailDate": "2026-05-22"
-  },
-  {
-    "company": "Modal",
-    "dealSummary": "Cloud computing startup Modal raised a $355 million round led by General Catalyst and Redpoint at a $4.65 billion valuation.",
-    "round": null,
-    "amount": "$355 million",
-    "leadInvestors": "General Catalyst, Redpoint",
-    "valuation": "$4.65 billion",
-    "emailDate": "2026-05-22"
-  },
-  {
-    "company": "Amca",
-    "dealSummary": "Aerospace and defense components manufacturer Amca secured a $300 million Series B led by Caffeinated Capital.",
-    "round": "Series B",
-    "amount": "$300 million",
-    "leadInvestors": "Caffeinated Capital",
+    "company": "The Path",
+    "dealSummary": "AI therapy platform developer The Path raised a $14.3 million seed round led by Prime Movers Lab.",
+    "round": "Seed",
+    "amount": "$14.3 million",
+    "leadInvestors": "Prime Movers Lab",
     "valuation": null,
-    "emailDate": "2026-05-22"
-  },
-  {
-    "company": "Exa",
-    "dealSummary": "AI search engine developer Exa raised a $250 million round led by Andreessen Horowitz at a $2.2 billion valuation.",
-    "round": null,
-    "amount": "$250 million",
-    "leadInvestors": "Andreessen Horowitz",
-    "valuation": "$2.2 billion",
-    "emailDate": "2026-05-22"
-  },
-  {
-    "company": "Farther",
-    "dealSummary": "Farther, which operates a wealth management platform, raised a $150 million Series D led by General Atlantic.",
-    "round": "Series D",
-    "amount": "$150 million",
-    "leadInvestors": "General Atlantic",
-    "valuation": null,
-    "emailDate": "2026-05-22"
-  },
-  {
-    "company": "Fresha",
-    "dealSummary": "London-based Fresha, the operator of a beauty and wellness services booking platform, received an $80 million investment from KKR's Next Generation Technology Growth fund.",
-    "round": "Growth",
-    "amount": "$80 million",
-    "leadInvestors": null,
-    "valuation": null,
-    "emailDate": "2026-05-22"
-  },
-  {
-    "company": "Scapia",
-    "dealSummary": "India-based Scapia, a fintech startup specializing in travel payments, raised $63 million led by General Catalyst.",
-    "round": null,
-    "amount": "$63 million",
-    "leadInvestors": "General Catalyst",
-    "valuation": null,
-    "emailDate": "2026-05-22"
-  },
-  {
-    "company": "Socket",
-    "dealSummary": "Cybersecurity startup Socket, which focuses on the software supply chain, secured a $60 million Series B led by Thrive Capital at a $1 billion valuation.",
-    "round": "Series B",
-    "amount": "$60 million",
-    "leadInvestors": "Thrive Capital",
-    "valuation": "$1 billion",
-    "emailDate": "2026-05-22"
-  },
-  {
-    "company": "AI-powered procurement startup Pivot",
-    "dealSummary": "Paris-based AI-powered procurement startup Pivot raised a $40 million Series B led by Forestay Capital and Notion Capital.",
-    "round": "Series B",
-    "amount": "$40 million",
-    "leadInvestors": "Forestay Capital, Notion Capital",
-    "valuation": null,
-    "emailDate": "2026-05-22"
-  },
-  {
-    "company": "Prelude",
-    "dealSummary": "Prelude, a Paris-based digital onboarding startup, secured a $20 million Series A led by 20VC.",
-    "round": "Series A",
-    "amount": "$20 million",
-    "leadInvestors": "20VC",
-    "valuation": null,
-    "emailDate": "2026-05-22"
+    "emailDate": "2026-05-25"
   }
 ]
