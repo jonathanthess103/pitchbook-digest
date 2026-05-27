@@ -1,1 +1,65 @@
-[]
+[
+  {
+    "company": "Stord",
+    "dealSummary": "Atlanta-based Stord, an ecommerce fulfillment specialist, raised a $250 million Series F at a $3 billion valuation from investors including Kleiner Perkins, Lux and Founders Fund.",
+    "round": "Series F",
+    "amount": "$250 million",
+    "leadInvestors": "Kleiner Perkins, Lux, Founders Fund",
+    "valuation": "$3 billion",
+    "emailDate": "2026-05-27"
+  },
+  {
+    "company": "OpenRouter",
+    "dealSummary": "New York-based OpenRouter, which offers an AI models marketplace, raised a $113 million Series B led by CapitalG and backed by investors including NVentures, MongoDB Ventures and Andreessen Horowitz.",
+    "round": "Series B",
+    "amount": "$113 million",
+    "leadInvestors": "CapitalG, backed by investors including NVentures, MongoDB Ventures, Andreessen Horowitz",
+    "valuation": null,
+    "emailDate": "2026-05-27"
+  },
+  {
+    "company": "Phytolon",
+    "dealSummary": "Phytolon, an Israel-based developer of food dye alternatives, secured $23.6 million from investors including Colorcon Ventures and Millennium Foodtech.",
+    "round": null,
+    "amount": "$23.6 million",
+    "leadInvestors": "Colorcon Ventures, Millennium Foodtech",
+    "valuation": null,
+    "emailDate": "2026-05-27"
+  },
+  {
+    "company": "P2 Science",
+    "dealSummary": "Connecticut-based P2 Science, which designs and manufactures renewable ingredients for consumer goods, raised $23 million in new funding led by Sofinnova Partners and backed by investors including Emerald Technology Ventures and Elm Street Ventures.",
+    "round": null,
+    "amount": "$23 million",
+    "leadInvestors": "Sofinnova Partners, backed by investors including Emerald Technology Ventures, Elm Street Ventures",
+    "valuation": null,
+    "emailDate": "2026-05-27"
+  },
+  {
+    "company": "V4c.ai",
+    "dealSummary": "Arizona-based V4c.ai, an AI data and services startup, raised new funding from Databricks Ventures and Tquila. Paris-based preventive health startup Lucis secured a $20 million Series A led by Singular.",
+    "round": "Series A",
+    "amount": "$20 million",
+    "leadInvestors": "Singular",
+    "valuation": null,
+    "emailDate": "2026-05-27"
+  },
+  {
+    "company": "AllO",
+    "dealSummary": "AllO, a Munich-based developer of a restaurant operating system, raised a $14 million Series A led by Zigg Capital, Tech Funding News reported.",
+    "round": "Series A",
+    "amount": "$14 million",
+    "leadInvestors": "Zigg Capital, Tech Funding News reported",
+    "valuation": null,
+    "emailDate": "2026-05-27"
+  },
+  {
+    "company": "Quanscient",
+    "dealSummary": "Quanscient, a Finnish multiphysics simulation software provider, secured a €10 million Series A led by 55 North and B&C Group.",
+    "round": "Series A",
+    "amount": "€10 million",
+    "leadInvestors": "55 North, B&C Group",
+    "valuation": null,
+    "emailDate": "2026-05-27"
+  }
+]
