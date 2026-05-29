@@ -1,110 +1,74 @@
 [
   {
-    "company": "Cognition",
-    "dealSummary": "Cognition, an AI startup specializing in a programming agent for software development, raised over $1 billion in a round led by Lux Capital, General Catalyst and 8VC at a $26 billion valuation.",
-    "round": null,
-    "amount": "$1 billion",
-    "leadInvestors": "Lux Capital, General Catalyst, 8VC",
-    "valuation": "$26 billion",
-    "emailDate": "2026-05-28"
-  },
-  {
-    "company": "Fireworks AI",
-    "dealSummary": "AI inference startup Fireworks AI is in talks to raise a new round led by Index Ventures at a $15 billion valuation, Bloomberg reported.",
-    "round": null,
-    "amount": "$15 billion",
-    "leadInvestors": "Index Ventures",
-    "valuation": "$15 billion",
-    "emailDate": "2026-05-28"
-  },
-  {
-    "company": "Capchase",
-    "dealSummary": "Capchase, the developer of a financing platform for enterprise technology companies, secured over $200 million in a mix of equity and debt warehouse facilities.",
-    "round": null,
-    "amount": "$200 million",
-    "leadInvestors": null,
+    "company": "Focused Energy",
+    "dealSummary": "German laser fusion startup Focused Energy raised a $240 million Series A from investors including RWE, SPRIND and Prime Movers Lab.",
+    "round": "Series A",
+    "amount": "$240 million",
+    "leadInvestors": "RWE, SPRIND, Prime Movers Lab",
     "valuation": null,
-    "emailDate": "2026-05-28"
+    "emailDate": "2026-05-29"
   },
   {
-    "company": "Thea Energy",
-    "dealSummary": "Fusion energy startup Thea Energy raised a $100 million Series B from investors including US Innovative Technology Fund, General Innovation Capital Partners and Linse Capital.",
-    "round": "Series B",
+    "company": "Corgi",
+    "dealSummary": "AI insurance startup Corgi secured a $106 million round led by TCV at a $2.6 billion valuation.",
+    "round": null,
+    "amount": "$106 million",
+    "leadInvestors": "TCV",
+    "valuation": "$2.6 billion",
+    "emailDate": "2026-05-29"
+  },
+  {
+    "company": "Garner Health, whose platform helps patients find healthcare providers",
+    "dealSummary": "Garner Health, whose platform helps patients find healthcare providers, raised a $100 million Series E led by Index Ventures.",
+    "round": "Series E",
     "amount": "$100 million",
-    "leadInvestors": "US Innovative Technology Fund, General Innovation Capital Partners, Linse Capital",
+    "leadInvestors": "Index Ventures",
     "valuation": null,
-    "emailDate": "2026-05-28"
+    "emailDate": "2026-05-29"
   },
   {
-    "company": "WeRoad",
-    "dealSummary": "Italian travel tech startup WeRoad raised a $58 million Series C led by Airbnb.",
-    "round": "Series C",
-    "amount": "$58 million",
-    "leadInvestors": "Airbnb",
-    "valuation": null,
-    "emailDate": "2026-05-28"
-  },
-  {
-    "company": "ClearNote Health",
-    "dealSummary": "ClearNote Health, which develops tools for early cancer detection, received a $52 million Series D led by Mattias Westman.",
-    "round": "Series D",
-    "amount": "$52 million",
-    "leadInvestors": "Mattias Westman",
-    "valuation": null,
-    "emailDate": "2026-05-28"
-  },
-  {
-    "company": "Pace",
-    "dealSummary": "Pace, a startup developing AI agents for insurance workflows, raised a $46 million Series B led by Thrive Capital and Sequoia.",
-    "round": "Series B",
-    "amount": "$46 million",
-    "leadInvestors": "Thrive Capital, Sequoia",
-    "valuation": null,
-    "emailDate": "2026-05-28"
-  },
-  {
-    "company": "NavigateAI",
-    "dealSummary": "NavigateAI, the developer of a physical AI copilot for construction field workers, secured a $25 million seed round led by Elad Gil.",
-    "round": "Seed",
-    "amount": "$25 million",
-    "leadInvestors": "Elad Gil",
-    "valuation": null,
-    "emailDate": "2026-05-28"
-  },
-  {
-    "company": "LightTable",
-    "dealSummary": "LightTable raised a $22 million Series A led by Innovation Endeavors.",
-    "round": "Series A",
-    "amount": "$22 million",
-    "leadInvestors": "Innovation Endeavors",
-    "valuation": null,
-    "emailDate": "2026-05-28"
-  },
-  {
-    "company": "LightTable develops an AI design and construction platform. AI inference optimization startup Tensormesh",
-    "dealSummary": "LightTable develops an AI design and construction platform. AI inference optimization startup Tensormesh secured a $20 million round from investors including AMD Ventures, CoreWeave and NVentures.",
+    "company": "Observable Space",
+    "dealSummary": "Observable Space, a startup developing optical telescopes for satellite navigation and communication, raised a $90 million round led by Lux Capital.",
     "round": null,
-    "amount": "$20 million",
-    "leadInvestors": "AMD Ventures, CoreWeave, NVentures",
+    "amount": "$90 million",
+    "leadInvestors": "Lux Capital",
     "valuation": null,
-    "emailDate": "2026-05-28"
+    "emailDate": "2026-05-29"
   },
   {
-    "company": "D-CRBN",
-    "dealSummary": "D-CRBN, a Belgian startup focusing on carbon-dioxide recycling for industrials, raised a €17.5 million Series A led by Astaia.",
-    "round": "Series A",
-    "amount": "€17.5 million",
-    "leadInvestors": "Astaia",
+    "company": "Orbital Industries",
+    "dealSummary": "London-based industrial hardware specialist Orbital Industries secured a $50 million Series B led by Plural.",
+    "round": "Series B",
+    "amount": "$50 million",
+    "leadInvestors": "Plural",
     "valuation": null,
-    "emailDate": "2026-05-28"
+    "emailDate": "2026-05-29"
   },
   {
-    "company": "RevEng. AI",
-    "dealSummary": "London-based cybersecurity specialist RevEng. AI received a $15 million Series A led by NATO Innovation Fund.",
-    "round": "Series A",
-    "amount": "$15 million",
-    "leadInvestors": "NATO Innovation Fund",
+    "company": "Daloopa",
+    "dealSummary": "AI data infrastructure startup Daloopa received a $47 million Series C led by Brighton Park Capital.",
+    "round": "Series C",
+    "amount": "$47 million",
+    "leadInvestors": "Brighton Park Capital",
     "valuation": null,
-    "emailDate": "2026-05-28"
+    "emailDate": "2026-05-29"
+  },
+  {
+    "company": "Canals",
+    "dealSummary": "Canals, which offers a platform for industrial supply chain distribution workflows, raised a $35 million round led by Base10 Partners.",
+    "round": null,
+    "amount": "$35 million",
+    "leadInvestors": "Base10 Partners",
+    "valuation": null,
+    "emailDate": "2026-05-29"
+  },
+  {
+    "company": "Saris",
+    "dealSummary": "Saris, the developer of a workflow automation platform for banks and credit unions, secured a $28.8 million Series A led by 8VC.",
+    "round": "Series A",
+    "amount": "$28.8 million",
+    "leadInvestors": "8VC",
+    "valuation": null,
+    "emailDate": "2026-05-29"
   }
 ]
