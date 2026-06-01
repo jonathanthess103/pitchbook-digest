@@ -1,74 +1,92 @@
 [
   {
-    "company": "Focused Energy",
-    "dealSummary": "German laser fusion startup Focused Energy raised a $240 million Series A from investors including RWE, SPRIND and Prime Movers Lab.",
-    "round": "Series A",
-    "amount": "$240 million",
-    "leadInvestors": "RWE, SPRIND, Prime Movers Lab",
-    "valuation": null,
-    "emailDate": "2026-05-29"
-  },
-  {
-    "company": "Corgi",
-    "dealSummary": "AI insurance startup Corgi secured a $106 million round led by TCV at a $2.6 billion valuation.",
-    "round": null,
-    "amount": "$106 million",
-    "leadInvestors": "TCV",
-    "valuation": "$2.6 billion",
-    "emailDate": "2026-05-29"
-  },
-  {
-    "company": "Garner Health, whose platform helps patients find healthcare providers",
-    "dealSummary": "Garner Health, whose platform helps patients find healthcare providers, raised a $100 million Series E led by Index Ventures.",
-    "round": "Series E",
-    "amount": "$100 million",
-    "leadInvestors": "Index Ventures",
-    "valuation": null,
-    "emailDate": "2026-05-29"
-  },
-  {
-    "company": "Observable Space",
-    "dealSummary": "Observable Space, a startup developing optical telescopes for satellite navigation and communication, raised a $90 million round led by Lux Capital.",
-    "round": null,
-    "amount": "$90 million",
-    "leadInvestors": "Lux Capital",
-    "valuation": null,
-    "emailDate": "2026-05-29"
-  },
-  {
-    "company": "Orbital Industries",
-    "dealSummary": "London-based industrial hardware specialist Orbital Industries secured a $50 million Series B led by Plural.",
+    "company": "is driven by a narrow band of AI startups",
+    "dealSummary": "is driven by a narrow band of AI startups raising outsized rounds. Tenex. AI, which offers AI-enabled threat detection software, said in March it had raised a $250 million Series B led by Crosspoint Capital Partners.",
     "round": "Series B",
-    "amount": "$50 million",
-    "leadInvestors": "Plural",
+    "amount": "$250 million",
+    "leadInvestors": "Crosspoint Capital Partners",
     "valuation": null,
-    "emailDate": "2026-05-29"
+    "emailDate": "2026-06-01"
   },
   {
-    "company": "Daloopa",
-    "dealSummary": "AI data infrastructure startup Daloopa received a $47 million Series C led by Brighton Park Capital.",
-    "round": "Series C",
-    "amount": "$47 million",
-    "leadInvestors": "Brighton Park Capital",
+    "company": "Upwind",
+    "dealSummary": "Upwind, a cloud security startup, announced an up-sized Series B in January, netting $250 million led by Bessemer Venture Partners.",
+    "round": "Series B",
+    "amount": "$250 million",
+    "leadInvestors": "Bessemer Venture Partners",
     "valuation": null,
-    "emailDate": "2026-05-29"
+    "emailDate": "2026-06-01"
   },
   {
-    "company": "Canals",
-    "dealSummary": "Canals, which offers a platform for industrial supply chain distribution workflows, raised a $35 million round led by Base10 Partners.",
+    "company": "For companies so early in their lifecycle, these rounds are unusual but reflect a broader trend of AI-native startups attracting investor attention and capital. Download the report Related research: AI Propels Next Phase of Cybersecurity Investment Side Letters Smart reads that caught our eye. • About 80% of proteins in the human body are too slippery for traditional pills to target. Molecular glue is changing that, and Novartis, Roche, and Lilly have already committed billions to chase it. [Bloomberg] • South Korea's won is at its weakest against the dollar since the 2008-09 financial crisis—putting it among Asia's worst-performing currencies despite a record trade surplus fueled by semiconductor exports. [Financial Times] • What do the LA Rams, Denver Nuggets, Colorado Avalanche and Arsenal have in common? They're all owned by billionaire Stan Kroenke",
+    "dealSummary": "For companies so early in their lifecycle, these rounds are unusual but reflect a broader trend of AI-native startups attracting investor attention and capital. Download the report Related research: AI Propels Next Phase of Cybersecurity Investment Side Letters Smart reads that caught our eye. • About 80% of proteins in the human body are too slippery for traditional pills to target. Molecular glue is changing that, and Novartis, Roche, and Lilly have already committed billions to chase it. [Bloomberg] • South Korea's won is at its weakest against the dollar since the 2008-09 financial crisis—putting it among Asia's worst-performing currencies despite a record trade surplus fueled by semiconductor exports. [Financial Times] • What do the LA Rams, Denver Nuggets, Colorado Avalanche and Arsenal have in common? They're all owned by billionaire Stan Kroenke, who is conquering sports from one type of football to another. [The Wall Street Journal] Since yesterday, the PitchBook Platform added: 17 Deals 192 People 139 Companies Request a free trial The Daily Benchmark: 2023 Vintage Global VC Funds with more than $250M Median IRR 10.80% Top Quartile IRR 25.47% 0.00x Median DPI Select top performers Lux Ventures VIII PVP Fund IV General Catalyst Group XII - Creation *IRR: net of fees 50 Funds in Benchmark » Check out the latest version of PitchBook Benchmarks VC Deals Home battery startup Base Power is in talks to raise a round led by Ribbit Capital at a $12 billion valuation, The Information reported.",
     "round": null,
-    "amount": "$35 million",
-    "leadInvestors": "Base10 Partners",
-    "valuation": null,
-    "emailDate": "2026-05-29"
+    "amount": "$250 m",
+    "leadInvestors": "semiconductor exports",
+    "valuation": "$12 billion",
+    "emailDate": "2026-06-01"
   },
   {
-    "company": "Saris",
-    "dealSummary": "Saris, the developer of a workflow automation platform for banks and credit unions, secured a $28.8 million Series A led by 8VC.",
-    "round": "Series A",
-    "amount": "$28.8 million",
-    "leadInvestors": "8VC",
+    "company": "South Korea's Xcena",
+    "dealSummary": "South Korea's Xcena, an AI infrastructure computing startup, raised a $135 million Series B led by Atinum Investment and IMM Investment at a $570 million valuation.",
+    "round": "Series B",
+    "amount": "$135 million",
+    "leadInvestors": "Atinum Investment, IMM Investment",
+    "valuation": "$570 million",
+    "emailDate": "2026-06-01"
+  },
+  {
+    "company": "Inherent",
+    "dealSummary": "London-based AI lab Inherent raised a $50 million seed investment led by Index Ventures and Radical Ventures.",
+    "round": "Seed",
+    "amount": "$50 million",
+    "leadInvestors": "Index Ventures, Radical Ventures",
     "valuation": null,
-    "emailDate": "2026-05-29"
+    "emailDate": "2026-06-01"
+  },
+  {
+    "company": "Picogrid",
+    "dealSummary": "Picogrid, a defense tech company building integration software for military systems, secured a $45 million Series A led by Bessemer Venture Partners.",
+    "round": "Series A",
+    "amount": "$45 million",
+    "leadInvestors": "Bessemer Venture Partners",
+    "valuation": null,
+    "emailDate": "2026-06-01"
+  },
+  {
+    "company": "H1",
+    "dealSummary": "Healthcare data platform developer H1 received a $40 million round led by CVS Health Ventures.",
+    "round": null,
+    "amount": "$40 million",
+    "leadInvestors": "CVS Health Ventures",
+    "valuation": null,
+    "emailDate": "2026-06-01"
+  },
+  {
+    "company": "Gray Swan",
+    "dealSummary": "Pittsburgh-based Gray Swan, an AI security and safety startup, raised a $40 million Series A led by Wing Venture Capital and Madrona.",
+    "round": "Series A",
+    "amount": "$40 million",
+    "leadInvestors": "Wing Venture Capital, Madrona",
+    "valuation": null,
+    "emailDate": "2026-06-01"
+  },
+  {
+    "company": "Geordie AI",
+    "dealSummary": "Geordie AI, a London-based developer of a security and governance platform for AI agents, secured a $30 million Series A led by Balderton Capital.",
+    "round": "Series A",
+    "amount": "$30 million",
+    "leadInvestors": "Balderton Capital",
+    "valuation": null,
+    "emailDate": "2026-06-01"
+  },
+  {
+    "company": "MokN",
+    "dealSummary": "French cybersecurity startup MokN raised a $15 million Series A led by GV.",
+    "round": "Series A",
+    "amount": "$15 million",
+    "leadInvestors": "GV",
+    "valuation": null,
+    "emailDate": "2026-06-01"
   }
 ]
