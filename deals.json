@@ -1,92 +1,56 @@
 [
   {
-    "company": "is driven by a narrow band of AI startups",
-    "dealSummary": "is driven by a narrow band of AI startups raising outsized rounds. Tenex. AI, which offers AI-enabled threat detection software, said in March it had raised a $250 million Series B led by Crosspoint Capital Partners.",
-    "round": "Series B",
-    "amount": "$250 million",
-    "leadInvestors": "Crosspoint Capital Partners",
-    "valuation": null,
-    "emailDate": "2026-06-01"
-  },
-  {
-    "company": "Upwind",
-    "dealSummary": "Upwind, a cloud security startup, announced an up-sized Series B in January, netting $250 million led by Bessemer Venture Partners.",
-    "round": "Series B",
-    "amount": "$250 million",
-    "leadInvestors": "Bessemer Venture Partners",
-    "valuation": null,
-    "emailDate": "2026-06-01"
-  },
-  {
-    "company": "For companies so early in their lifecycle, these rounds are unusual but reflect a broader trend of AI-native startups attracting investor attention and capital. Download the report Related research: AI Propels Next Phase of Cybersecurity Investment Side Letters Smart reads that caught our eye. • About 80% of proteins in the human body are too slippery for traditional pills to target. Molecular glue is changing that, and Novartis, Roche, and Lilly have already committed billions to chase it. [Bloomberg] • South Korea's won is at its weakest against the dollar since the 2008-09 financial crisis—putting it among Asia's worst-performing currencies despite a record trade surplus fueled by semiconductor exports. [Financial Times] • What do the LA Rams, Denver Nuggets, Colorado Avalanche and Arsenal have in common? They're all owned by billionaire Stan Kroenke",
-    "dealSummary": "For companies so early in their lifecycle, these rounds are unusual but reflect a broader trend of AI-native startups attracting investor attention and capital. Download the report Related research: AI Propels Next Phase of Cybersecurity Investment Side Letters Smart reads that caught our eye. • About 80% of proteins in the human body are too slippery for traditional pills to target. Molecular glue is changing that, and Novartis, Roche, and Lilly have already committed billions to chase it. [Bloomberg] • South Korea's won is at its weakest against the dollar since the 2008-09 financial crisis—putting it among Asia's worst-performing currencies despite a record trade surplus fueled by semiconductor exports. [Financial Times] • What do the LA Rams, Denver Nuggets, Colorado Avalanche and Arsenal have in common? They're all owned by billionaire Stan Kroenke, who is conquering sports from one type of football to another. [The Wall Street Journal] Since yesterday, the PitchBook Platform added: 17 Deals 192 People 139 Companies Request a free trial The Daily Benchmark: 2023 Vintage Global VC Funds with more than $250M Median IRR 10.80% Top Quartile IRR 25.47% 0.00x Median DPI Select top performers Lux Ventures VIII PVP Fund IV General Catalyst Group XII - Creation *IRR: net of fees 50 Funds in Benchmark » Check out the latest version of PitchBook Benchmarks VC Deals Home battery startup Base Power is in talks to raise a round led by Ribbit Capital at a $12 billion valuation, The Information reported.",
+    "company": "Vast",
+    "dealSummary": "Vast, a Beijing-based 3D modeling specialist, secured a $200 million round led by Ince Capital and a VC fund backed by China Life Insurance at a $1 billion valuation.",
     "round": null,
-    "amount": "$250 m",
-    "leadInvestors": "semiconductor exports",
-    "valuation": "$12 billion",
-    "emailDate": "2026-06-01"
+    "amount": "$200 million",
+    "leadInvestors": "Ince Capital, a VC fund backed by China Life Insurance",
+    "valuation": "$1 billion",
+    "emailDate": "2026-06-02"
   },
   {
-    "company": "South Korea's Xcena",
-    "dealSummary": "South Korea's Xcena, an AI infrastructure computing startup, raised a $135 million Series B led by Atinum Investment and IMM Investment at a $570 million valuation.",
-    "round": "Series B",
-    "amount": "$135 million",
-    "leadInvestors": "Atinum Investment, IMM Investment",
-    "valuation": "$570 million",
-    "emailDate": "2026-06-01"
+    "company": "Mecka AI",
+    "dealSummary": "Mecka AI, a startup collecting data on human motions and gestures for use in physical AI, raised a $25 million Series A and a $35 million follow-on investment, both led by Framework Ventures.",
+    "round": "Series A",
+    "amount": "$25 million",
+    "leadInvestors": "Framework Ventures",
+    "valuation": null,
+    "emailDate": "2026-06-02"
   },
   {
-    "company": "Inherent",
-    "dealSummary": "London-based AI lab Inherent raised a $50 million seed investment led by Index Ventures and Radical Ventures.",
+    "company": "Encosa",
+    "dealSummary": "Munich-based battery storage startup Encosa raised a €25 million seed investment led by Realyze Ventures.",
     "round": "Seed",
-    "amount": "$50 million",
-    "leadInvestors": "Index Ventures, Radical Ventures",
+    "amount": "€25 million",
+    "leadInvestors": "Realyze Ventures",
     "valuation": null,
-    "emailDate": "2026-06-01"
+    "emailDate": "2026-06-02"
   },
   {
-    "company": "Picogrid",
-    "dealSummary": "Picogrid, a defense tech company building integration software for military systems, secured a $45 million Series A led by Bessemer Venture Partners.",
+    "company": "Invisix",
+    "dealSummary": "Dutch semiconductor specialist Invisix secured a €20 million seed round from investors including Hitachi Ventures, Transition Ventures and Imec.xpand.",
+    "round": "Seed",
+    "amount": "€20 million",
+    "leadInvestors": "Hitachi Ventures, Transition Ventures, Imec",
+    "valuation": null,
+    "emailDate": "2026-06-02"
+  },
+  {
+    "company": "Sekai",
+    "dealSummary": "Sekai, the developer of a platform to create small apps using text prompts, secured a $20 million Series A led by Khosla Ventures and Connect Ventures, Axios reported.",
     "round": "Series A",
-    "amount": "$45 million",
-    "leadInvestors": "Bessemer Venture Partners",
+    "amount": "$20 million",
+    "leadInvestors": "Khosla Ventures, Connect Ventures",
     "valuation": null,
-    "emailDate": "2026-06-01"
+    "emailDate": "2026-06-02"
   },
   {
-    "company": "H1",
-    "dealSummary": "Healthcare data platform developer H1 received a $40 million round led by CVS Health Ventures.",
-    "round": null,
-    "amount": "$40 million",
-    "leadInvestors": "CVS Health Ventures",
+    "company": "Veritas Aortic Solutions",
+    "dealSummary": "Veritas Aortic Solutions, a medtech startup focused on aortic diseases, raised a $12 million seed round.",
+    "round": "Seed",
+    "amount": "$12 million",
+    "leadInvestors": null,
     "valuation": null,
-    "emailDate": "2026-06-01"
-  },
-  {
-    "company": "Gray Swan",
-    "dealSummary": "Pittsburgh-based Gray Swan, an AI security and safety startup, raised a $40 million Series A led by Wing Venture Capital and Madrona.",
-    "round": "Series A",
-    "amount": "$40 million",
-    "leadInvestors": "Wing Venture Capital, Madrona",
-    "valuation": null,
-    "emailDate": "2026-06-01"
-  },
-  {
-    "company": "Geordie AI",
-    "dealSummary": "Geordie AI, a London-based developer of a security and governance platform for AI agents, secured a $30 million Series A led by Balderton Capital.",
-    "round": "Series A",
-    "amount": "$30 million",
-    "leadInvestors": "Balderton Capital",
-    "valuation": null,
-    "emailDate": "2026-06-01"
-  },
-  {
-    "company": "MokN",
-    "dealSummary": "French cybersecurity startup MokN raised a $15 million Series A led by GV.",
-    "round": "Series A",
-    "amount": "$15 million",
-    "leadInvestors": "GV",
-    "valuation": null,
-    "emailDate": "2026-06-01"
+    "emailDate": "2026-06-02"
   }
 ]
