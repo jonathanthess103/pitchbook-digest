@@ -1,56 +1,101 @@
 [
   {
-    "company": "Vast",
-    "dealSummary": "Vast, a Beijing-based 3D modeling specialist, secured a $200 million round led by Ince Capital and a VC fund backed by China Life Insurance at a $1 billion valuation.",
-    "round": null,
-    "amount": "$200 million",
-    "leadInvestors": "Ince Capital, a VC fund backed by China Life Insurance",
-    "valuation": "$1 billion",
-    "emailDate": "2026-06-02"
-  },
-  {
-    "company": "Mecka AI",
-    "dealSummary": "Mecka AI, a startup collecting data on human motions and gestures for use in physical AI, raised a $25 million Series A and a $35 million follow-on investment, both led by Framework Ventures.",
-    "round": "Series A",
-    "amount": "$25 million",
-    "leadInvestors": "Framework Ventures",
-    "valuation": null,
-    "emailDate": "2026-06-02"
-  },
-  {
-    "company": "Encosa",
-    "dealSummary": "Munich-based battery storage startup Encosa raised a €25 million seed investment led by Realyze Ventures.",
+    "company": "The full report breaks down the scorecard in detail, including OpenAI's capital efficiency, compute obligations, and governance risks. Download it here Related research: Ranking the AI Giants: A New Framework for the Frontier Five Catch Up Quick • A third of the dollars invested in consumer AI seed startups go to companies that fail, according to a new PitchBook analysis. Find out more • Blackstone",
+    "dealSummary": "The full report breaks down the scorecard in detail, including OpenAI's capital efficiency, compute obligations, and governance risks. Download it here Related research: Ranking the AI Giants: A New Framework for the Frontier Five Catch Up Quick • A third of the dollars invested in consumer AI seed startups go to companies that fail, according to a new PitchBook analysis. Find out more • Blackstone closed its third Asia fund on $13 billion, as PE giants race to plant flags in the region's high-growth markets.",
     "round": "Seed",
-    "amount": "€25 million",
-    "leadInvestors": "Realyze Ventures",
-    "valuation": null,
-    "emailDate": "2026-06-02"
-  },
-  {
-    "company": "Invisix",
-    "dealSummary": "Dutch semiconductor specialist Invisix secured a €20 million seed round from investors including Hitachi Ventures, Transition Ventures and Imec.xpand.",
-    "round": "Seed",
-    "amount": "€20 million",
-    "leadInvestors": "Hitachi Ventures, Transition Ventures, Imec",
-    "valuation": null,
-    "emailDate": "2026-06-02"
-  },
-  {
-    "company": "Sekai",
-    "dealSummary": "Sekai, the developer of a platform to create small apps using text prompts, secured a $20 million Series A led by Khosla Ventures and Connect Ventures, Axios reported.",
-    "round": "Series A",
-    "amount": "$20 million",
-    "leadInvestors": "Khosla Ventures, Connect Ventures",
-    "valuation": null,
-    "emailDate": "2026-06-02"
-  },
-  {
-    "company": "Veritas Aortic Solutions",
-    "dealSummary": "Veritas Aortic Solutions, a medtech startup focused on aortic diseases, raised a $12 million seed round.",
-    "round": "Seed",
-    "amount": "$12 million",
+    "amount": "$13 billion",
     "leadInvestors": null,
     "valuation": null,
-    "emailDate": "2026-06-02"
+    "emailDate": "2026-06-03"
+  },
+  {
+    "company": "Read more • Hightower Advisors is bringing institutional-grade investing to the mass-affluent. We sat down with Robert Picard, head of alternative investments, to learn how. Go deeper Private credit investors just read the fine print. Will private equity be next? By Esther Luz, Private Equity Reporter For the first time on record in Q1, more money was earmarked to be pulled from US non-traded business development companies than flowed in. For PE firms selling semi-liquid funds to the same wealthy clients, this is less a credit-market footnote than a warning. PE evergreen funds are a much smaller, newer piece of the market than BDCs, but they are riding the same wave, and posted record inflows of their own last year. They are also fundamentally more exposed to the financial stresses of corporate America. A surge in loan defaults by sponsor-backed businesses would be potentially catastrophic for equity holders, as they are last in line to recover their money in the event of bankruptcy. Some believe that evergreen PE products should be less prone to mass redemptions than BDCs. Private credit investments continually generate cash from interest payments, giving the impression of readily accessible liquidity. Equity portfolios can go for long stretches producing few exits, as has been the case in recent years. The greater risk, industry participants say, lies less in the asset class than in the wrapper and in the manager's ability to build and operate it. Evergreen funds must be able to efficiently onboard new investors at the freshest net asset value, provide liquidity while preserving asset quality, and govern how and when capital is distributed to investors. These are things that many PE firms have never done before. \"It's very different from a drawdown",
+    "dealSummary": "Read more • Hightower Advisors is bringing institutional-grade investing to the mass-affluent. We sat down with Robert Picard, head of alternative investments, to learn how. Go deeper Private credit investors just read the fine print. Will private equity be next? By Esther Luz, Private Equity Reporter For the first time on record in Q1, more money was earmarked to be pulled from US non-traded business development companies than flowed in. For PE firms selling semi-liquid funds to the same wealthy clients, this is less a credit-market footnote than a warning. PE evergreen funds are a much smaller, newer piece of the market than BDCs, but they are riding the same wave, and posted record inflows of their own last year. They are also fundamentally more exposed to the financial stresses of corporate America. A surge in loan defaults by sponsor-backed businesses would be potentially catastrophic for equity holders, as they are last in line to recover their money in the event of bankruptcy. Some believe that evergreen PE products should be less prone to mass redemptions than BDCs. Private credit investments continually generate cash from interest payments, giving the impression of readily accessible liquidity. Equity portfolios can go for long stretches producing few exits, as has been the case in recent years. The greater risk, industry participants say, lies less in the asset class than in the wrapper and in the manager's ability to build and operate it. Evergreen funds must be able to efficiently onboard new investors at the freshest net asset value, provide liquidity while preserving asset quality, and govern how and when capital is distributed to investors. These are things that many PE firms have never done before. \"It's very different from a drawdown closed-ended fund,\" said Veronica Aroutiunian, a partner at law firm Debevoise & Plimpton. \"Bringing wealth money into our industry is something that we all need to be very disciplined about.\" Read more Related article: Evergreen funds may cost more than you think Side Letters Smart reads that caught our eye. • Tech professionals are relocating to India. Between Donald Trump's $100,000 H-1B visa fee, a green card crackdown, and India's own booming tech sector, the calculus for Indian engineers is shifting fast. [San Francisco Chronicle] • Over 1,000 SpaceX employees banded together to bargain with wealth managers—pushing for better pricing and setting a template for how OpenAI and Anthropic staff might cash in when their own IPOs arrive. [Bloomberg] • AI won't decimate the arts, but it may make us value them more. Royal Opera associate director Netia Jones argues that rather than replacing artists, machine learning is more likely to reshape how they think and create. [The Guardian] Since yesterday, the PitchBook Platform added: 956 Deals 2642 People 1492 Companies 39 Funds Request a free trial The Daily Benchmark: 2022 Vintage Global Real Estate Funds Median IRR 4.83% Top Quartile IRR 9.20% 0.02x Median DPI Select top performers Star Asia Japan Special Situations VI NREP Nordic Strategies Fund V Chicago Pacific Founders Healthcare Real Estate Fund III *IRR: net of fees 67 Funds in Benchmark » Check out the latest version of PitchBook Benchmarks VC Deals Impulse Space, which specializes in building mobile spacecraft, raised a $500 million Series D led by 137 Ventures and Banner VC.",
+    "round": "Series D",
+    "amount": "$500 million",
+    "leadInvestors": "137 Ventures, Banner VC",
+    "valuation": null,
+    "emailDate": "2026-06-03"
+  },
+  {
+    "company": "Mach Industries",
+    "dealSummary": "Defense tech startup Mach Industries secured a $300 million Series C led by Infinite Capital and Ribbit Capital at a $1.8 billion valuation.",
+    "round": "Series C",
+    "amount": "$300 million",
+    "leadInvestors": "Infinite Capital, Ribbit Capital",
+    "valuation": "$1.8 billion",
+    "emailDate": "2026-06-03"
+  },
+  {
+    "company": "ZutaCore",
+    "dealSummary": "ZutaCore, the developer of data center cooling systems, received a $100 million Series C led by Mitsubishi Electric, Carrier and Samsung Ventures.",
+    "round": "Series C",
+    "amount": "$100 million",
+    "leadInvestors": "Mitsubishi Electric, Carrier, Samsung Ventures",
+    "valuation": null,
+    "emailDate": "2026-06-03"
+  },
+  {
+    "company": "Contraline",
+    "dealSummary": "Contraline, a startup developing male contraceptives, secured a $92.5 million Series B led by BVF Partners and RA Capital Management.",
+    "round": "Series B",
+    "amount": "$92.5 million",
+    "leadInvestors": "BVF Partners, RA Capital Management",
+    "valuation": null,
+    "emailDate": "2026-06-03"
+  },
+  {
+    "company": "Adaptive Innovations",
+    "dealSummary": "Adaptive Innovations, a home health company, raised a $50 million Series A led by Felicis and Bain Capital Ventures.",
+    "round": "Series A",
+    "amount": "$50 million",
+    "leadInvestors": "Felicis, Bain Capital Ventures",
+    "valuation": null,
+    "emailDate": "2026-06-03"
+  },
+  {
+    "company": "Centrical",
+    "dealSummary": "Israel-based Centrical, which develops employee performance evaluation software, secured a $39 million Series D led by Leeds Illuminate and Kingfisher Investment.",
+    "round": "Series D",
+    "amount": "$39 million",
+    "leadInvestors": "Leeds Illuminate, Kingfisher Investment",
+    "valuation": null,
+    "emailDate": "2026-06-03"
+  },
+  {
+    "company": "Findigs",
+    "dealSummary": "AI residential leasing platform developer Findigs raised a $32 million Series C led by RPM Ventures.",
+    "round": "Series C",
+    "amount": "$32 million",
+    "leadInvestors": "RPM Ventures",
+    "valuation": null,
+    "emailDate": "2026-06-03"
+  },
+  {
+    "company": "Advanced NanoTherapies",
+    "dealSummary": "Medtech startup Advanced NanoTherapies, which develops treatment for artery disease, received a $31 million Series B led by S3 Ventures and an undisclosed investor.",
+    "round": "Series B",
+    "amount": "$31 million",
+    "leadInvestors": "S3 Ventures, an undisclosed investor",
+    "valuation": null,
+    "emailDate": "2026-06-03"
+  },
+  {
+    "company": "Tilt, developer of a live shopping auction app",
+    "dealSummary": "London-based Tilt, developer of a live shopping auction app, raised $26 million from investors including Vinted Ventures, TQ Ventures and Balderton Capital.",
+    "round": null,
+    "amount": "$26 million",
+    "leadInvestors": "Vinted Ventures, TQ Ventures, Balderton Capital",
+    "valuation": null,
+    "emailDate": "2026-06-03"
+  },
+  {
+    "company": "Novellia",
+    "dealSummary": "Health data platform developer Novellia raised an $18 million Series A led by Spark Capital.",
+    "round": "Series A",
+    "amount": "$18 million",
+    "leadInvestors": "Spark Capital",
+    "valuation": null,
+    "emailDate": "2026-06-03"
   }
 ]
