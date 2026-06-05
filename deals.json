@@ -1,101 +1,74 @@
 [
   {
-    "company": "Lila Sciences",
-    "dealSummary": "Lila Sciences, a startup developing AI for scientific research, is in talks to raise a $2 billion Series B from investors including Calpers and NVentures, Bloomberg reported.",
-    "round": "Series B",
-    "amount": "$2 billion",
-    "leadInvestors": "Calpers, NVentures",
-    "valuation": null,
-    "emailDate": "2026-06-04"
-  },
-  {
-    "company": "Agile Robots",
-    "dealSummary": "Munich-based industrial robotics startup Agile Robots is in talks to raise about $800 million in new funding from investors including SoftBank, Bloomberg reported.",
-    "round": null,
-    "amount": "$800 million",
-    "leadInvestors": "SoftBank",
-    "valuation": null,
-    "emailDate": "2026-06-04"
-  },
-  {
-    "company": "NewLimit",
-    "dealSummary": "NewLimit, a startup developing medicines to treat aging, raised a $435 million Series C led by Founders Fund.",
-    "round": "Series C",
-    "amount": "$435 million",
-    "leadInvestors": "Founders Fund",
-    "valuation": null,
-    "emailDate": "2026-06-04"
-  },
-  {
-    "company": "Suno",
-    "dealSummary": "Suno, the developer of an AI music generator, secured a $400 million round led by Bond Capital at a $5.4 billion valuation.",
-    "round": null,
-    "amount": "$400 million",
-    "leadInvestors": "Bond Capital",
-    "valuation": "$5.4 billion",
-    "emailDate": "2026-06-04"
-  },
-  {
-    "company": "AlphaSense",
-    "dealSummary": "Market research platform developer AlphaSense raised a $350 million round from investors including Vitruvian Partners, Accenture Ventures and JPMorgan Asset Management at a $7.5 billion valuation.",
-    "round": null,
-    "amount": "$350 million",
-    "leadInvestors": "Vitruvian Partners, Accenture Ventures, JPMorgan Asset Management",
-    "valuation": "$7.5 billion",
-    "emailDate": "2026-06-04"
-  },
-  {
-    "company": "Cyera",
-    "dealSummary": "Cyera, a data security startup, received a $300 million round led by Evolution Equity Partners at a $12 billion valuation, Calcalist reported.",
-    "round": null,
-    "amount": "$300 million",
-    "leadInvestors": "Evolution Equity Partners",
-    "valuation": "$12 billion",
-    "emailDate": "2026-06-04"
-  },
-  {
-    "company": "Coralogix",
-    "dealSummary": "AI observability company Coralogix secured a $200 million Series F led by Advent International and CPP Investments.",
+    "company": "Ramp",
+    "dealSummary": "Fintech startup Ramp secured a $750 million Series F led by Iconiq, Singaporean sovereign wealth fund GIC and the Ontario Teachers' Pension Plan at a $44 billion valuation.",
     "round": "Series F",
-    "amount": "$200 million",
-    "leadInvestors": "Advent International, CPP Investments",
-    "valuation": null,
-    "emailDate": "2026-06-04"
+    "amount": "$750 million",
+    "leadInvestors": "Iconiq, Singaporean sovereign wealth fund GIC, the Ontario Teachers' Pension Plan",
+    "valuation": "$44 billion",
+    "emailDate": "2026-06-05"
   },
   {
-    "company": "EnduroSat",
-    "dealSummary": "Bulgarian space infrastructure specialist EnduroSat is in talks to secure a $200 million Series C, Sifted reported.",
+    "company": "Helion",
+    "dealSummary": "Fusion energy company Helion raised a $465 million Series G led by Thrive Capital at a $15.5 billion valuation.",
+    "round": null,
+    "amount": "$465 million",
+    "leadInvestors": "Thrive Capital",
+    "valuation": "$15.5 billion",
+    "emailDate": "2026-06-05"
+  },
+  {
+    "company": "Collate",
+    "dealSummary": "San Francisco-based Collate, which develops tools to automate paperwork for life sciences companies, received a $95 million round led by Redpoint Ventures, Forbes reported.",
+    "round": null,
+    "amount": "$95 million",
+    "leadInvestors": "Redpoint Ventures",
+    "valuation": null,
+    "emailDate": "2026-06-05"
+  },
+  {
+    "company": "CereVasc",
+    "dealSummary": "CereVasc, a medical device startup developing treatments for neurological diseases, secured an $85 million initial closing for its Series C led by Piper Sandler Merchant Banking.",
     "round": "Series C",
-    "amount": "$200 million",
-    "leadInvestors": null,
+    "amount": "$85 million",
+    "leadInvestors": "Piper Sandler Merchant Banking",
     "valuation": null,
-    "emailDate": "2026-06-04"
+    "emailDate": "2026-06-05"
   },
   {
-    "company": "Factorial",
-    "dealSummary": "Barcelona-based HR tech startup Factorial raised a $150 million Series D led by General Catalyst at a $2.5 billion valuation.",
-    "round": "Series D",
-    "amount": "$150 million",
-    "leadInvestors": "General Catalyst",
-    "valuation": "$2.5 billion",
-    "emailDate": "2026-06-04"
-  },
-  {
-    "company": "Town",
-    "dealSummary": "Town, which develops personalized AI assistants, raised a $55 million Series A led by Andreessen Horowitz, Fortune reported.",
-    "round": "Series A",
-    "amount": "$55 million",
-    "leadInvestors": "Andreessen Horowitz",
-    "valuation": null,
-    "emailDate": "2026-06-04"
-  },
-  {
-    "company": "Forage, whose platform helps low-income families manage their EBT balances",
-    "dealSummary": "Forage, whose platform helps low-income families manage their EBT balances, raised a $40 million Series B led by Mouro Capital.",
+    "company": "quick-commerce grocery platform developer FirstClub",
+    "dealSummary": "India-based quick-commerce grocery platform developer FirstClub raised a $55 million Series B led by Peak XV Partners and Sofina at a $255 million valuation.",
     "round": "Series B",
-    "amount": "$40 million",
-    "leadInvestors": "Mouro Capital",
+    "amount": "$55 million",
+    "leadInvestors": "Peak XV Partners, Sofina",
+    "valuation": "$255 million",
+    "emailDate": "2026-06-05"
+  },
+  {
+    "company": "Apoha",
+    "dealSummary": "Apoha, a London-based startup building AI models for creating new materials, raised $36 million in a round led by Singular.",
+    "round": null,
+    "amount": "$36 million",
+    "leadInvestors": "Singular",
     "valuation": null,
-    "emailDate": "2026-06-04"
+    "emailDate": "2026-06-05"
+  },
+  {
+    "company": "Semble",
+    "dealSummary": "London-based healthcare management startup Semble raised a £30 million Series C led by Revaia.",
+    "round": "Series C",
+    "amount": "£30 million",
+    "leadInvestors": "Revaia",
+    "valuation": null,
+    "emailDate": "2026-06-05"
+  },
+  {
+    "company": "Innovorder",
+    "dealSummary": "Paris-based restaurant technology startup Innovorder raised €20 million in a round led by UL Invest.",
+    "round": null,
+    "amount": "€20 million",
+    "leadInvestors": "UL Invest",
+    "valuation": null,
+    "emailDate": "2026-06-05"
   }
 ]
