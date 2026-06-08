@@ -1,74 +1,56 @@
 [
   {
-    "company": "Ramp",
-    "dealSummary": "Fintech startup Ramp secured a $750 million Series F led by Iconiq, Singaporean sovereign wealth fund GIC and the Ontario Teachers' Pension Plan at a $44 billion valuation.",
+    "company": "Supabase",
+    "dealSummary": "Supabase, which provides a Postgres development platform, raised a $500 million Series F led by Singapore's sovereign wealth fund GIC at a $10 billion valuation.",
     "round": "Series F",
-    "amount": "$750 million",
-    "leadInvestors": "Iconiq, Singaporean sovereign wealth fund GIC, the Ontario Teachers' Pension Plan",
-    "valuation": "$44 billion",
-    "emailDate": "2026-06-05"
+    "amount": "$500 million",
+    "leadInvestors": "Singapore's sovereign wealth fund GIC",
+    "valuation": "$10 billion",
+    "emailDate": "2026-06-08"
   },
   {
-    "company": "Helion",
-    "dealSummary": "Fusion energy company Helion raised a $465 million Series G led by Thrive Capital at a $15.5 billion valuation.",
+    "company": "Flourish",
+    "dealSummary": "AI model developer Flourish secured a $500 million round from investors including Jeff Bezos, GV and Lux Capital at a $2.5 billion valuation, Wired reported.",
     "round": null,
-    "amount": "$465 million",
-    "leadInvestors": "Thrive Capital",
-    "valuation": "$15.5 billion",
-    "emailDate": "2026-06-05"
+    "amount": "$500 million",
+    "leadInvestors": "Jeff Bezos, GV, Lux Capital",
+    "valuation": "$2.5 billion",
+    "emailDate": "2026-06-08"
   },
   {
-    "company": "Collate",
-    "dealSummary": "San Francisco-based Collate, which develops tools to automate paperwork for life sciences companies, received a $95 million round led by Redpoint Ventures, Forbes reported.",
+    "company": "Generalist",
+    "dealSummary": "Physical AI startup Generalist secured a $400 million round led by Radical Ventures.",
     "round": null,
-    "amount": "$95 million",
-    "leadInvestors": "Redpoint Ventures",
+    "amount": "$400 million",
+    "leadInvestors": "Radical Ventures",
     "valuation": null,
-    "emailDate": "2026-06-05"
+    "emailDate": "2026-06-08"
   },
   {
-    "company": "CereVasc",
-    "dealSummary": "CereVasc, a medical device startup developing treatments for neurological diseases, secured an $85 million initial closing for its Series C led by Piper Sandler Merchant Banking.",
-    "round": "Series C",
-    "amount": "$85 million",
-    "leadInvestors": "Piper Sandler Merchant Banking",
-    "valuation": null,
-    "emailDate": "2026-06-05"
-  },
-  {
-    "company": "quick-commerce grocery platform developer FirstClub",
-    "dealSummary": "India-based quick-commerce grocery platform developer FirstClub raised a $55 million Series B led by Peak XV Partners and Sofina at a $255 million valuation.",
+    "company": "Allen Control Systems",
+    "dealSummary": "Allen Control Systems, which develops autonomous precision weapons, received a $200 million Series B led by Smash Capital at a $2.2 billion valuation.",
     "round": "Series B",
-    "amount": "$55 million",
-    "leadInvestors": "Peak XV Partners, Sofina",
-    "valuation": "$255 million",
-    "emailDate": "2026-06-05"
+    "amount": "$200 million",
+    "leadInvestors": "Smash Capital",
+    "valuation": "$2.2 billion",
+    "emailDate": "2026-06-08"
   },
   {
-    "company": "Apoha",
-    "dealSummary": "Apoha, a London-based startup building AI models for creating new materials, raised $36 million in a round led by Singular.",
-    "round": null,
-    "amount": "$36 million",
-    "leadInvestors": "Singular",
+    "company": "Airspeed, developer of an agent-native platform for go-to-market execution",
+    "dealSummary": "London-based Airspeed, developer of an agent-native platform for go-to-market execution, raised a $20 million Series A led by DN Capital.",
+    "round": "Series A",
+    "amount": "$20 million",
+    "leadInvestors": "DN Capital",
     "valuation": null,
-    "emailDate": "2026-06-05"
+    "emailDate": "2026-06-08"
   },
   {
-    "company": "Semble",
-    "dealSummary": "London-based healthcare management startup Semble raised a £30 million Series C led by Revaia.",
-    "round": "Series C",
-    "amount": "£30 million",
-    "leadInvestors": "Revaia",
+    "company": "GR3N",
+    "dealSummary": "Swiss cleantech startup GR3N secured a €15.5 million Series B led by 360 Capital.",
+    "round": "Series B",
+    "amount": "€15.5 million",
+    "leadInvestors": "360 Capital",
     "valuation": null,
-    "emailDate": "2026-06-05"
-  },
-  {
-    "company": "Innovorder",
-    "dealSummary": "Paris-based restaurant technology startup Innovorder raised €20 million in a round led by UL Invest.",
-    "round": null,
-    "amount": "€20 million",
-    "leadInvestors": "UL Invest",
-    "valuation": null,
-    "emailDate": "2026-06-05"
+    "emailDate": "2026-06-08"
   }
 ]
