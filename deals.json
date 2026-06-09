@@ -1,56 +1,56 @@
 [
   {
-    "company": "Supabase",
-    "dealSummary": "Supabase, which provides a Postgres development platform, raised a $500 million Series F led by Singapore's sovereign wealth fund GIC at a $10 billion valuation.",
-    "round": "Series F",
-    "amount": "$500 million",
-    "leadInvestors": "Singapore's sovereign wealth fund GIC",
-    "valuation": "$10 billion",
-    "emailDate": "2026-06-08"
-  },
-  {
-    "company": "Flourish",
-    "dealSummary": "AI model developer Flourish secured a $500 million round from investors including Jeff Bezos, GV and Lux Capital at a $2.5 billion valuation, Wired reported.",
+    "company": "Moonshot AI",
+    "dealSummary": "Moonshot AI, a China-based chatbot developer, is looking to raise up to $2 billion in a round that would give the startup a $30 billion valuation, Bloomberg reported.",
     "round": null,
-    "amount": "$500 million",
-    "leadInvestors": "Jeff Bezos, GV, Lux Capital",
-    "valuation": "$2.5 billion",
-    "emailDate": "2026-06-08"
-  },
-  {
-    "company": "Generalist",
-    "dealSummary": "Physical AI startup Generalist secured a $400 million round led by Radical Ventures.",
-    "round": null,
-    "amount": "$400 million",
-    "leadInvestors": "Radical Ventures",
+    "amount": "$2 billion",
+    "leadInvestors": null,
     "valuation": null,
-    "emailDate": "2026-06-08"
+    "emailDate": "2026-06-09"
   },
   {
-    "company": "Allen Control Systems",
-    "dealSummary": "Allen Control Systems, which develops autonomous precision weapons, received a $200 million Series B led by Smash Capital at a $2.2 billion valuation.",
+    "company": "SunUp Fusion",
+    "dealSummary": "SunUp Fusion, a China-based nuclear fusion specialist, raised a $100 million round led by an investor group including Qiming Venture Partners, Deal Street Asia reported.",
+    "round": null,
+    "amount": "$100 million",
+    "leadInvestors": "an investor group including Qiming Venture Partners, Deal Street Asia reported",
+    "valuation": null,
+    "emailDate": "2026-06-09"
+  },
+  {
+    "company": "PointFive",
+    "dealSummary": "PointFive, the developer of an AI cost-management platform, secured a $60 million Series B led by Accel.",
     "round": "Series B",
-    "amount": "$200 million",
-    "leadInvestors": "Smash Capital",
-    "valuation": "$2.2 billion",
-    "emailDate": "2026-06-08"
+    "amount": "$60 million",
+    "leadInvestors": "Accel",
+    "valuation": null,
+    "emailDate": "2026-06-09"
   },
   {
-    "company": "Airspeed, developer of an agent-native platform for go-to-market execution",
-    "dealSummary": "London-based Airspeed, developer of an agent-native platform for go-to-market execution, raised a $20 million Series A led by DN Capital.",
+    "company": "Edge Markets",
+    "dealSummary": "Edge Markets, which provides a banking platform for betting and crypto, raised a $29.2 million Series A led by CoinFund.",
     "round": "Series A",
-    "amount": "$20 million",
-    "leadInvestors": "DN Capital",
+    "amount": "$29.2 million",
+    "leadInvestors": "CoinFund",
     "valuation": null,
-    "emailDate": "2026-06-08"
+    "emailDate": "2026-06-09"
   },
   {
-    "company": "GR3N",
-    "dealSummary": "Swiss cleantech startup GR3N secured a €15.5 million Series B led by 360 Capital.",
-    "round": "Series B",
-    "amount": "€15.5 million",
-    "leadInvestors": "360 Capital",
+    "company": "NewOrbit",
+    "dealSummary": "NewOrbit, a UK satellite maker, raised an $18.5 million Series A led by Voyager Ventures.",
+    "round": "Series A",
+    "amount": "$18.5 million",
+    "leadInvestors": "Voyager Ventures",
     "valuation": null,
-    "emailDate": "2026-06-08"
+    "emailDate": "2026-06-09"
+  },
+  {
+    "company": "Galvany",
+    "dealSummary": "Galvany, the Berlin-based developer of a heat pump platform, secured a €10 million seed round co-led by SET Ventures and AENU.",
+    "round": "Seed",
+    "amount": "€10 million",
+    "leadInvestors": "SET Ventures, AENU",
+    "valuation": null,
+    "emailDate": "2026-06-09"
   }
 ]
