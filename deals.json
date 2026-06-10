@@ -1,56 +1,119 @@
 [
   {
-    "company": "Moonshot AI",
-    "dealSummary": "Moonshot AI, a China-based chatbot developer, is looking to raise up to $2 billion in a round that would give the startup a $30 billion valuation, Bloomberg reported.",
+    "company": "Databricks",
+    "dealSummary": "Databricks is in talks to raise a new round at a valuation of up to $175 billion, The Information reported.",
     "round": null,
-    "amount": "$2 billion",
+    "amount": "$175 billion",
     "leadInvestors": null,
     "valuation": null,
-    "emailDate": "2026-06-09"
+    "emailDate": "2026-06-10"
   },
   {
-    "company": "SunUp Fusion",
-    "dealSummary": "SunUp Fusion, a China-based nuclear fusion specialist, raised a $100 million round led by an investor group including Qiming Venture Partners, Deal Street Asia reported.",
-    "round": null,
+    "company": "Iceye",
+    "dealSummary": "Finnish satellite maker Iceye raised €450 million in a Series F led by General Atlantic and a €550 million secondary round at a valuation of more than €10 billion.",
+    "round": "Series F",
+    "amount": "€450 million",
+    "leadInvestors": "General Atlantic, a €550 million secondary round",
+    "valuation": null,
+    "emailDate": "2026-06-10"
+  },
+  {
+    "company": "NinjaOne",
+    "dealSummary": "NinjaOne, the developer of an IT operations platform, raised $400 million in Series C extensions from investors including Wellington Management, Teachers' Venture Growth and BDT & MSD Partners at a $12.3 billion valuation.",
+    "round": "Series C",
+    "amount": "$400 million",
+    "leadInvestors": "Wellington Management, Teachers' Venture Growth, BDT & MSD Partners",
+    "valuation": "$12.3 billion",
+    "emailDate": "2026-06-10"
+  },
+  {
+    "company": "Isar Aerospace",
+    "dealSummary": "Isar Aerospace, a German provider of launch services for small and medium-sized satellites and satellite constellations, secured a €270 million Series D led by Island Green Capital and Molten Ventures.",
+    "round": "Series D",
+    "amount": "€270 million",
+    "leadInvestors": "Island Green Capital, Molten Ventures",
+    "valuation": null,
+    "emailDate": "2026-06-10"
+  },
+  {
+    "company": "Beacon",
+    "dealSummary": "Beacon, which acquires software companies and develops a business operating system, secured a $225 million Series C led by General Catalyst and HarbourVest.",
+    "round": "Series C",
+    "amount": "$225 million",
+    "leadInvestors": "General Catalyst, HarbourVest",
+    "valuation": null,
+    "emailDate": "2026-06-10"
+  },
+  {
+    "company": "Standard Bots",
+    "dealSummary": "Robotics startup Standard Bots raised a $200 million Series C led by RoboStrategy at a $1 billion valuation.",
+    "round": "Series C",
+    "amount": "$200 million",
+    "leadInvestors": "RoboStrategy",
+    "valuation": "$1 billion",
+    "emailDate": "2026-06-10"
+  },
+  {
+    "company": "GT Medical Technologies",
+    "dealSummary": "Medical device company GT Medical Technologies, which develops devices to treat brain tumors, raised a $100 million Series E led by Viking Global.",
+    "round": "Series E",
     "amount": "$100 million",
-    "leadInvestors": "an investor group including Qiming Venture Partners, Deal Street Asia reported",
+    "leadInvestors": "Viking Global",
     "valuation": null,
-    "emailDate": "2026-06-09"
+    "emailDate": "2026-06-10"
   },
   {
-    "company": "PointFive",
-    "dealSummary": "PointFive, the developer of an AI cost-management platform, secured a $60 million Series B led by Accel.",
+    "company": "City Therapeutics",
+    "dealSummary": "Biopharma startup City Therapeutics, which focuses on RNA interference-based medicine, secured a $99.5 million Series B from investors including Viking Global and Sofinnova Investments.",
     "round": "Series B",
-    "amount": "$60 million",
-    "leadInvestors": "Accel",
+    "amount": "$99.5 million",
+    "leadInvestors": "Viking Global, Sofinnova Investments",
     "valuation": null,
-    "emailDate": "2026-06-09"
+    "emailDate": "2026-06-10"
   },
   {
-    "company": "Edge Markets",
-    "dealSummary": "Edge Markets, which provides a banking platform for betting and crypto, raised a $29.2 million Series A led by CoinFund.",
+    "company": "Rylo",
+    "dealSummary": "Rylo, which develops a communication platform for the Deaf and hard-of-hearing community, raised an $85 million round from investors including General Catalyst and Canaan Partners.",
+    "round": null,
+    "amount": "$85 million",
+    "leadInvestors": "General Catalyst, Canaan Partners",
+    "valuation": null,
+    "emailDate": "2026-06-10"
+  },
+  {
+    "company": "Alta Ares",
+    "dealSummary": "Alta Ares, a Paris-based maker of air defense and autonomous systems, raised €50 million in a round led by Air Street Capital.",
+    "round": null,
+    "amount": "€50 million",
+    "leadInvestors": "Air Street Capital",
+    "valuation": null,
+    "emailDate": "2026-06-10"
+  },
+  {
+    "company": "hybrid RV trailer builder Evotrex",
+    "dealSummary": "Los Angeles-based hybrid RV trailer builder Evotrex received a $30 million Series A from investors including GSR United Capital, Forebright Concerto Capital and TTGG Ventures.",
     "round": "Series A",
-    "amount": "$29.2 million",
-    "leadInvestors": "CoinFund",
+    "amount": "$30 million",
+    "leadInvestors": "GSR United Capital, Forebright Concerto Capital, TTGG Ventures",
     "valuation": null,
-    "emailDate": "2026-06-09"
+    "emailDate": "2026-06-10"
   },
   {
-    "company": "NewOrbit",
-    "dealSummary": "NewOrbit, a UK satellite maker, raised an $18.5 million Series A led by Voyager Ventures.",
+    "company": "Earlytrade",
+    "dealSummary": "Earlytrade, the operator of a payment marketplace for construction subcontractors, raised $25 million, which includes a Series A led by S3 Ventures and Brick & Mortar Ventures.",
     "round": "Series A",
-    "amount": "$18.5 million",
-    "leadInvestors": "Voyager Ventures",
+    "amount": "$25 million",
+    "leadInvestors": "S3 Ventures, Brick & Mortar Ventures",
     "valuation": null,
-    "emailDate": "2026-06-09"
+    "emailDate": "2026-06-10"
   },
   {
-    "company": "Galvany",
-    "dealSummary": "Galvany, the Berlin-based developer of a heat pump platform, secured a €10 million seed round co-led by SET Ventures and AENU.",
+    "company": "Fonio.ai",
+    "dealSummary": "Fonio.ai, an Austrian developer of AI-powered customer communication tools, received a $17 million seed investment led by 20VC.",
     "round": "Seed",
-    "amount": "€10 million",
-    "leadInvestors": "SET Ventures, AENU",
+    "amount": "$17 million",
+    "leadInvestors": "20VC",
     "valuation": null,
-    "emailDate": "2026-06-09"
+    "emailDate": "2026-06-10"
   }
 ]
