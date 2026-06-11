@@ -1,119 +1,101 @@
 [
   {
-    "company": "Databricks",
-    "dealSummary": "Databricks is in talks to raise a new round at a valuation of up to $175 billion, The Information reported.",
+    "company": "Neura Robotics",
+    "dealSummary": "Germany-based humanoid robotics startup Neura Robotics secured a $1.4 billion Series C led by stablecoin company Tether Holdings at a $7 billion valuation.",
+    "round": "Series C",
+    "amount": "$1.4 billion",
+    "leadInvestors": "stablecoin company Tether Holdings",
+    "valuation": "$7 billion",
+    "emailDate": "2026-06-11"
+  },
+  {
+    "company": "Ant International",
+    "dealSummary": "Ant International, a unit of Ant Group, is in talks to raise $1 billion from investors including General Atlantic and Silver Lake at a $10 billion valuation, Bloomberg reported.",
     "round": null,
-    "amount": "$175 billion",
+    "amount": "$1 billion",
+    "leadInvestors": "General Atlantic, Silver Lake",
+    "valuation": "$10 billion",
+    "emailDate": "2026-06-11"
+  },
+  {
+    "company": "TensorWave",
+    "dealSummary": "TensorWave, which specializes in AI infrastructure, secured a $350 million Series B led by Magnetar and AMD Ventures.",
+    "round": "Series B",
+    "amount": "$350 million",
+    "leadInvestors": "Magnetar, AMD Ventures",
+    "valuation": null,
+    "emailDate": "2026-06-11"
+  },
+  {
+    "company": "Nesto",
+    "dealSummary": "Montreal-based mortgage financing platform developer Nesto raised a C$302 million Series E from investors including La Caisse, Fidelity Investments Canada and Picton Investments.",
+    "round": "Series E",
+    "amount": "$302 million",
+    "leadInvestors": "La Caisse, Fidelity Investments Canada, Picton Investments",
+    "valuation": null,
+    "emailDate": "2026-06-11"
+  },
+  {
+    "company": "Cambridge Aerospace",
+    "dealSummary": "UK-based defense tech startup Cambridge Aerospace is in talks to raise a $300 million round led by DFJ Growth at a $3.5 billion valuation, Bloomberg reported.",
+    "round": "Growth",
+    "amount": "$300 million",
+    "leadInvestors": "DFJ Growth",
+    "valuation": "$3.5 billion",
+    "emailDate": "2026-06-11"
+  },
+  {
+    "company": "Element Biosciences",
+    "dealSummary": "Element Biosciences, the developer of research and diagnostic tools, secured a Series E, which includes a $175 million investment from Samsung Electronics.",
+    "round": "Series E",
+    "amount": "$175 million",
     "leadInvestors": null,
     "valuation": null,
-    "emailDate": "2026-06-10"
+    "emailDate": "2026-06-11"
   },
   {
-    "company": "Iceye",
-    "dealSummary": "Finnish satellite maker Iceye raised €450 million in a Series F led by General Atlantic and a €550 million secondary round at a valuation of more than €10 billion.",
-    "round": "Series F",
-    "amount": "€450 million",
-    "leadInvestors": "General Atlantic, a €550 million secondary round",
-    "valuation": null,
-    "emailDate": "2026-06-10"
-  },
-  {
-    "company": "NinjaOne",
-    "dealSummary": "NinjaOne, the developer of an IT operations platform, raised $400 million in Series C extensions from investors including Wellington Management, Teachers' Venture Growth and BDT & MSD Partners at a $12.3 billion valuation.",
-    "round": "Series C",
-    "amount": "$400 million",
-    "leadInvestors": "Wellington Management, Teachers' Venture Growth, BDT & MSD Partners",
-    "valuation": "$12.3 billion",
-    "emailDate": "2026-06-10"
-  },
-  {
-    "company": "Isar Aerospace",
-    "dealSummary": "Isar Aerospace, a German provider of launch services for small and medium-sized satellites and satellite constellations, secured a €270 million Series D led by Island Green Capital and Molten Ventures.",
-    "round": "Series D",
-    "amount": "€270 million",
-    "leadInvestors": "Island Green Capital, Molten Ventures",
-    "valuation": null,
-    "emailDate": "2026-06-10"
-  },
-  {
-    "company": "Beacon",
-    "dealSummary": "Beacon, which acquires software companies and develops a business operating system, secured a $225 million Series C led by General Catalyst and HarbourVest.",
-    "round": "Series C",
-    "amount": "$225 million",
-    "leadInvestors": "General Catalyst, HarbourVest",
-    "valuation": null,
-    "emailDate": "2026-06-10"
-  },
-  {
-    "company": "Standard Bots",
-    "dealSummary": "Robotics startup Standard Bots raised a $200 million Series C led by RoboStrategy at a $1 billion valuation.",
-    "round": "Series C",
-    "amount": "$200 million",
-    "leadInvestors": "RoboStrategy",
-    "valuation": "$1 billion",
-    "emailDate": "2026-06-10"
-  },
-  {
-    "company": "GT Medical Technologies",
-    "dealSummary": "Medical device company GT Medical Technologies, which develops devices to treat brain tumors, raised a $100 million Series E led by Viking Global.",
-    "round": "Series E",
-    "amount": "$100 million",
-    "leadInvestors": "Viking Global",
-    "valuation": null,
-    "emailDate": "2026-06-10"
-  },
-  {
-    "company": "City Therapeutics",
-    "dealSummary": "Biopharma startup City Therapeutics, which focuses on RNA interference-based medicine, secured a $99.5 million Series B from investors including Viking Global and Sofinnova Investments.",
-    "round": "Series B",
-    "amount": "$99.5 million",
-    "leadInvestors": "Viking Global, Sofinnova Investments",
-    "valuation": null,
-    "emailDate": "2026-06-10"
-  },
-  {
-    "company": "Rylo",
-    "dealSummary": "Rylo, which develops a communication platform for the Deaf and hard-of-hearing community, raised an $85 million round from investors including General Catalyst and Canaan Partners.",
-    "round": null,
-    "amount": "$85 million",
-    "leadInvestors": "General Catalyst, Canaan Partners",
-    "valuation": null,
-    "emailDate": "2026-06-10"
-  },
-  {
-    "company": "Alta Ares",
-    "dealSummary": "Alta Ares, a Paris-based maker of air defense and autonomous systems, raised €50 million in a round led by Air Street Capital.",
-    "round": null,
-    "amount": "€50 million",
-    "leadInvestors": "Air Street Capital",
-    "valuation": null,
-    "emailDate": "2026-06-10"
-  },
-  {
-    "company": "hybrid RV trailer builder Evotrex",
-    "dealSummary": "Los Angeles-based hybrid RV trailer builder Evotrex received a $30 million Series A from investors including GSR United Capital, Forebright Concerto Capital and TTGG Ventures.",
+    "company": "Poetic",
+    "dealSummary": "Enterprise automation software developer Poetic raised a $50 million Series A led by Kleiner Perkins at a $500 million valuation.",
     "round": "Series A",
-    "amount": "$30 million",
-    "leadInvestors": "GSR United Capital, Forebright Concerto Capital, TTGG Ventures",
-    "valuation": null,
-    "emailDate": "2026-06-10"
+    "amount": "$50 million",
+    "leadInvestors": "Kleiner Perkins",
+    "valuation": "$500 million",
+    "emailDate": "2026-06-11"
   },
   {
-    "company": "Earlytrade",
-    "dealSummary": "Earlytrade, the operator of a payment marketplace for construction subcontractors, raised $25 million, which includes a Series A led by S3 Ventures and Brick & Mortar Ventures.",
+    "company": "Airco",
+    "dealSummary": "Airco, which develops sustainable aircraft fuel, is looking to raise $40 million through convertible notes at an $800 million valuation, Axios reported.",
+    "round": null,
+    "amount": "$40 million",
+    "leadInvestors": null,
+    "valuation": null,
+    "emailDate": "2026-06-11"
+  },
+  {
+    "company": "Pi",
+    "dealSummary": "Cybersecurity startup Pi raised $35 million in funding led by Brightmind Partners and Third Point Ventures.",
+    "round": null,
+    "amount": "$35 million",
+    "leadInvestors": "Brightmind Partners, Third Point Ventures",
+    "valuation": null,
+    "emailDate": "2026-06-11"
+  },
+  {
+    "company": "Maneva",
+    "dealSummary": "Factory and warehouse automation startup Maneva secured a $27 million Series A led by US Venture Partners.",
     "round": "Series A",
-    "amount": "$25 million",
-    "leadInvestors": "S3 Ventures, Brick & Mortar Ventures",
+    "amount": "$27 million",
+    "leadInvestors": "US Venture Partners",
     "valuation": null,
-    "emailDate": "2026-06-10"
+    "emailDate": "2026-06-11"
   },
   {
-    "company": "Fonio.ai",
-    "dealSummary": "Fonio.ai, an Austrian developer of AI-powered customer communication tools, received a $17 million seed investment led by 20VC.",
-    "round": "Seed",
-    "amount": "$17 million",
-    "leadInvestors": "20VC",
+    "company": "Rem3dy Health",
+    "dealSummary": "Rem3dy Health, the UK-based parent company of personalized nutrition brand Nourished, raised £14 million from investors including Future Planet Capital Regional, Suntory and Estrella Galicia.",
+    "round": null,
+    "amount": "£14 million",
+    "leadInvestors": "Future Planet Capital Regional, Suntory, Estrella Galicia",
     "valuation": null,
-    "emailDate": "2026-06-10"
+    "emailDate": "2026-06-11"
   }
 ]
