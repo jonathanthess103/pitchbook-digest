@@ -1,101 +1,101 @@
 [
   {
-    "company": "Neura Robotics",
-    "dealSummary": "Germany-based humanoid robotics startup Neura Robotics secured a $1.4 billion Series C led by stablecoin company Tether Holdings at a $7 billion valuation.",
-    "round": "Series C",
-    "amount": "$1.4 billion",
-    "leadInvestors": "stablecoin company Tether Holdings",
-    "valuation": "$7 billion",
-    "emailDate": "2026-06-11"
-  },
-  {
-    "company": "Ant International",
-    "dealSummary": "Ant International, a unit of Ant Group, is in talks to raise $1 billion from investors including General Atlantic and Silver Lake at a $10 billion valuation, Bloomberg reported.",
+    "company": "Jeff Bezos' AI startup, Prometheus",
+    "dealSummary": "Jeff Bezos' AI startup, Prometheus, secured a $12 billion round from investors including JPMorgan, Goldman Sachs and BlackRock at a $41 billion valuation.",
     "round": null,
-    "amount": "$1 billion",
-    "leadInvestors": "General Atlantic, Silver Lake",
-    "valuation": "$10 billion",
-    "emailDate": "2026-06-11"
+    "amount": "$12 billion",
+    "leadInvestors": "JPMorgan, Goldman Sachs, BlackRock",
+    "valuation": "$41 billion",
+    "emailDate": "2026-06-12"
   },
   {
-    "company": "TensorWave",
-    "dealSummary": "TensorWave, which specializes in AI infrastructure, secured a $350 million Series B led by Magnetar and AMD Ventures.",
+    "company": "Digital Asset",
+    "dealSummary": "Blockchain technology company Digital Asset raised a $355 million round led by Andreessen Horowitz's a16z crypto.",
+    "round": null,
+    "amount": "$355 million",
+    "leadInvestors": "Andreessen Horowitz's a16z crypto",
+    "valuation": null,
+    "emailDate": "2026-06-12"
+  },
+  {
+    "company": "Satispay is planning to",
+    "dealSummary": "Italian fintech startup Satispay is planning to raise €120 million in fresh funding from investors including Addition, Lightrock and Greyhound Capital, Bloomberg reported.",
+    "round": null,
+    "amount": "€120 million",
+    "leadInvestors": "Addition, Lightrock, Greyhound Capital",
+    "valuation": null,
+    "emailDate": "2026-06-12"
+  },
+  {
+    "company": "Koho",
+    "dealSummary": "Vancouver-based fintech startup Koho secured a C$130 million ($93.1 million) round from investors including Mubadala and Savano Capital.",
+    "round": null,
+    "amount": "$130 million",
+    "leadInvestors": "Mubadala, Savano Capital",
+    "valuation": null,
+    "emailDate": "2026-06-12"
+  },
+  {
+    "company": "Current",
+    "dealSummary": "Current, the developer of a consumer fintech platform, received an $80 million Series E led by Springcoast Partners at a $1.5 billion valuation.",
+    "round": "Series E",
+    "amount": "$80 million",
+    "leadInvestors": "Springcoast Partners",
+    "valuation": "$1.5 billion",
+    "emailDate": "2026-06-12"
+  },
+  {
+    "company": "PhoenixAI",
+    "dealSummary": "Agentic AI database platform specialist PhoenixAI raised an $80 million round led by Sky9 Capital.",
+    "round": null,
+    "amount": "$80 million",
+    "leadInvestors": "Sky9 Capital",
+    "valuation": null,
+    "emailDate": "2026-06-12"
+  },
+  {
+    "company": "Endurance Energy",
+    "dealSummary": "Endurance Energy, which harvests geothermal energy from the ocean, raised a $54 million Series A led by Founders Fund.",
+    "round": "Series A",
+    "amount": "$54 million",
+    "leadInvestors": "Founders Fund",
+    "valuation": null,
+    "emailDate": "2026-06-12"
+  },
+  {
+    "company": "Coram AI",
+    "dealSummary": "Coram AI, which offers a physical security platform, raised a $35 million Series B led by Ansa Capital and Battery Ventures.",
     "round": "Series B",
-    "amount": "$350 million",
-    "leadInvestors": "Magnetar, AMD Ventures",
-    "valuation": null,
-    "emailDate": "2026-06-11"
-  },
-  {
-    "company": "Nesto",
-    "dealSummary": "Montreal-based mortgage financing platform developer Nesto raised a C$302 million Series E from investors including La Caisse, Fidelity Investments Canada and Picton Investments.",
-    "round": "Series E",
-    "amount": "$302 million",
-    "leadInvestors": "La Caisse, Fidelity Investments Canada, Picton Investments",
-    "valuation": null,
-    "emailDate": "2026-06-11"
-  },
-  {
-    "company": "Cambridge Aerospace",
-    "dealSummary": "UK-based defense tech startup Cambridge Aerospace is in talks to raise a $300 million round led by DFJ Growth at a $3.5 billion valuation, Bloomberg reported.",
-    "round": "Growth",
-    "amount": "$300 million",
-    "leadInvestors": "DFJ Growth",
-    "valuation": "$3.5 billion",
-    "emailDate": "2026-06-11"
-  },
-  {
-    "company": "Element Biosciences",
-    "dealSummary": "Element Biosciences, the developer of research and diagnostic tools, secured a Series E, which includes a $175 million investment from Samsung Electronics.",
-    "round": "Series E",
-    "amount": "$175 million",
-    "leadInvestors": null,
-    "valuation": null,
-    "emailDate": "2026-06-11"
-  },
-  {
-    "company": "Poetic",
-    "dealSummary": "Enterprise automation software developer Poetic raised a $50 million Series A led by Kleiner Perkins at a $500 million valuation.",
-    "round": "Series A",
-    "amount": "$50 million",
-    "leadInvestors": "Kleiner Perkins",
-    "valuation": "$500 million",
-    "emailDate": "2026-06-11"
-  },
-  {
-    "company": "Airco",
-    "dealSummary": "Airco, which develops sustainable aircraft fuel, is looking to raise $40 million through convertible notes at an $800 million valuation, Axios reported.",
-    "round": null,
-    "amount": "$40 million",
-    "leadInvestors": null,
-    "valuation": null,
-    "emailDate": "2026-06-11"
-  },
-  {
-    "company": "Pi",
-    "dealSummary": "Cybersecurity startup Pi raised $35 million in funding led by Brightmind Partners and Third Point Ventures.",
-    "round": null,
     "amount": "$35 million",
-    "leadInvestors": "Brightmind Partners, Third Point Ventures",
+    "leadInvestors": "Ansa Capital, Battery Ventures",
     "valuation": null,
-    "emailDate": "2026-06-11"
+    "emailDate": "2026-06-12"
   },
   {
-    "company": "Maneva",
-    "dealSummary": "Factory and warehouse automation startup Maneva secured a $27 million Series A led by US Venture Partners.",
+    "company": "Turnout",
+    "dealSummary": "Consumer advocacy startup Turnout secured a $35 million Series A led by HighPost Capital at a $400 million valuation.",
     "round": "Series A",
-    "amount": "$27 million",
-    "leadInvestors": "US Venture Partners",
-    "valuation": null,
-    "emailDate": "2026-06-11"
+    "amount": "$35 million",
+    "leadInvestors": "HighPost Capital",
+    "valuation": "$400 million",
+    "emailDate": "2026-06-12"
   },
   {
-    "company": "Rem3dy Health",
-    "dealSummary": "Rem3dy Health, the UK-based parent company of personalized nutrition brand Nourished, raised £14 million from investors including Future Planet Capital Regional, Suntory and Estrella Galicia.",
-    "round": null,
-    "amount": "£14 million",
-    "leadInvestors": "Future Planet Capital Regional, Suntory, Estrella Galicia",
+    "company": "Capsa AI",
+    "dealSummary": "Capsa AI, a London-based provider of a due diligence AI operating system for private capital, received an $18 million Series A led by TX Ventures and Pivot Investment Partners.",
+    "round": "Series A",
+    "amount": "$18 million",
+    "leadInvestors": "TX Ventures, Pivot Investment Partners",
     "valuation": null,
-    "emailDate": "2026-06-11"
+    "emailDate": "2026-06-12"
+  },
+  {
+    "company": "Mendo",
+    "dealSummary": "Mendo, a Paris-based provider of tools for enterprise AI adoption, raised a €12 million Series A led by investors including Educapital, Ventech and Ovni Capital.",
+    "round": "Series A",
+    "amount": "€12 million",
+    "leadInvestors": "Educapital, Ventech, Ovni Capital",
+    "valuation": null,
+    "emailDate": "2026-06-12"
   }
 ]
