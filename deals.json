@@ -1,101 +1,65 @@
 [
   {
-    "company": "Jeff Bezos' AI startup, Prometheus",
-    "dealSummary": "Jeff Bezos' AI startup, Prometheus, secured a $12 billion round from investors including JPMorgan, Goldman Sachs and BlackRock at a $41 billion valuation.",
+    "company": "Mistral AI",
+    "dealSummary": "Paris-based Mistral AI is in talks to raise a €3 billion round at a €20 billion valuation, Bloomberg reported.",
     "round": null,
-    "amount": "$12 billion",
-    "leadInvestors": "JPMorgan, Goldman Sachs, BlackRock",
-    "valuation": "$41 billion",
-    "emailDate": "2026-06-12"
-  },
-  {
-    "company": "Digital Asset",
-    "dealSummary": "Blockchain technology company Digital Asset raised a $355 million round led by Andreessen Horowitz's a16z crypto.",
-    "round": null,
-    "amount": "$355 million",
-    "leadInvestors": "Andreessen Horowitz's a16z crypto",
+    "amount": "€3 billion",
+    "leadInvestors": null,
     "valuation": null,
-    "emailDate": "2026-06-12"
+    "emailDate": "2026-06-15"
   },
   {
-    "company": "Satispay is planning to",
-    "dealSummary": "Italian fintech startup Satispay is planning to raise €120 million in fresh funding from investors including Addition, Lightrock and Greyhound Capital, Bloomberg reported.",
-    "round": null,
-    "amount": "€120 million",
-    "leadInvestors": "Addition, Lightrock, Greyhound Capital",
-    "valuation": null,
-    "emailDate": "2026-06-12"
-  },
-  {
-    "company": "Koho",
-    "dealSummary": "Vancouver-based fintech startup Koho secured a C$130 million ($93.1 million) round from investors including Mubadala and Savano Capital.",
-    "round": null,
-    "amount": "$130 million",
-    "leadInvestors": "Mubadala, Savano Capital",
-    "valuation": null,
-    "emailDate": "2026-06-12"
-  },
-  {
-    "company": "Current",
-    "dealSummary": "Current, the developer of a consumer fintech platform, received an $80 million Series E led by Springcoast Partners at a $1.5 billion valuation.",
-    "round": "Series E",
-    "amount": "$80 million",
-    "leadInvestors": "Springcoast Partners",
-    "valuation": "$1.5 billion",
-    "emailDate": "2026-06-12"
-  },
-  {
-    "company": "PhoenixAI",
-    "dealSummary": "Agentic AI database platform specialist PhoenixAI raised an $80 million round led by Sky9 Capital.",
-    "round": null,
-    "amount": "$80 million",
-    "leadInvestors": "Sky9 Capital",
-    "valuation": null,
-    "emailDate": "2026-06-12"
-  },
-  {
-    "company": "Endurance Energy",
-    "dealSummary": "Endurance Energy, which harvests geothermal energy from the ocean, raised a $54 million Series A led by Founders Fund.",
-    "round": "Series A",
-    "amount": "$54 million",
-    "leadInvestors": "Founders Fund",
-    "valuation": null,
-    "emailDate": "2026-06-12"
-  },
-  {
-    "company": "Coram AI",
-    "dealSummary": "Coram AI, which offers a physical security platform, raised a $35 million Series B led by Ansa Capital and Battery Ventures.",
+    "company": "Genspark",
+    "dealSummary": "Genspark, the developer of workplace AI agents, raised a $100 million Series B extension from investors including Sozo Ventures, UpHonest Capital and Mirae Asset at a $2.6 billion valuation, Axios reported.",
     "round": "Series B",
-    "amount": "$35 million",
-    "leadInvestors": "Ansa Capital, Battery Ventures",
-    "valuation": null,
-    "emailDate": "2026-06-12"
+    "amount": "$100 million",
+    "leadInvestors": "Sozo Ventures, UpHonest Capital, Mirae Asset",
+    "valuation": "$2.6 billion",
+    "emailDate": "2026-06-15"
   },
   {
-    "company": "Turnout",
-    "dealSummary": "Consumer advocacy startup Turnout secured a $35 million Series A led by HighPost Capital at a $400 million valuation.",
+    "company": "Theker",
+    "dealSummary": "Barcelona-based robotics startup Theker received an $85 million Series A led by CRV.",
     "round": "Series A",
-    "amount": "$35 million",
-    "leadInvestors": "HighPost Capital",
-    "valuation": "$400 million",
-    "emailDate": "2026-06-12"
+    "amount": "$85 million",
+    "leadInvestors": "CRV",
+    "valuation": null,
+    "emailDate": "2026-06-15"
   },
   {
-    "company": "Capsa AI",
-    "dealSummary": "Capsa AI, a London-based provider of a due diligence AI operating system for private capital, received an $18 million Series A led by TX Ventures and Pivot Investment Partners.",
-    "round": "Series A",
-    "amount": "$18 million",
-    "leadInvestors": "TX Ventures, Pivot Investment Partners",
+    "company": "SolarSquare Energy",
+    "dealSummary": "Mumbai-based SolarSquare Energy secured between $50 million and $55 million in a round led by B Capital.",
+    "round": null,
+    "amount": "$50 million",
+    "leadInvestors": "B Capital",
     "valuation": null,
-    "emailDate": "2026-06-12"
+    "emailDate": "2026-06-15"
   },
   {
-    "company": "Mendo",
-    "dealSummary": "Mendo, a Paris-based provider of tools for enterprise AI adoption, raised a €12 million Series A led by investors including Educapital, Ventech and Ovni Capital.",
-    "round": "Series A",
-    "amount": "€12 million",
-    "leadInvestors": "Educapital, Ventech, Ovni Capital",
+    "company": "The Standard Electron Co.",
+    "dealSummary": "Industrial solar and battery specialist The Standard Electron Co. is raising between $25 million and $35 million in seed funding, Axios reported.",
+    "round": "Seed",
+    "amount": "$25 million",
+    "leadInvestors": null,
     "valuation": null,
-    "emailDate": "2026-06-12"
+    "emailDate": "2026-06-15"
+  },
+  {
+    "company": "Equal AI",
+    "dealSummary": "AI call assistant developer Equal AI received a $30 million Series B led by Prosus Ventures and Tomales Bay Capital.",
+    "round": "Series B",
+    "amount": "$30 million",
+    "leadInvestors": "Prosus Ventures, Tomales Bay Capital",
+    "valuation": null,
+    "emailDate": "2026-06-15"
+  },
+  {
+    "company": "Remedy",
+    "dealSummary": "Skincare products company Remedy secured a $20 million Series A led by L Catterton, according to reports.",
+    "round": "Series A",
+    "amount": "$20 million",
+    "leadInvestors": "L Catterton, according to reports",
+    "valuation": null,
+    "emailDate": "2026-06-15"
   }
 ]
