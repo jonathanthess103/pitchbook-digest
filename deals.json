@@ -1,74 +1,101 @@
 [
   {
-    "company": "Sarvam",
-    "dealSummary": "Sarvam, an Indian startup developing AI large language models, raised a $234 million Series B at a $1.5 billion valuation led by HCLTech and Bessemer Venture Partners.",
-    "round": "Series B",
-    "amount": "$234 million",
-    "leadInvestors": "HCLTech, Bessemer Venture Partners",
-    "valuation": "$1.5 billion",
-    "emailDate": "2026-06-16"
+    "company": "Atom Computing",
+    "dealSummary": "Quantum computing startup Atom Computing raised a $100 million Series C led by Third Point Ventures and agreed to receive $100 million from the US Department of Commerce.",
+    "round": "Series C",
+    "amount": "$100 million",
+    "leadInvestors": "Third Point Ventures, agreed to receive $100 million from the US Department of Commerce",
+    "valuation": null,
+    "emailDate": "2026-06-17"
   },
   {
-    "company": "Hydra Host, developer of a marketplace for GPU compute",
-    "dealSummary": "Miami-based Hydra Host, developer of a marketplace for GPU compute, secured a $100 million Series A led by Kindred Ventures.",
+    "company": "Hydra Host",
+    "dealSummary": "Data center infrastructure company Hydra Host received a $100 million Series A led by Kindred Ventures.",
     "round": "Series A",
     "amount": "$100 million",
     "leadInvestors": "Kindred Ventures",
     "valuation": null,
-    "emailDate": "2026-06-16"
+    "emailDate": "2026-06-17"
   },
   {
-    "company": "NewCore",
-    "dealSummary": "NewCore, an agentic AI security startup based in Tel Aviv, raised $66 million in new funding led by Cyberstarts.",
-    "round": null,
-    "amount": "$66 million",
-    "leadInvestors": "Cyberstarts",
+    "company": "AttoTude",
+    "dealSummary": "AttoTude, which specializes in interconnect technology for AI infrastructure, secured a $52 million Series C led by The Westly Group.",
+    "round": "Series C",
+    "amount": "$52 million",
+    "leadInvestors": "The Westly Group",
     "valuation": null,
-    "emailDate": "2026-06-16"
+    "emailDate": "2026-06-17"
   },
   {
-    "company": "Arcade",
-    "dealSummary": "Arcade, a San Francisco-based specialist building an AI physical creation platform, received a $60 million Series A led by SYN Ventures.",
-    "round": "Series A",
-    "amount": "$60 million",
-    "leadInvestors": "SYN Ventures",
-    "valuation": null,
-    "emailDate": "2026-06-16"
-  },
-  {
-    "company": "Cellares",
-    "dealSummary": "Cellares, a biotech startup focused on developing cell therapies, raised an additional $50 million for its Series D from Prime Radiant Partners.",
-    "round": "Series D",
-    "amount": "$50 million",
-    "leadInvestors": null,
-    "valuation": null,
-    "emailDate": "2026-06-16"
-  },
-  {
-    "company": "Interchecks",
-    "dealSummary": "Interchecks, a New York-based fintech focused on payments, secured a $50 million Series C led by Bettor Capital, Commerce Ventures, Decades Holdings and Thayer Street Partners.",
+    "company": "Bland",
+    "dealSummary": "Bland, a San Francisco-based voice AI startup, raised a $50 million Series C led by Dell Technologies Capital.",
     "round": "Series C",
     "amount": "$50 million",
-    "leadInvestors": "Bettor Capital, Commerce Ventures, Decades Holdings, Thayer Street Partners",
+    "leadInvestors": "Dell Technologies Capital",
     "valuation": null,
-    "emailDate": "2026-06-16"
+    "emailDate": "2026-06-17"
   },
   {
-    "company": "Radical Numerics",
-    "dealSummary": "San Francisco-based Radical Numerics, an AI lab focused on biological research, raised $50 million in seed funding led by Emergence Capital.",
-    "round": "Seed",
-    "amount": "$50 million",
-    "leadInvestors": "Emergence Capital",
+    "company": "Copia Automation",
+    "dealSummary": "Copia Automation, the developer of a code management platform for the industrials sector, raised a $26 million round led by AE Ventures and Squadra Ventures.",
+    "round": null,
+    "amount": "$26 million",
+    "leadInvestors": "AE Ventures, Squadra Ventures",
     "valuation": null,
-    "emailDate": "2026-06-16"
+    "emailDate": "2026-06-17"
   },
   {
-    "company": "Orbio AI",
-    "dealSummary": "Orbio AI, a Spanish provider of an AI-native HR system, secured a $21 million Series A led by Dawn Capital.",
+    "company": "Rejoni",
+    "dealSummary": "Rejoni, a biotech startup developing therapies for uterine health, secured a $25 million round from investors including ClavystBio, Amed Ventures and Ascension Ventures.",
+    "round": null,
+    "amount": "$25 million",
+    "leadInvestors": "ClavystBio, Amed Ventures, Ascension Ventures",
+    "valuation": null,
+    "emailDate": "2026-06-17"
+  },
+  {
+    "company": "Foundation Alloy",
+    "dealSummary": "Foundation Alloy, which specializes in metal alloy engineering, received a $22 million Series A led by Voyager Ventures.",
     "round": "Series A",
-    "amount": "$21 million",
+    "amount": "$22 million",
+    "leadInvestors": "Voyager Ventures",
+    "valuation": null,
+    "emailDate": "2026-06-17"
+  },
+  {
+    "company": "wellness apps publisher Rocapine",
+    "dealSummary": "Paris-based wellness apps publisher Rocapine secured a $13 million Series A led by Educapital.",
+    "round": "Series A",
+    "amount": "$13 million",
+    "leadInvestors": "Educapital",
+    "valuation": null,
+    "emailDate": "2026-06-17"
+  },
+  {
+    "company": "Cortea",
+    "dealSummary": "Berlin-based audit automation startup Cortea raised a €12 million seed investment led by Dawn Capital.",
+    "round": "Seed",
+    "amount": "€12 million",
     "leadInvestors": "Dawn Capital",
     "valuation": null,
-    "emailDate": "2026-06-16"
+    "emailDate": "2026-06-17"
+  },
+  {
+    "company": "Lightbringer",
+    "dealSummary": "Swedish legal tech specialist Lightbringer received a $10 million Series A led by 6 Degrees Capital and Newion.",
+    "round": "Series A",
+    "amount": "$10 million",
+    "leadInvestors": "6 Degrees Capital, Newion",
+    "valuation": null,
+    "emailDate": "2026-06-17"
+  },
+  {
+    "company": "Causa Prima",
+    "dealSummary": "Causa Prima, a Munich-based startup building a European agent-to-agent network for B2B finance, raised a $10 million pre-seed investment led by Creandum.",
+    "round": "Pre-seed",
+    "amount": "$10 million",
+    "leadInvestors": "Creandum",
+    "valuation": null,
+    "emailDate": "2026-06-17"
   }
 ]
