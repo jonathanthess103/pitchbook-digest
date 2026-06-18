@@ -1,101 +1,92 @@
 [
   {
-    "company": "Atom Computing",
-    "dealSummary": "Quantum computing startup Atom Computing raised a $100 million Series C led by Third Point Ventures and agreed to receive $100 million from the US Department of Commerce.",
-    "round": "Series C",
-    "amount": "$100 million",
-    "leadInvestors": "Third Point Ventures, agreed to receive $100 million from the US Department of Commerce",
-    "valuation": null,
-    "emailDate": "2026-06-17"
-  },
-  {
-    "company": "Hydra Host",
-    "dealSummary": "Data center infrastructure company Hydra Host received a $100 million Series A led by Kindred Ventures.",
-    "round": "Series A",
-    "amount": "$100 million",
-    "leadInvestors": "Kindred Ventures",
-    "valuation": null,
-    "emailDate": "2026-06-17"
-  },
-  {
-    "company": "AttoTude",
-    "dealSummary": "AttoTude, which specializes in interconnect technology for AI infrastructure, secured a $52 million Series C led by The Westly Group.",
-    "round": "Series C",
-    "amount": "$52 million",
-    "leadInvestors": "The Westly Group",
-    "valuation": null,
-    "emailDate": "2026-06-17"
-  },
-  {
-    "company": "Bland",
-    "dealSummary": "Bland, a San Francisco-based voice AI startup, raised a $50 million Series C led by Dell Technologies Capital.",
-    "round": "Series C",
-    "amount": "$50 million",
-    "leadInvestors": "Dell Technologies Capital",
-    "valuation": null,
-    "emailDate": "2026-06-17"
-  },
-  {
-    "company": "Copia Automation",
-    "dealSummary": "Copia Automation, the developer of a code management platform for the industrials sector, raised a $26 million round led by AE Ventures and Squadra Ventures.",
+    "company": "CuspAI",
+    "dealSummary": "CuspAI, a UK-based startup using AI to discover new materials, is raising $400 million from investors including Kleiner Perkins and Bezos Expeditions at a $2.6 billion valuation, the Financial Times reported.",
     "round": null,
-    "amount": "$26 million",
-    "leadInvestors": "AE Ventures, Squadra Ventures",
-    "valuation": null,
-    "emailDate": "2026-06-17"
+    "amount": "$400 million",
+    "leadInvestors": "Kleiner Perkins, Bezos Expeditions",
+    "valuation": "$2.6 billion",
+    "emailDate": "2026-06-18"
   },
   {
-    "company": "Rejoni",
-    "dealSummary": "Rejoni, a biotech startup developing therapies for uterine health, secured a $25 million round from investors including ClavystBio, Amed Ventures and Ascension Ventures.",
-    "round": null,
-    "amount": "$25 million",
-    "leadInvestors": "ClavystBio, Amed Ventures, Ascension Ventures",
+    "company": "Odyssey",
+    "dealSummary": "Odyssey, a developer of physical AI models, raised a $310 million Series B from investors including Amazon, Nvidia and AMD.",
+    "round": "Series B",
+    "amount": "$310 million",
+    "leadInvestors": "Amazon, Nvidia, AMD",
     "valuation": null,
-    "emailDate": "2026-06-17"
+    "emailDate": "2026-06-18"
   },
   {
-    "company": "Foundation Alloy",
-    "dealSummary": "Foundation Alloy, which specializes in metal alloy engineering, received a $22 million Series A led by Voyager Ventures.",
+    "company": "Karta",
+    "dealSummary": "Fintech startup Karta, which provides a credit card for international travelers, raised $140 million, which includes a $15 million Series A led by Galaxy Ventures and a $125 million credit facility.",
     "round": "Series A",
-    "amount": "$22 million",
-    "leadInvestors": "Voyager Ventures",
+    "amount": "$140 million",
+    "leadInvestors": "Galaxy Ventures, a $125 million credit facility",
     "valuation": null,
-    "emailDate": "2026-06-17"
+    "emailDate": "2026-06-18"
   },
   {
-    "company": "wellness apps publisher Rocapine",
-    "dealSummary": "Paris-based wellness apps publisher Rocapine secured a $13 million Series A led by Educapital.",
+    "company": "Twenty",
+    "dealSummary": "Twenty, which develops offensive cyber warfare software, secured a $100 million Series B led by Accel at a $1 billion valuation.",
+    "round": "Series B",
+    "amount": "$100 million",
+    "leadInvestors": "Accel",
+    "valuation": "$1 billion",
+    "emailDate": "2026-06-18"
+  },
+  {
+    "company": "Triveni Bio",
+    "dealSummary": "Biotech startup Triveni Bio received a $65 million Series C led by Ascenta Capital and Janus Henderson Investors.",
+    "round": "Series C",
+    "amount": "$65 million",
+    "leadInvestors": "Ascenta Capital, Janus Henderson Investors",
+    "valuation": null,
+    "emailDate": "2026-06-18"
+  },
+  {
+    "company": "Convey",
+    "dealSummary": "Convey, the developer of a business operations automation platform, secured a $38 million Series A led by Andreessen Horowitz.",
     "round": "Series A",
-    "amount": "$13 million",
-    "leadInvestors": "Educapital",
+    "amount": "$38 million",
+    "leadInvestors": "Andreessen Horowitz",
     "valuation": null,
-    "emailDate": "2026-06-17"
+    "emailDate": "2026-06-18"
   },
   {
-    "company": "Cortea",
-    "dealSummary": "Berlin-based audit automation startup Cortea raised a €12 million seed investment led by Dawn Capital.",
+    "company": "Andera",
+    "dealSummary": "Audit and compliance automation startup Andera raised a $37 million Series A, Axios reported.",
+    "round": "Series A",
+    "amount": "$37 million",
+    "leadInvestors": null,
+    "valuation": null,
+    "emailDate": "2026-06-18"
+  },
+  {
+    "company": "Comand AI",
+    "dealSummary": "French defense tech specialist Comand AI raised a €32 million Series A led by Blossom Capital.",
+    "round": "Series A",
+    "amount": "€32 million",
+    "leadInvestors": "Blossom Capital",
+    "valuation": null,
+    "emailDate": "2026-06-18"
+  },
+  {
+    "company": "Traysar",
+    "dealSummary": "Traysar, which specializes in subterranean defense tech, raised a $25 million seed round led by Silent Ventures.",
     "round": "Seed",
-    "amount": "€12 million",
-    "leadInvestors": "Dawn Capital",
+    "amount": "$25 million",
+    "leadInvestors": "Silent Ventures",
     "valuation": null,
-    "emailDate": "2026-06-17"
+    "emailDate": "2026-06-18"
   },
   {
-    "company": "Lightbringer",
-    "dealSummary": "Swedish legal tech specialist Lightbringer received a $10 million Series A led by 6 Degrees Capital and Newion.",
-    "round": "Series A",
-    "amount": "$10 million",
-    "leadInvestors": "6 Degrees Capital, Newion",
+    "company": "NeuralTrust",
+    "dealSummary": "NeuralTrust, a Barcelona-based developer of a platform to secure AI agents, received a $20 million seed investment led by Alstin Capital.",
+    "round": "Seed",
+    "amount": "$20 million",
+    "leadInvestors": "Alstin Capital",
     "valuation": null,
-    "emailDate": "2026-06-17"
-  },
-  {
-    "company": "Causa Prima",
-    "dealSummary": "Causa Prima, a Munich-based startup building a European agent-to-agent network for B2B finance, raised a $10 million pre-seed investment led by Creandum.",
-    "round": "Pre-seed",
-    "amount": "$10 million",
-    "leadInvestors": "Creandum",
-    "valuation": null,
-    "emailDate": "2026-06-17"
+    "emailDate": "2026-06-18"
   }
 ]
