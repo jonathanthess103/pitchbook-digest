@@ -1,92 +1,74 @@
 [
   {
-    "company": "CuspAI",
-    "dealSummary": "CuspAI, a UK-based startup using AI to discover new materials, is raising $400 million from investors including Kleiner Perkins and Bezos Expeditions at a $2.6 billion valuation, the Financial Times reported.",
+    "company": "Castelion is looking to",
+    "dealSummary": "Hypersonic missile startup Castelion is looking to raise a new round at a $12 billion valuation, The Information reported.",
     "round": null,
-    "amount": "$400 million",
-    "leadInvestors": "Kleiner Perkins, Bezos Expeditions",
-    "valuation": "$2.6 billion",
-    "emailDate": "2026-06-18"
+    "amount": "$12 billion",
+    "leadInvestors": null,
+    "valuation": "$12 billion",
+    "emailDate": "2026-06-19"
   },
   {
-    "company": "Odyssey",
-    "dealSummary": "Odyssey, a developer of physical AI models, raised a $310 million Series B from investors including Amazon, Nvidia and AMD.",
-    "round": "Series B",
-    "amount": "$310 million",
-    "leadInvestors": "Amazon, Nvidia, AMD",
-    "valuation": null,
-    "emailDate": "2026-06-18"
+    "company": "Dream",
+    "dealSummary": "Israel-based Dream, a cybersecurity startup, raised a $260 million round led by Bicycle Capital and Group 11 at a $3 billion valuation.",
+    "round": null,
+    "amount": "$260 million",
+    "leadInvestors": "Bicycle Capital, Group 11",
+    "valuation": "$3 billion",
+    "emailDate": "2026-06-19"
   },
   {
-    "company": "Karta",
-    "dealSummary": "Fintech startup Karta, which provides a credit card for international travelers, raised $140 million, which includes a $15 million Series A led by Galaxy Ventures and a $125 million credit facility.",
-    "round": "Series A",
-    "amount": "$140 million",
-    "leadInvestors": "Galaxy Ventures, a $125 million credit facility",
-    "valuation": null,
-    "emailDate": "2026-06-18"
-  },
-  {
-    "company": "Twenty",
-    "dealSummary": "Twenty, which develops offensive cyber warfare software, secured a $100 million Series B led by Accel at a $1 billion valuation.",
-    "round": "Series B",
-    "amount": "$100 million",
-    "leadInvestors": "Accel",
-    "valuation": "$1 billion",
-    "emailDate": "2026-06-18"
-  },
-  {
-    "company": "Triveni Bio",
-    "dealSummary": "Biotech startup Triveni Bio received a $65 million Series C led by Ascenta Capital and Janus Henderson Investors.",
+    "company": "Gradial",
+    "dealSummary": "Seattle-based Gradial, the developer of enterprise marketing AI agents, raised a $65 million Series C led by Insight Partners.",
     "round": "Series C",
     "amount": "$65 million",
-    "leadInvestors": "Ascenta Capital, Janus Henderson Investors",
+    "leadInvestors": "Insight Partners",
     "valuation": null,
-    "emailDate": "2026-06-18"
+    "emailDate": "2026-06-19"
   },
   {
-    "company": "Convey",
-    "dealSummary": "Convey, the developer of a business operations automation platform, secured a $38 million Series A led by Andreessen Horowitz.",
+    "company": "Conduct",
+    "dealSummary": "Conduct, a London-based developer of an AI operating system for enterprise software, raised a $60 million Series A led by Index Ventures and Iconiq.",
     "round": "Series A",
-    "amount": "$38 million",
-    "leadInvestors": "Andreessen Horowitz",
+    "amount": "$60 million",
+    "leadInvestors": "Index Ventures, Iconiq",
     "valuation": null,
-    "emailDate": "2026-06-18"
+    "emailDate": "2026-06-19"
   },
   {
-    "company": "Andera",
-    "dealSummary": "Audit and compliance automation startup Andera raised a $37 million Series A, Axios reported.",
-    "round": "Series A",
-    "amount": "$37 million",
-    "leadInvestors": null,
+    "company": "Verse",
+    "dealSummary": "San Francisco-based Verse, the developer of software to manage energy resources for data centers, secured a $54 million Series B led by Bessemer Venture Partners.",
+    "round": "Series B",
+    "amount": "$54 million",
+    "leadInvestors": "Bessemer Venture Partners",
     "valuation": null,
-    "emailDate": "2026-06-18"
+    "emailDate": "2026-06-19"
   },
   {
-    "company": "Comand AI",
-    "dealSummary": "French defense tech specialist Comand AI raised a €32 million Series A led by Blossom Capital.",
-    "round": "Series A",
-    "amount": "€32 million",
-    "leadInvestors": "Blossom Capital",
+    "company": "Connie Health",
+    "dealSummary": "Medicare navigation platform developer Connie Health received a $40 million Series B led by HealthQuest Capital and acquired the Medicare business of Clearlink.",
+    "round": "Series B",
+    "amount": "$40 million",
+    "leadInvestors": "HealthQuest Capital, acquired the Medicare business of Clearlink",
     "valuation": null,
-    "emailDate": "2026-06-18"
+    "emailDate": "2026-06-19"
   },
   {
-    "company": "Traysar",
-    "dealSummary": "Traysar, which specializes in subterranean defense tech, raised a $25 million seed round led by Silent Ventures.",
+    "company": "Warren",
+    "dealSummary": "Warren, a Belgian provider of a platform for workplace pensions and financial coaching, secured a €10 million seed investment led by Motive Partners.",
     "round": "Seed",
-    "amount": "$25 million",
-    "leadInvestors": "Silent Ventures",
+    "amount": "€10 million",
+    "leadInvestors": "Motive Partners",
     "valuation": null,
-    "emailDate": "2026-06-18"
+    "emailDate": "2026-06-19"
   },
   {
-    "company": "NeuralTrust",
-    "dealSummary": "NeuralTrust, a Barcelona-based developer of a platform to secure AI agents, received a $20 million seed investment led by Alstin Capital.",
-    "round": "Seed",
-    "amount": "$20 million",
-    "leadInvestors": "Alstin Capital",
+    "company": "Kvasir Technologies",
+    "dealSummary": "Danish biofuel startup Kvasir Technologies raised a €10 million Series A from investors including European Energy, Denmark Export and Investment Fund and Maersk Growth.",
+    "round": "Series A",
+    "amount": "€10 million",
+    "leadInvestors": "European Energy, Denmark Export, Investment Fund, Maersk Growth",
     "valuation": null,
-    "emailDate": "2026-06-18"
+    "emailDate": "2026-06-19"
   }
 ]
