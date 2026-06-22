@@ -1,74 +1,11 @@
 [
   {
-    "company": "Castelion is looking to",
-    "dealSummary": "Hypersonic missile startup Castelion is looking to raise a new round at a $12 billion valuation, The Information reported.",
-    "round": null,
-    "amount": "$12 billion",
-    "leadInvestors": null,
-    "valuation": "$12 billion",
-    "emailDate": "2026-06-19"
-  },
-  {
-    "company": "Dream",
-    "dealSummary": "Israel-based Dream, a cybersecurity startup, raised a $260 million round led by Bicycle Capital and Group 11 at a $3 billion valuation.",
-    "round": null,
-    "amount": "$260 million",
-    "leadInvestors": "Bicycle Capital, Group 11",
-    "valuation": "$3 billion",
-    "emailDate": "2026-06-19"
-  },
-  {
-    "company": "Gradial",
-    "dealSummary": "Seattle-based Gradial, the developer of enterprise marketing AI agents, raised a $65 million Series C led by Insight Partners.",
-    "round": "Series C",
-    "amount": "$65 million",
-    "leadInvestors": "Insight Partners",
-    "valuation": null,
-    "emailDate": "2026-06-19"
-  },
-  {
-    "company": "Conduct",
-    "dealSummary": "Conduct, a London-based developer of an AI operating system for enterprise software, raised a $60 million Series A led by Index Ventures and Iconiq.",
-    "round": "Series A",
-    "amount": "$60 million",
-    "leadInvestors": "Index Ventures, Iconiq",
-    "valuation": null,
-    "emailDate": "2026-06-19"
-  },
-  {
-    "company": "Verse",
-    "dealSummary": "San Francisco-based Verse, the developer of software to manage energy resources for data centers, secured a $54 million Series B led by Bessemer Venture Partners.",
-    "round": "Series B",
-    "amount": "$54 million",
-    "leadInvestors": "Bessemer Venture Partners",
-    "valuation": null,
-    "emailDate": "2026-06-19"
-  },
-  {
-    "company": "Connie Health",
-    "dealSummary": "Medicare navigation platform developer Connie Health received a $40 million Series B led by HealthQuest Capital and acquired the Medicare business of Clearlink.",
-    "round": "Series B",
-    "amount": "$40 million",
-    "leadInvestors": "HealthQuest Capital, acquired the Medicare business of Clearlink",
-    "valuation": null,
-    "emailDate": "2026-06-19"
-  },
-  {
-    "company": "Warren",
-    "dealSummary": "Warren, a Belgian provider of a platform for workplace pensions and financial coaching, secured a €10 million seed investment led by Motive Partners.",
+    "company": "Frontier Health",
+    "dealSummary": "London-based AI health tech specialist Frontier Health secured a $16 million seed investment led by Atomico.",
     "round": "Seed",
-    "amount": "€10 million",
-    "leadInvestors": "Motive Partners",
+    "amount": "$16 million",
+    "leadInvestors": "Atomico",
     "valuation": null,
-    "emailDate": "2026-06-19"
-  },
-  {
-    "company": "Kvasir Technologies",
-    "dealSummary": "Danish biofuel startup Kvasir Technologies raised a €10 million Series A from investors including European Energy, Denmark Export and Investment Fund and Maersk Growth.",
-    "round": "Series A",
-    "amount": "€10 million",
-    "leadInvestors": "European Energy, Denmark Export, Investment Fund, Maersk Growth",
-    "valuation": null,
-    "emailDate": "2026-06-19"
+    "emailDate": "2026-06-22"
   }
 ]
