@@ -1,11 +1,65 @@
 [
   {
-    "company": "Frontier Health",
-    "dealSummary": "London-based AI health tech specialist Frontier Health secured a $16 million seed investment led by Atomico.",
-    "round": "Seed",
-    "amount": "$16 million",
-    "leadInvestors": "Atomico",
+    "company": "Groq",
+    "dealSummary": "Groq, which specializes in AI inference cloud infrastructure, raised a $650 million round led by Disruptive and Infinitum.",
+    "round": null,
+    "amount": "$650 million",
+    "leadInvestors": "Disruptive, Infinitum",
     "valuation": null,
-    "emailDate": "2026-06-22"
+    "emailDate": "2026-06-23"
+  },
+  {
+    "company": "deep-tech startup Nearfield Instruments",
+    "dealSummary": "Netherlands-based deep-tech startup Nearfield Instruments, which specializes in semiconductor metrology, raised a $380 million Series D led by Fidelity Management & Research at a $1.6 billion valuation.",
+    "round": "Series D",
+    "amount": "$380 million",
+    "leadInvestors": "Fidelity Management & Research",
+    "valuation": "$1.6 billion",
+    "emailDate": "2026-06-23"
+  },
+  {
+    "company": "Peregrine Technologies",
+    "dealSummary": "Peregrine Technologies, the developer of a public safety data platform, secured a $250 million Series D from investors including Fifth Down Capital, Sequoia and OG Venture Partners at a $6.8 billion valuation.",
+    "round": "Series D",
+    "amount": "$250 million",
+    "leadInvestors": "Fifth Down Capital, Sequoia, OG Venture Partners",
+    "valuation": "$6.8 billion",
+    "emailDate": "2026-06-23"
+  },
+  {
+    "company": "Fomo",
+    "dealSummary": "Fomo, the developer of a crypto trading app, received a $75 million Series B led by Index Ventures at a $550 million valuation.",
+    "round": "Series B",
+    "amount": "$75 million",
+    "leadInvestors": "Index Ventures",
+    "valuation": "$550 million",
+    "emailDate": "2026-06-23"
+  },
+  {
+    "company": "Nura Bio",
+    "dealSummary": "Nura Bio, a biopharma startup developing treatments for ALS, secured a $73.8 million Series B led by The Column Group.",
+    "round": "Series B",
+    "amount": "$73.8 million",
+    "leadInvestors": "The Column Group",
+    "valuation": null,
+    "emailDate": "2026-06-23"
+  },
+  {
+    "company": "Prosper AI",
+    "dealSummary": "Prosper AI, which develops AI voice agents for healthcare, raised a $30 million Series A led by Andreessen Horowitz.",
+    "round": "Series A",
+    "amount": "$30 million",
+    "leadInvestors": "Andreessen Horowitz",
+    "valuation": null,
+    "emailDate": "2026-06-23"
+  },
+  {
+    "company": "Superlight",
+    "dealSummary": "UK-based EV manufacturer Superlight raised a $21 million Series A led by Engine Ventures and 2150.",
+    "round": "Series A",
+    "amount": "$21 million",
+    "leadInvestors": "Engine Ventures, 2150",
+    "valuation": null,
+    "emailDate": "2026-06-23"
   }
 ]
