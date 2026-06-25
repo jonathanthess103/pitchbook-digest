@@ -1,137 +1,155 @@
 [
   {
-    "company": "AppsFlyer",
-    "dealSummary": "San Francisco-based marketing analytics platform developer AppsFlyer secured a $1 billion Series E from investors including Moloco, Google and Meta at a $2.7 billion valuation.",
-    "round": "Series E",
-    "amount": "$1 billion",
-    "leadInvestors": "Moloco, Google, Meta",
-    "valuation": "$2.7 billion",
-    "emailDate": "2026-06-24"
-  },
-  {
-    "company": "Stark",
-    "dealSummary": "Berlin-based drone startup Stark received a €500 million round from investors including Founders Fund and Sequoia at a €3.2 billion valuation.",
+    "company": "Kalshi",
+    "dealSummary": "Prediction marketplace operator Kalshi is raising new funding at a $40 billion valuation, the Financial Times reported.",
     "round": null,
-    "amount": "€500 million",
-    "leadInvestors": "Founders Fund, Sequoia at a €3",
-    "valuation": null,
-    "emailDate": "2026-06-24"
+    "amount": "$40 billion",
+    "leadInvestors": null,
+    "valuation": "$40 billion",
+    "emailDate": "2026-06-25"
   },
   {
-    "company": "Osanni Bio",
-    "dealSummary": "Osanni Bio, a drug discovery biotech, secured a $190 million Series B led by Patient Square Capital.",
+    "company": "XLight",
+    "dealSummary": "XLight, which specializes in lasers for chip manufacturing, is in talks to raise a $350 million round led by Boardman Bay Capital Management and Bain Capital, The Information reported.",
+    "round": null,
+    "amount": "$350 million",
+    "leadInvestors": "Boardman Bay Capital Management, Bain Capital, The Information reported",
+    "valuation": null,
+    "emailDate": "2026-06-25"
+  },
+  {
+    "company": "Vision disease-focused Ollin Biosciences",
+    "dealSummary": "Vision disease-focused Ollin Biosciences secured a $330 million Series B led by TCGX and Arch Venture Partners.",
     "round": "Series B",
-    "amount": "$190 million",
-    "leadInvestors": "Patient Square Capital",
+    "amount": "$330 million",
+    "leadInvestors": "TCGX, Arch Venture Partners",
     "valuation": null,
-    "emailDate": "2026-06-24"
+    "emailDate": "2026-06-25"
   },
   {
-    "company": "Cadence",
-    "dealSummary": "Clinical AI startup Cadence, which specializes in chronic disease care, raised a $100 million Series C led by Spark Capital.",
+    "company": "Mirendil",
+    "dealSummary": "Mirendil, a startup specializing in AI for scientific research and development, raised a $200 million seed round led by Andreessen Horowitz and Kleiner Perkins.",
+    "round": "Seed",
+    "amount": "$200 million",
+    "leadInvestors": "Andreessen Horowitz, Kleiner Perkins",
+    "valuation": null,
+    "emailDate": "2026-06-25"
+  },
+  {
+    "company": "Finn",
+    "dealSummary": "German car subscription specialist Finn secured nearly €100 million for its Series D led by Portage at a valuation in excess of €1 billion, along with more than €40 million in debt from BC Partners Credit and Runway Growth Capital.",
+    "round": "Series D",
+    "amount": "€100 million",
+    "leadInvestors": "Portage",
+    "valuation": null,
+    "emailDate": "2026-06-25"
+  },
+  {
+    "company": "Assort Health",
+    "dealSummary": "Assort Health, the developer of AI agents for healthcare administrative tasks, raised a $120 million Series C led by Menlo Ventures at a $1.2 billion valuation.",
     "round": "Series C",
-    "amount": "$100 million",
-    "leadInvestors": "Spark Capital",
-    "valuation": null,
-    "emailDate": "2026-06-24"
+    "amount": "$120 million",
+    "leadInvestors": "Menlo Ventures",
+    "valuation": "$1.2 billion",
+    "emailDate": "2026-06-25"
   },
   {
-    "company": "Allium",
-    "dealSummary": "Blockchain data platform developer Allium secured a $40 million Series B led by Amplify Partners.",
-    "round": "Series B",
-    "amount": "$40 million",
-    "leadInvestors": "Amplify Partners",
-    "valuation": null,
-    "emailDate": "2026-06-24"
-  },
-  {
-    "company": "Tsuga",
-    "dealSummary": "Tsuga, a Paris-based enterprise observability startup, raised a $35 million Series A led by Singular.",
+    "company": "RQ Bio",
+    "dealSummary": "London-based RQ Bio, which makes antibody therapeutics to prevent influenza, received a $115 million Series A led by Frazier Life Sciences.",
     "round": "Series A",
-    "amount": "$35 million",
-    "leadInvestors": "Singular",
+    "amount": "$115 million",
+    "leadInvestors": "Frazier Life Sciences",
     "valuation": null,
-    "emailDate": "2026-06-24"
+    "emailDate": "2026-06-25"
   },
   {
-    "company": "Attention",
-    "dealSummary": "Attention, the developer of AI sales and revenue tools, received a $30 million Series B led by RTP Global.",
+    "company": "Taktile",
+    "dealSummary": "Taktile, which specializes in AI for financial institutions, received a $110 million Series C led by Growth Equity at Goldman Sachs Alternatives.",
+    "round": "Series C",
+    "amount": "$110 million",
+    "leadInvestors": "Growth Equity at Goldman Sachs Alternatives",
+    "valuation": null,
+    "emailDate": "2026-06-25"
+  },
+  {
+    "company": "Engram",
+    "dealSummary": "Engram, the developer of tools to train AI on individual and workspace contexts, raised a $98 million round from investors including General Catalyst, Kleiner Perkins and Sequoia.",
+    "round": null,
+    "amount": "$98 million",
+    "leadInvestors": "General Catalyst, Kleiner Perkins, Sequoia",
+    "valuation": null,
+    "emailDate": "2026-06-25"
+  },
+  {
+    "company": "Redo",
+    "dealSummary": "Redo, a commerce tech startup specializing in customer relationships, raised an $81 million Series B led by Smash Capital at a $1.25 billion valuation.",
     "round": "Series B",
+    "amount": "$81 million",
+    "leadInvestors": "Smash Capital",
+    "valuation": "$1.25 billion",
+    "emailDate": "2026-06-25"
+  },
+  {
+    "company": "Tissium",
+    "dealSummary": "Tissium, a Paris-based medical device startup that has developed a polymer for tissue healing, raised €60 million.",
+    "round": null,
+    "amount": "€60 million",
+    "leadInvestors": null,
+    "valuation": null,
+    "emailDate": "2026-06-25"
+  },
+  {
+    "company": "Hang Ten Systems",
+    "dealSummary": "Enterprise AI services startup Hang Ten Systems secured $32 million in a seed round led by Mayfield.",
+    "round": "Seed",
+    "amount": "$32 million",
+    "leadInvestors": "Mayfield",
+    "valuation": null,
+    "emailDate": "2026-06-25"
+  },
+  {
+    "company": "Runlayer",
+    "dealSummary": "AI enablement and governance platform developer Runlayer raised a $30 million Series A led by Felicis.",
+    "round": "Series A",
     "amount": "$30 million",
-    "leadInvestors": "RTP Global",
+    "leadInvestors": "Felicis",
     "valuation": null,
-    "emailDate": "2026-06-24"
+    "emailDate": "2026-06-25"
   },
   {
-    "company": "Niural",
-    "dealSummary": "Payroll and benefits platform developer Niural raised $21 million from investors including FOG Ventures and NewView Capital to add to its Series A.",
+    "company": "Coval",
+    "dealSummary": "Coval, which develops a simulation and observability platform for voice AI agents, secured a $28 million Series A led by Norwest.",
     "round": "Series A",
-    "amount": "$21 million",
-    "leadInvestors": "FOG Ventures, NewView Capital to add to its Series A",
+    "amount": "$28 million",
+    "leadInvestors": "Norwest",
     "valuation": null,
-    "emailDate": "2026-06-24"
+    "emailDate": "2026-06-25"
   },
   {
-    "company": "Rapalogix Health",
-    "dealSummary": "Biotech startup Rapalogix Health, which specializes in cellular longevity in dermatology, secured a $20 million Series A led by GordonMD Global Investments and Woodline Partners.",
+    "company": "Astral Systems",
+    "dealSummary": "Astral Systems, a UK-based maker of compact fusion reactors, received £23 million in a round led by Mercia Ventures.",
+    "round": null,
+    "amount": "£23 million",
+    "leadInvestors": "Mercia Ventures",
+    "valuation": null,
+    "emailDate": "2026-06-25"
+  },
+  {
+    "company": "Onyx Odds",
+    "dealSummary": "Sports prediction platform developer Onyx Odds received a $20 million Series A led by Payward.",
     "round": "Series A",
     "amount": "$20 million",
-    "leadInvestors": "GordonMD Global Investments, Woodline Partners",
+    "leadInvestors": "Payward",
     "valuation": null,
-    "emailDate": "2026-06-24"
+    "emailDate": "2026-06-25"
   },
   {
-    "company": "Varm",
-    "dealSummary": "Berlin-based insulation startup Varm raised a €17.5 million Series A led by ABN AMRO Sustainable Impact Fund.",
+    "company": "Caplight",
+    "dealSummary": "Caplight, which operates a VC data and marketplace platform, raised a $16 million Series A led by Blackrock and Fin Capital.",
     "round": "Series A",
-    "amount": "€17.5 million",
-    "leadInvestors": "ABN AMRO Sustainable Impact Fund",
+    "amount": "$16 million",
+    "leadInvestors": "Blackrock, Fin Capital",
     "valuation": null,
-    "emailDate": "2026-06-24"
-  },
-  {
-    "company": "AlpSemi",
-    "dealSummary": "French semiconductor specialist AlpSemi received €17 million in a round led by Yotta Capital Partners.",
-    "round": null,
-    "amount": "€17 million",
-    "leadInvestors": "Yotta Capital Partners",
-    "valuation": null,
-    "emailDate": "2026-06-24"
-  },
-  {
-    "company": "Tetrix",
-    "dealSummary": "Tetrix, which develops an investment platform for limited partners, raised a $15 million Series A led by White Star Capital and Innovation Endeavors.",
-    "round": "Series A",
-    "amount": "$15 million",
-    "leadInvestors": "White Star Capital, Innovation Endeavors",
-    "valuation": null,
-    "emailDate": "2026-06-24"
-  },
-  {
-    "company": "Trimtech Therapeutics",
-    "dealSummary": "UK-based biotech group Trimtech Therapeutics raised $14 million in a round led by JJDC and BGF, bringing its seed round to $47 million.",
-    "round": "Seed",
-    "amount": "$14 million",
-    "leadInvestors": "JJDC, BGF",
-    "valuation": null,
-    "emailDate": "2026-06-24"
-  },
-  {
-    "company": "Flease",
-    "dealSummary": "French fleet leasing startup Flease secured €13 million in a round led by Partech.",
-    "round": null,
-    "amount": "€13 million",
-    "leadInvestors": "Partech",
-    "valuation": null,
-    "emailDate": "2026-06-24"
-  },
-  {
-    "company": "Timefold",
-    "dealSummary": "Timefold, the Belgian maker of a developer platform for vehicle routing and shift scheduling APIs, raised a $13 million Series A led by Alstin Capital.",
-    "round": "Series A",
-    "amount": "$13 million",
-    "leadInvestors": "Alstin Capital",
-    "valuation": null,
-    "emailDate": "2026-06-24"
+    "emailDate": "2026-06-25"
   }
 ]
