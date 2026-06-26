@@ -1,155 +1,128 @@
 [
   {
-    "company": "Kalshi",
-    "dealSummary": "Prediction marketplace operator Kalshi is raising new funding at a $40 billion valuation, the Financial Times reported.",
+    "company": "Alan",
+    "dealSummary": "Paris-based insurtech startup Alan raised €400 million at a €5.5 billion valuation in a round led by Prosus.",
     "round": null,
-    "amount": "$40 billion",
+    "amount": "€400 million",
+    "leadInvestors": "Prosus",
+    "valuation": null,
+    "emailDate": "2026-06-26"
+  },
+  {
+    "company": "Airwallex",
+    "dealSummary": "Fintech platform developer Airwallex secured a $320 million Series H led by Addition at an $11 billion valuation.",
+    "round": null,
+    "amount": "$320 million",
+    "leadInvestors": "Addition at an $11 billion valuation",
+    "valuation": null,
+    "emailDate": "2026-06-26"
+  },
+  {
+    "company": "Muon Space",
+    "dealSummary": "Muon Space, which specializes in satellite constellation networks, is raising a $250 million round, Axios reported.",
+    "round": null,
+    "amount": "$250 million",
     "leadInvestors": null,
-    "valuation": "$40 billion",
-    "emailDate": "2026-06-25"
-  },
-  {
-    "company": "XLight",
-    "dealSummary": "XLight, which specializes in lasers for chip manufacturing, is in talks to raise a $350 million round led by Boardman Bay Capital Management and Bain Capital, The Information reported.",
-    "round": null,
-    "amount": "$350 million",
-    "leadInvestors": "Boardman Bay Capital Management, Bain Capital, The Information reported",
     "valuation": null,
-    "emailDate": "2026-06-25"
+    "emailDate": "2026-06-26"
   },
   {
-    "company": "Vision disease-focused Ollin Biosciences",
-    "dealSummary": "Vision disease-focused Ollin Biosciences secured a $330 million Series B led by TCGX and Arch Venture Partners.",
-    "round": "Series B",
-    "amount": "$330 million",
-    "leadInvestors": "TCGX, Arch Venture Partners",
-    "valuation": null,
-    "emailDate": "2026-06-25"
-  },
-  {
-    "company": "Mirendil",
-    "dealSummary": "Mirendil, a startup specializing in AI for scientific research and development, raised a $200 million seed round led by Andreessen Horowitz and Kleiner Perkins.",
+    "company": "Trase",
+    "dealSummary": "Trase, a startup developing an enterprise AI operating system, raised a $107 million seed round led by Arch Venture Partners.",
     "round": "Seed",
-    "amount": "$200 million",
-    "leadInvestors": "Andreessen Horowitz, Kleiner Perkins",
+    "amount": "$107 million",
+    "leadInvestors": "Arch Venture Partners",
     "valuation": null,
-    "emailDate": "2026-06-25"
+    "emailDate": "2026-06-26"
   },
   {
-    "company": "Finn",
-    "dealSummary": "German car subscription specialist Finn secured nearly €100 million for its Series D led by Portage at a valuation in excess of €1 billion, along with more than €40 million in debt from BC Partners Credit and Runway Growth Capital.",
+    "company": "Scaled Cognition",
+    "dealSummary": "Scaled Cognition, an enterprise AI model lab, received a $100 million Series A led by Khosla Ventures.",
+    "round": "Series A",
+    "amount": "$100 million",
+    "leadInvestors": "Khosla Ventures",
+    "valuation": null,
+    "emailDate": "2026-06-26"
+  },
+  {
+    "company": "Runpod",
+    "dealSummary": "Runpod, which operates an AI developer cloud system, received a $100 million investment from Summit Partners.",
+    "round": null,
+    "amount": "$100 million",
+    "leadInvestors": null,
+    "valuation": null,
+    "emailDate": "2026-06-26"
+  },
+  {
+    "company": "Lycia Therapeutics",
+    "dealSummary": "Biotech startup Lycia Therapeutics, which focuses on autoimmune and inflammatory diseases, secured a $75 million Series D led by Janus Henderson and Balyasny Asset Management.",
     "round": "Series D",
-    "amount": "€100 million",
-    "leadInvestors": "Portage",
+    "amount": "$75 million",
+    "leadInvestors": "Janus Henderson, Balyasny Asset Management",
     "valuation": null,
-    "emailDate": "2026-06-25"
+    "emailDate": "2026-06-26"
   },
   {
-    "company": "Assort Health",
-    "dealSummary": "Assort Health, the developer of AI agents for healthcare administrative tasks, raised a $120 million Series C led by Menlo Ventures at a $1.2 billion valuation.",
-    "round": "Series C",
-    "amount": "$120 million",
-    "leadInvestors": "Menlo Ventures",
-    "valuation": "$1.2 billion",
-    "emailDate": "2026-06-25"
-  },
-  {
-    "company": "RQ Bio",
-    "dealSummary": "London-based RQ Bio, which makes antibody therapeutics to prevent influenza, received a $115 million Series A led by Frazier Life Sciences.",
-    "round": "Series A",
-    "amount": "$115 million",
-    "leadInvestors": "Frazier Life Sciences",
-    "valuation": null,
-    "emailDate": "2026-06-25"
-  },
-  {
-    "company": "Taktile",
-    "dealSummary": "Taktile, which specializes in AI for financial institutions, received a $110 million Series C led by Growth Equity at Goldman Sachs Alternatives.",
-    "round": "Series C",
-    "amount": "$110 million",
-    "leadInvestors": "Growth Equity at Goldman Sachs Alternatives",
-    "valuation": null,
-    "emailDate": "2026-06-25"
-  },
-  {
-    "company": "Engram",
-    "dealSummary": "Engram, the developer of tools to train AI on individual and workspace contexts, raised a $98 million round from investors including General Catalyst, Kleiner Perkins and Sequoia.",
-    "round": null,
-    "amount": "$98 million",
-    "leadInvestors": "General Catalyst, Kleiner Perkins, Sequoia",
-    "valuation": null,
-    "emailDate": "2026-06-25"
-  },
-  {
-    "company": "Redo",
-    "dealSummary": "Redo, a commerce tech startup specializing in customer relationships, raised an $81 million Series B led by Smash Capital at a $1.25 billion valuation.",
-    "round": "Series B",
-    "amount": "$81 million",
-    "leadInvestors": "Smash Capital",
-    "valuation": "$1.25 billion",
-    "emailDate": "2026-06-25"
-  },
-  {
-    "company": "Tissium",
-    "dealSummary": "Tissium, a Paris-based medical device startup that has developed a polymer for tissue healing, raised €60 million.",
-    "round": null,
-    "amount": "€60 million",
-    "leadInvestors": null,
-    "valuation": null,
-    "emailDate": "2026-06-25"
-  },
-  {
-    "company": "Hang Ten Systems",
-    "dealSummary": "Enterprise AI services startup Hang Ten Systems secured $32 million in a seed round led by Mayfield.",
+    "company": "Arca",
+    "dealSummary": "Wealth management platform developer Arca raised $64 million across its seed round led by Venrock and Series A led by General Catalyst.",
     "round": "Seed",
-    "amount": "$32 million",
-    "leadInvestors": "Mayfield",
+    "amount": "$64 million",
+    "leadInvestors": "Venrock, Series A led by General Catalyst",
     "valuation": null,
-    "emailDate": "2026-06-25"
+    "emailDate": "2026-06-26"
   },
   {
-    "company": "Runlayer",
-    "dealSummary": "AI enablement and governance platform developer Runlayer raised a $30 million Series A led by Felicis.",
+    "company": "Autoimmune-disease-focused Oblenio Bio",
+    "dealSummary": "Autoimmune-disease-focused Oblenio Bio secured a $62 million Series B led by Pfizer Ventures.",
+    "round": "Series B",
+    "amount": "$62 million",
+    "leadInvestors": "Pfizer Ventures",
+    "valuation": null,
+    "emailDate": "2026-06-26"
+  },
+  {
+    "company": "Warp",
+    "dealSummary": "AI payroll and employee management software developer Warp raised a $60 million Series B led by Battery Ventures.",
+    "round": "Series B",
+    "amount": "$60 million",
+    "leadInvestors": "Battery Ventures",
+    "valuation": null,
+    "emailDate": "2026-06-26"
+  },
+  {
+    "company": "Float",
+    "dealSummary": "Toronto-based Float, which provides a system for financial workflows, secured a C$85 million ($59.8 million) Series C led by Inovia Capital.",
+    "round": "Series C",
+    "amount": "$85 million",
+    "leadInvestors": "Inovia Capital",
+    "valuation": null,
+    "emailDate": "2026-06-26"
+  },
+  {
+    "company": "Patronus AI",
+    "dealSummary": "Patronus AI, the developer of simulations and testing environments for AI agents, raised a $50 million Series B led by Greenfield Partners.",
+    "round": "Series B",
+    "amount": "$50 million",
+    "leadInvestors": "Greenfield Partners",
+    "valuation": null,
+    "emailDate": "2026-06-26"
+  },
+  {
+    "company": "Hera",
+    "dealSummary": "Hera, the developer of a senior care management platform, raised a $27 million Series A led by Bain Capital Ventures.",
     "round": "Series A",
-    "amount": "$30 million",
-    "leadInvestors": "Felicis",
+    "amount": "$27 million",
+    "leadInvestors": "Bain Capital Ventures",
     "valuation": null,
-    "emailDate": "2026-06-25"
+    "emailDate": "2026-06-26"
   },
   {
-    "company": "Coval",
-    "dealSummary": "Coval, which develops a simulation and observability platform for voice AI agents, secured a $28 million Series A led by Norwest.",
+    "company": "Almetra",
+    "dealSummary": "Almetra, a German developer of an AI-based process analytics platform for factories, raised a $19 million Series A led by Blisce.",
     "round": "Series A",
-    "amount": "$28 million",
-    "leadInvestors": "Norwest",
+    "amount": "$19 million",
+    "leadInvestors": "Blisce",
     "valuation": null,
-    "emailDate": "2026-06-25"
-  },
-  {
-    "company": "Astral Systems",
-    "dealSummary": "Astral Systems, a UK-based maker of compact fusion reactors, received £23 million in a round led by Mercia Ventures.",
-    "round": null,
-    "amount": "£23 million",
-    "leadInvestors": "Mercia Ventures",
-    "valuation": null,
-    "emailDate": "2026-06-25"
-  },
-  {
-    "company": "Onyx Odds",
-    "dealSummary": "Sports prediction platform developer Onyx Odds received a $20 million Series A led by Payward.",
-    "round": "Series A",
-    "amount": "$20 million",
-    "leadInvestors": "Payward",
-    "valuation": null,
-    "emailDate": "2026-06-25"
-  },
-  {
-    "company": "Caplight",
-    "dealSummary": "Caplight, which operates a VC data and marketplace platform, raised a $16 million Series A led by Blackrock and Fin Capital.",
-    "round": "Series A",
-    "amount": "$16 million",
-    "leadInvestors": "Blackrock, Fin Capital",
-    "valuation": null,
-    "emailDate": "2026-06-25"
+    "emailDate": "2026-06-26"
   }
 ]
