@@ -1,29 +1,83 @@
 [
   {
-    "company": "Leyden Labs",
-    "dealSummary": "Dutch biotech group Leyden Labs raised €40 million from investors including the European Innovation Council Fund, Invest-NL and the Gates Foundation.",
+    "company": "X Square Robot",
+    "dealSummary": "Shenzhen-based AI robotics startup X Square Robot raised four funding rounds, including a Series C that valued the company at over $2.8 billion.",
+    "round": "Series C",
+    "amount": "$2.8 billion",
+    "leadInvestors": null,
+    "valuation": null,
+    "emailDate": "2026-06-30"
+  },
+  {
+    "company": "8090",
+    "dealSummary": "Enterprise AI software developer 8090 raised a $135 million Series A led by Salesforce Ventures.",
+    "round": "Series A",
+    "amount": "$135 million",
+    "leadInvestors": "Salesforce Ventures",
+    "valuation": null,
+    "emailDate": "2026-06-30"
+  },
+  {
+    "company": "Reed Semiconductor",
+    "dealSummary": "AI infrastructure company Reed Semiconductor secured a $100 million round.",
     "round": null,
-    "amount": "€40 million",
-    "leadInvestors": "the European Innovation Council Fund, Invest-NL, the Gates Foundation",
+    "amount": "$100 million",
+    "leadInvestors": null,
     "valuation": null,
-    "emailDate": "2026-06-29"
+    "emailDate": "2026-06-30"
   },
   {
-    "company": "Nebulock",
-    "dealSummary": "Nebulock, the developer of a contextual security platform, received a $25 million Series A led by FirstMark.",
+    "company": "Straiker",
+    "dealSummary": "Straiker, an agentic cybersecurity company, received a $64 million Series A led by investors including Marathon Management Partners, Citi Ventures, Illuminate Financial and Workday Ventures.",
     "round": "Series A",
-    "amount": "$25 million",
-    "leadInvestors": "FirstMark",
+    "amount": "$64 million",
+    "leadInvestors": "Marathon Management Partners, Citi Ventures, Illuminate Financial, Workday Ventures",
     "valuation": null,
-    "emailDate": "2026-06-29"
+    "emailDate": "2026-06-30"
   },
   {
-    "company": "Upside",
-    "dealSummary": "Upside, which offers a housing stability platform, raised a $20 million Series A led by Aquiline.",
-    "round": "Series A",
-    "amount": "$20 million",
-    "leadInvestors": "Aquiline",
+    "company": "Rocket",
+    "dealSummary": "Rocket, an India-based AI app-coding startup, is in talks to raise between $40 million and $50 million in a round led by 360 One Asset, The Economic Times reported.",
+    "round": null,
+    "amount": "$40 million",
+    "leadInvestors": "360 One Asset, The Economic Times reported",
     "valuation": null,
-    "emailDate": "2026-06-29"
+    "emailDate": "2026-06-30"
+  },
+  {
+    "company": "Omen AI",
+    "dealSummary": "Omen AI, which develops sensors for data center equipment, raised a $31 million Series A led by Nava Ventures.",
+    "round": "Series A",
+    "amount": "$31 million",
+    "leadInvestors": "Nava Ventures",
+    "valuation": null,
+    "emailDate": "2026-06-30"
+  },
+  {
+    "company": "Nebex",
+    "dealSummary": "Nebex, which specializes in capital markets infrastructure for the commercial space sector, secured a $30 million seed round led by GV.",
+    "round": "Seed",
+    "amount": "$30 million",
+    "leadInvestors": "GV",
+    "valuation": null,
+    "emailDate": "2026-06-30"
+  },
+  {
+    "company": "Peec AI",
+    "dealSummary": "Berlin-based AI search analytics startup Peec AI is in talks to raise funding at a $200 million valuation, Sifted reported.",
+    "round": null,
+    "amount": "$200 million",
+    "leadInvestors": null,
+    "valuation": "$200 million",
+    "emailDate": "2026-06-30"
+  },
+  {
+    "company": "Gaussion",
+    "dealSummary": "Gaussion, a London-based developer of energy intelligence technology for battery packs, raised $28 million in a round led by BGF and AlbionVC.",
+    "round": null,
+    "amount": "$28 million",
+    "leadInvestors": "BGF, AlbionVC",
+    "valuation": null,
+    "emailDate": "2026-06-30"
   }
 ]
