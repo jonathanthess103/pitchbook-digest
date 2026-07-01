@@ -1,83 +1,74 @@
 [
   {
-    "company": "X Square Robot",
-    "dealSummary": "Shenzhen-based AI robotics startup X Square Robot raised four funding rounds, including a Series C that valued the company at over $2.8 billion.",
-    "round": "Series C",
-    "amount": "$2.8 billion",
+    "company": "Investors include VentureTech Alliance, Peter Thiel and Jane Street. Higgsfield AI",
+    "dealSummary": "Investors include VentureTech Alliance, Peter Thiel and Jane Street. Higgsfield AI, an AI video startup, is in talks to raise between $300 million and $500 million in a round led by DST Global at a $5 billion valuation, The Information reported.",
+    "round": null,
+    "amount": "$300 million",
+    "leadInvestors": "DST Global",
+    "valuation": "$5 billion",
+    "emailDate": "2026-07-01"
+  },
+  {
+    "company": "Dominion Dynamics",
+    "dealSummary": "Canadian defense tech company Dominion Dynamics secured a C$139 million ($100 million) Series A led by Georgian.",
+    "round": "Series A",
+    "amount": "$139 million",
+    "leadInvestors": "Georgian",
+    "valuation": null,
+    "emailDate": "2026-07-01"
+  },
+  {
+    "company": "Stathera",
+    "dealSummary": "Stathera, a semiconductor startup specializing in silicon timing, raised a $55 million Series B led by Maverick Silicon.",
+    "round": "Series B",
+    "amount": "$55 million",
+    "leadInvestors": "Maverick Silicon",
+    "valuation": null,
+    "emailDate": "2026-07-01"
+  },
+  {
+    "company": "Xellar Biosystems",
+    "dealSummary": "Xellar Biosystems, the developer of a drug discovery platform, received $50 million in Series A and Series A+ rounds.",
+    "round": "Series A",
+    "amount": "$50 million",
     "leadInvestors": null,
     "valuation": null,
-    "emailDate": "2026-06-30"
+    "emailDate": "2026-07-01"
   },
   {
-    "company": "8090",
-    "dealSummary": "Enterprise AI software developer 8090 raised a $135 million Series A led by Salesforce Ventures.",
+    "company": "1001",
+    "dealSummary": "AI operating system developer 1001 raised a $30 million Series A led by Lux Capital.",
     "round": "Series A",
-    "amount": "$135 million",
-    "leadInvestors": "Salesforce Ventures",
-    "valuation": null,
-    "emailDate": "2026-06-30"
-  },
-  {
-    "company": "Reed Semiconductor",
-    "dealSummary": "AI infrastructure company Reed Semiconductor secured a $100 million round.",
-    "round": null,
-    "amount": "$100 million",
-    "leadInvestors": null,
-    "valuation": null,
-    "emailDate": "2026-06-30"
-  },
-  {
-    "company": "Straiker",
-    "dealSummary": "Straiker, an agentic cybersecurity company, received a $64 million Series A led by investors including Marathon Management Partners, Citi Ventures, Illuminate Financial and Workday Ventures.",
-    "round": "Series A",
-    "amount": "$64 million",
-    "leadInvestors": "Marathon Management Partners, Citi Ventures, Illuminate Financial, Workday Ventures",
-    "valuation": null,
-    "emailDate": "2026-06-30"
-  },
-  {
-    "company": "Rocket",
-    "dealSummary": "Rocket, an India-based AI app-coding startup, is in talks to raise between $40 million and $50 million in a round led by 360 One Asset, The Economic Times reported.",
-    "round": null,
-    "amount": "$40 million",
-    "leadInvestors": "360 One Asset, The Economic Times reported",
-    "valuation": null,
-    "emailDate": "2026-06-30"
-  },
-  {
-    "company": "Omen AI",
-    "dealSummary": "Omen AI, which develops sensors for data center equipment, raised a $31 million Series A led by Nava Ventures.",
-    "round": "Series A",
-    "amount": "$31 million",
-    "leadInvestors": "Nava Ventures",
-    "valuation": null,
-    "emailDate": "2026-06-30"
-  },
-  {
-    "company": "Nebex",
-    "dealSummary": "Nebex, which specializes in capital markets infrastructure for the commercial space sector, secured a $30 million seed round led by GV.",
-    "round": "Seed",
     "amount": "$30 million",
-    "leadInvestors": "GV",
+    "leadInvestors": "Lux Capital",
     "valuation": null,
-    "emailDate": "2026-06-30"
+    "emailDate": "2026-07-01"
   },
   {
-    "company": "Peec AI",
-    "dealSummary": "Berlin-based AI search analytics startup Peec AI is in talks to raise funding at a $200 million valuation, Sifted reported.",
-    "round": null,
-    "amount": "$200 million",
-    "leadInvestors": null,
-    "valuation": "$200 million",
-    "emailDate": "2026-06-30"
+    "company": "Jota",
+    "dealSummary": "São Paulo-based fintech startup Jota, which provides digital banking services, secured a $30 million Series A led by Haun Ventures at a $185 million valuation.",
+    "round": "Series A",
+    "amount": "$30 million",
+    "leadInvestors": "Haun Ventures",
+    "valuation": "$185 million",
+    "emailDate": "2026-07-01"
   },
   {
-    "company": "Gaussion",
-    "dealSummary": "Gaussion, a London-based developer of energy intelligence technology for battery packs, raised $28 million in a round led by BGF and AlbionVC.",
+    "company": "Six Robotics",
+    "dealSummary": "Six Robotics, an Oslo-based developer of autonomy software for unmanned systems, raised €12 million in a round led by DTCP.",
     "round": null,
-    "amount": "$28 million",
-    "leadInvestors": "BGF, AlbionVC",
+    "amount": "€12 million",
+    "leadInvestors": "DTCP",
     "valuation": null,
-    "emailDate": "2026-06-30"
+    "emailDate": "2026-07-01"
+  },
+  {
+    "company": "Queue",
+    "dealSummary": "Queue, the developer of an autonomous robotic pharmacy system, secured a $12.6 million seed round led by AlleyCorp.",
+    "round": "Seed",
+    "amount": "$12.6 million",
+    "leadInvestors": "AlleyCorp",
+    "valuation": null,
+    "emailDate": "2026-07-01"
   }
 ]
