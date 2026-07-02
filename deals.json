@@ -1,74 +1,74 @@
 [
   {
-    "company": "Investors include VentureTech Alliance, Peter Thiel and Jane Street. Higgsfield AI",
-    "dealSummary": "Investors include VentureTech Alliance, Peter Thiel and Jane Street. Higgsfield AI, an AI video startup, is in talks to raise between $300 million and $500 million in a round led by DST Global at a $5 billion valuation, The Information reported.",
+    "company": "Open-source AI model startup Together AI",
+    "dealSummary": "Open-source AI model startup Together AI secured an $800 million round led by Prosperity7 Ventures at an $8.3 billion valuation.",
     "round": null,
-    "amount": "$300 million",
-    "leadInvestors": "DST Global",
-    "valuation": "$5 billion",
-    "emailDate": "2026-07-01"
-  },
-  {
-    "company": "Dominion Dynamics",
-    "dealSummary": "Canadian defense tech company Dominion Dynamics secured a C$139 million ($100 million) Series A led by Georgian.",
-    "round": "Series A",
-    "amount": "$139 million",
-    "leadInvestors": "Georgian",
+    "amount": "$800 million",
+    "leadInvestors": "Prosperity7 Ventures at an $8",
     "valuation": null,
-    "emailDate": "2026-07-01"
+    "emailDate": "2026-07-02"
   },
   {
-    "company": "Stathera",
-    "dealSummary": "Stathera, a semiconductor startup specializing in silicon timing, raised a $55 million Series B led by Maverick Silicon.",
-    "round": "Series B",
-    "amount": "$55 million",
-    "leadInvestors": "Maverick Silicon",
-    "valuation": null,
-    "emailDate": "2026-07-01"
-  },
-  {
-    "company": "Xellar Biosystems",
-    "dealSummary": "Xellar Biosystems, the developer of a drug discovery platform, received $50 million in Series A and Series A+ rounds.",
-    "round": "Series A",
-    "amount": "$50 million",
+    "company": "Aire is looking to",
+    "dealSummary": "AI startup Aire is looking to raise $400 million, Sifted reported.",
+    "round": null,
+    "amount": "$400 million",
     "leadInvestors": null,
     "valuation": null,
-    "emailDate": "2026-07-01"
+    "emailDate": "2026-07-02"
   },
   {
-    "company": "1001",
-    "dealSummary": "AI operating system developer 1001 raised a $30 million Series A led by Lux Capital.",
+    "company": "Beeline Medicines",
+    "dealSummary": "Beeline Medicines, a biopharma company developing treatments for lupus and other autoimmune conditions, raised a $126.3 million Series A extension from investors including Bain Capital, CPP Investments and Bristol Myers Squibb.",
     "round": "Series A",
-    "amount": "$30 million",
-    "leadInvestors": "Lux Capital",
+    "amount": "$126.3 million",
+    "leadInvestors": "Bain Capital, CPP Investments, Bristol Myers Squibb",
     "valuation": null,
-    "emailDate": "2026-07-01"
+    "emailDate": "2026-07-02"
   },
   {
-    "company": "Jota",
-    "dealSummary": "São Paulo-based fintech startup Jota, which provides digital banking services, secured a $30 million Series A led by Haun Ventures at a $185 million valuation.",
-    "round": "Series A",
-    "amount": "$30 million",
-    "leadInvestors": "Haun Ventures",
-    "valuation": "$185 million",
-    "emailDate": "2026-07-01"
-  },
-  {
-    "company": "Six Robotics",
-    "dealSummary": "Six Robotics, an Oslo-based developer of autonomy software for unmanned systems, raised €12 million in a round led by DTCP.",
-    "round": null,
-    "amount": "€12 million",
-    "leadInvestors": "DTCP",
+    "company": "Twelve Labs",
+    "dealSummary": "San Francisco-based Twelve Labs, which develops AI tools to search and analyze video content, raised a $100 million Series B led by NEA and Naver Ventures.",
+    "round": "Series B",
+    "amount": "$100 million",
+    "leadInvestors": "NEA, Naver Ventures",
     "valuation": null,
-    "emailDate": "2026-07-01"
+    "emailDate": "2026-07-02"
   },
   {
-    "company": "Queue",
-    "dealSummary": "Queue, the developer of an autonomous robotic pharmacy system, secured a $12.6 million seed round led by AlleyCorp.",
+    "company": "Higharc",
+    "dealSummary": "Higharc, which specializes in AI for the construction supply chain, received a $95 million Series C led by Insight Partners.",
+    "round": "Series C",
+    "amount": "$95 million",
+    "leadInvestors": "Insight Partners",
+    "valuation": null,
+    "emailDate": "2026-07-02"
+  },
+  {
+    "company": "Aligned",
+    "dealSummary": "AI deal workflow platform developer Aligned secured a $60 million Series B led by PeakSpan Capital.",
+    "round": "Series B",
+    "amount": "$60 million",
+    "leadInvestors": "PeakSpan Capital",
+    "valuation": null,
+    "emailDate": "2026-07-02"
+  },
+  {
+    "company": "Taxwire",
+    "dealSummary": "Taxwire, the developer of a tax automation platform, raised $25 million in seed and Series A funding from investors including Headline Ventures, XYZ VC and Vinyl.",
     "round": "Seed",
-    "amount": "$12.6 million",
-    "leadInvestors": "AlleyCorp",
+    "amount": "$25 million",
+    "leadInvestors": "Headline Ventures, XYZ VC, Vinyl",
     "valuation": null,
-    "emailDate": "2026-07-01"
+    "emailDate": "2026-07-02"
+  },
+  {
+    "company": "EquiLibre",
+    "dealSummary": "Prague-based AI trading research lab EquiLibre closed its Series A led by Creandum at a valuation of more than $500 million.",
+    "round": "Series A",
+    "amount": "$500 million",
+    "leadInvestors": "Creandum",
+    "valuation": null,
+    "emailDate": "2026-07-02"
   }
 ]
