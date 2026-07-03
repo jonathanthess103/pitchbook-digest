@@ -1,74 +1,101 @@
 [
   {
-    "company": "Open-source AI model startup Together AI",
-    "dealSummary": "Open-source AI model startup Together AI secured an $800 million round led by Prosperity7 Ventures at an $8.3 billion valuation.",
+    "company": "Kling AI",
+    "dealSummary": "China-based Kling AI, an AI video startup and spinoff from Kuaishou Technology, raised $2 billion in VC funding.",
     "round": null,
-    "amount": "$800 million",
-    "leadInvestors": "Prosperity7 Ventures at an $8",
-    "valuation": null,
-    "emailDate": "2026-07-02"
-  },
-  {
-    "company": "Aire is looking to",
-    "dealSummary": "AI startup Aire is looking to raise $400 million, Sifted reported.",
-    "round": null,
-    "amount": "$400 million",
+    "amount": "$2 billion",
     "leadInvestors": null,
     "valuation": null,
-    "emailDate": "2026-07-02"
+    "emailDate": "2026-07-03"
   },
   {
-    "company": "Beeline Medicines",
-    "dealSummary": "Beeline Medicines, a biopharma company developing treatments for lupus and other autoimmune conditions, raised a $126.3 million Series A extension from investors including Bain Capital, CPP Investments and Bristol Myers Squibb.",
+    "company": "DigitalBridge Group-owned data center operator Switch",
+    "dealSummary": "DigitalBridge Group-owned data center operator Switch is raising a $2 billion round led by Andreessen Horowitz, Bloomberg reported.",
+    "round": null,
+    "amount": "$2 billion",
+    "leadInvestors": "Andreessen Horowitz",
+    "valuation": null,
+    "emailDate": "2026-07-03"
+  },
+  {
+    "company": "Quantum Systems",
+    "dealSummary": "Germany-based drone startup Quantum Systems secured a $1.2 billion round led by Blackstone, Noteus, Airbus and Advent International.",
+    "round": null,
+    "amount": "$1.2 billion",
+    "leadInvestors": "Blackstone, Noteus, Airbus, Advent International",
+    "valuation": null,
+    "emailDate": "2026-07-03"
+  },
+  {
+    "company": "Celea Therapeutics",
+    "dealSummary": "Celea Therapeutics, a biopharma focused on treatments for respiratory diseases, raised a $180 million round from investors including RA Capital Management, Leaps by Bayer and PureTech Health.",
+    "round": null,
+    "amount": "$180 million",
+    "leadInvestors": "RA Capital Management, Leaps by Bayer, PureTech Health",
+    "valuation": null,
+    "emailDate": "2026-07-03"
+  },
+  {
+    "company": "Tripo AI",
+    "dealSummary": "Tripo AI, which develops AI 3D foundation and world models, raised a $150 million Series A3 from investors including Geely Capital, Fosun Capital and Orinno Capital.",
+    "round": null,
+    "amount": "$150 million",
+    "leadInvestors": "Geely Capital, Fosun Capital, Orinno Capital",
+    "valuation": null,
+    "emailDate": "2026-07-03"
+  },
+  {
+    "company": "Venice",
+    "dealSummary": "Venice, a platform providing access to AI tools, raised a $65 million Series A led by Dragonfly at a $1 billion valuation.",
     "round": "Series A",
-    "amount": "$126.3 million",
-    "leadInvestors": "Bain Capital, CPP Investments, Bristol Myers Squibb",
-    "valuation": null,
-    "emailDate": "2026-07-02"
+    "amount": "$65 million",
+    "leadInvestors": "Dragonfly",
+    "valuation": "$1 billion",
+    "emailDate": "2026-07-03"
   },
   {
-    "company": "Twelve Labs",
-    "dealSummary": "San Francisco-based Twelve Labs, which develops AI tools to search and analyze video content, raised a $100 million Series B led by NEA and Naver Ventures.",
-    "round": "Series B",
-    "amount": "$100 million",
-    "leadInvestors": "NEA, Naver Ventures",
+    "company": "Oxmiq",
+    "dealSummary": "GPU and AI architecture company Oxmiq secured a $35 million Series A led by Fundomo and Samsung Catalyst Fund.",
+    "round": "Series A",
+    "amount": "$35 million",
+    "leadInvestors": "Fundomo, Samsung Catalyst Fund",
     "valuation": null,
-    "emailDate": "2026-07-02"
+    "emailDate": "2026-07-03"
   },
   {
-    "company": "Higharc",
-    "dealSummary": "Higharc, which specializes in AI for the construction supply chain, received a $95 million Series C led by Insight Partners.",
-    "round": "Series C",
-    "amount": "$95 million",
-    "leadInvestors": "Insight Partners",
-    "valuation": null,
-    "emailDate": "2026-07-02"
-  },
-  {
-    "company": "Aligned",
-    "dealSummary": "AI deal workflow platform developer Aligned secured a $60 million Series B led by PeakSpan Capital.",
-    "round": "Series B",
-    "amount": "$60 million",
-    "leadInvestors": "PeakSpan Capital",
-    "valuation": null,
-    "emailDate": "2026-07-02"
-  },
-  {
-    "company": "Taxwire",
-    "dealSummary": "Taxwire, the developer of a tax automation platform, raised $25 million in seed and Series A funding from investors including Headline Ventures, XYZ VC and Vinyl.",
-    "round": "Seed",
+    "company": "Integral",
+    "dealSummary": "Integral, the developer of a data intelligence platform, raised $25 million from investors including Venrex, The General Partnership and Array Ventures.10Beauty, which develops robotic manicure machines, received $23.5 million in a round led by Story Ventures.",
+    "round": null,
     "amount": "$25 million",
-    "leadInvestors": "Headline Ventures, XYZ VC, Vinyl",
+    "leadInvestors": "Venrex, The General Partnership, Array Ventures",
     "valuation": null,
-    "emailDate": "2026-07-02"
+    "emailDate": "2026-07-03"
   },
   {
-    "company": "EquiLibre",
-    "dealSummary": "Prague-based AI trading research lab EquiLibre closed its Series A led by Creandum at a valuation of more than $500 million.",
+    "company": "LinqAlpha",
+    "dealSummary": "LinqAlpha, which develops an AI platform for public markets, raised a $22 million Series A led by AVP, Atinum Investment and GFT Ventures.",
     "round": "Series A",
-    "amount": "$500 million",
-    "leadInvestors": "Creandum",
+    "amount": "$22 million",
+    "leadInvestors": "AVP, Atinum Investment, GFT Ventures",
     "valuation": null,
-    "emailDate": "2026-07-02"
+    "emailDate": "2026-07-03"
+  },
+  {
+    "company": "StirlingX",
+    "dealSummary": "London-based data intelligence startup StirlingX raised a $20 million Series A led by Ventura Capital.",
+    "round": "Series A",
+    "amount": "$20 million",
+    "leadInvestors": "Ventura Capital",
+    "valuation": null,
+    "emailDate": "2026-07-03"
+  },
+  {
+    "company": "Alva Industries",
+    "dealSummary": "Norwegian electric motor developer Alva Industries secured €16 million in a round led by Nysno Climate Investments, Sandwater and Emerald Technology Ventures.",
+    "round": null,
+    "amount": "€16 million",
+    "leadInvestors": "Nysno Climate Investments, Sandwater, Emerald Technology Ventures",
+    "valuation": null,
+    "emailDate": "2026-07-03"
   }
 ]
