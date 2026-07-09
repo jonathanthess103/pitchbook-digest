@@ -1,74 +1,101 @@
 [
   {
-    "company": "Quaise Energy",
-    "dealSummary": "Quaise Energy, a geothermal energy company, secured $134 million in the first close of its Series B led by Prelude Ventures.",
+    "company": "SambaNova",
+    "dealSummary": "AI infrastructure company SambaNova raised a $1 billion Series F at an $11 billion valuation led by General Atlantic.",
+    "round": "Series F",
+    "amount": "$1 billion",
+    "leadInvestors": "General Atlantic",
+    "valuation": null,
+    "emailDate": "2026-07-09"
+  },
+  {
+    "company": "Lovable",
+    "dealSummary": "Stockholm-based vibe coding startup Lovable is in talks to raise $300 million at a $13.2 billion valuation, Sifted reported.",
+    "round": null,
+    "amount": "$300 million",
+    "leadInvestors": null,
+    "valuation": "$13.2 billion",
+    "emailDate": "2026-07-09"
+  },
+  {
+    "company": "Pearl Health",
+    "dealSummary": "New York-based healthcare technology company Pearl Health raised $110 million, composed of a $50 million equity round led by Andreessen Horowitz and a $60 million debt facility led by Trinity Capital.",
+    "round": null,
+    "amount": "$110 million",
+    "leadInvestors": "Andreessen Horowitz, a $60 million debt facility led by Trinity Capital",
+    "valuation": null,
+    "emailDate": "2026-07-09"
+  },
+  {
+    "company": "Fore Biotherapeutics",
+    "dealSummary": "Fore Biotherapeutics, a Philadelphia-based developer of oncology treatments, raised a $67.4 million Series D-2 extension led by SR One, Medicxi and SymBiosis.",
+    "round": "Series D",
+    "amount": "$67.4 million",
+    "leadInvestors": "SR One, Medicxi, SymBiosis",
+    "valuation": null,
+    "emailDate": "2026-07-09"
+  },
+  {
+    "company": "Arkenstone Defense",
+    "dealSummary": "Arkenstone Defense, which helps commercial technology companies navigate government contracting, raised $35 million in seed funding led by J2 Ventures.",
+    "round": "Seed",
+    "amount": "$35 million",
+    "leadInvestors": "J2 Ventures",
+    "valuation": null,
+    "emailDate": "2026-07-09"
+  },
+  {
+    "company": "Pediatrica Health Group",
+    "dealSummary": "Miami-based Pediatrica Health Group, which provides pediatric primary care, raised a $28 million Series B led by Valspring Capital.",
     "round": "Series B",
-    "amount": "$134 million",
-    "leadInvestors": "Prelude Ventures",
+    "amount": "$28 million",
+    "leadInvestors": "Valspring Capital",
     "valuation": null,
-    "emailDate": "2026-07-08"
+    "emailDate": "2026-07-09"
   },
   {
-    "company": "Norm AI",
-    "dealSummary": "Legal AI startup Norm AI raised a $120 million Series C led by Khosla Ventures at a $1.2 billion valuation.",
-    "round": "Series C",
-    "amount": "$120 million",
-    "leadInvestors": "Khosla Ventures",
-    "valuation": "$1.2 billion",
-    "emailDate": "2026-07-08"
-  },
-  {
-    "company": "EDX Markets",
-    "dealSummary": "EDX Markets, the developer of a digital asset trading platform, secured a $76 million Series C led by SBI Holdings.",
-    "round": "Series C",
-    "amount": "$76 million",
-    "leadInvestors": "SBI Holdings",
+    "company": "Velocity",
+    "dealSummary": "Velocity, which provides tools for AI-native software companies to monetize their user growth, raised $27 million in seed funding led by NFX and Red Dot Capital Partners.",
+    "round": "Growth",
+    "amount": "$27 million",
+    "leadInvestors": "NFX, Red Dot Capital Partners",
     "valuation": null,
-    "emailDate": "2026-07-08"
+    "emailDate": "2026-07-09"
   },
   {
-    "company": "Super.com",
-    "dealSummary": "Super.com, the developer of a savings and financial services app, raised a $65 million Series D led by TPG at a $1.2 billion valuation.",
-    "round": "Series D",
-    "amount": "$65 million",
-    "leadInvestors": "TPG",
-    "valuation": "$1.2 billion",
-    "emailDate": "2026-07-08"
-  },
-  {
-    "company": "Bizay",
-    "dealSummary": "Bizay, a Portuguese marketplace for customized products, raised a $55 million Series D led by Indico Capital Partners.",
-    "round": "Series D",
-    "amount": "$55 million",
-    "leadInvestors": "Indico Capital Partners",
-    "valuation": null,
-    "emailDate": "2026-07-08"
-  },
-  {
-    "company": "Tangos",
-    "dealSummary": "Tangos, the developer of an AI platform for financial crime investigations, received a $20 million seed round led by Red Dot Capital Partners.",
-    "round": "Seed",
-    "amount": "$20 million",
-    "leadInvestors": "Red Dot Capital Partners",
-    "valuation": null,
-    "emailDate": "2026-07-08"
-  },
-  {
-    "company": "Hive",
-    "dealSummary": "Hive, a London-based startup building an AI layer for industrial machines, secured a $15 million seed investment led by SuperSeed.",
-    "round": "Seed",
-    "amount": "$15 million",
-    "leadInvestors": "SuperSeed",
-    "valuation": null,
-    "emailDate": "2026-07-08"
-  },
-  {
-    "company": "Agave",
-    "dealSummary": "Agave, the developer of a finance platform for the construction industry, raised a $15 million Series A led by Accel.",
+    "company": "Alta",
+    "dealSummary": "Tel Aviv-based Alta, which provides a go-to-market platform for revenue teams, raised a $25 million Series A led by IN Venture.",
     "round": "Series A",
-    "amount": "$15 million",
-    "leadInvestors": "Accel",
+    "amount": "$25 million",
+    "leadInvestors": "IN Venture",
     "valuation": null,
-    "emailDate": "2026-07-08"
+    "emailDate": "2026-07-09"
+  },
+  {
+    "company": "Fleek",
+    "dealSummary": "Fleek, a London-based developer of AI infrastructure for the secondhand fashion industry, secured a $25 million Series B led by Burda Principal Investments.",
+    "round": "Series B",
+    "amount": "$25 million",
+    "leadInvestors": "Burda Principal Investments",
+    "valuation": null,
+    "emailDate": "2026-07-09"
+  },
+  {
+    "company": "Axle Energy",
+    "dealSummary": "London-based Axle Energy, a startup connecting home energy assets with the flexible energy market, raised a $25 million Series A led by Energize Capital.",
+    "round": "Series A",
+    "amount": "$25 million",
+    "leadInvestors": "Energize Capital",
+    "valuation": null,
+    "emailDate": "2026-07-09"
+  },
+  {
+    "company": "Polysense",
+    "dealSummary": "Polysense, a Belgian developer of AI-powered quality control for food production, received $10.7 million in a round led by Felix Capital.",
+    "round": null,
+    "amount": "$10.7 million",
+    "leadInvestors": "Felix Capital",
+    "valuation": null,
+    "emailDate": "2026-07-09"
   }
 ]
