@@ -1,101 +1,92 @@
 [
   {
-    "company": "SambaNova",
-    "dealSummary": "AI infrastructure company SambaNova raised a $1 billion Series F at an $11 billion valuation led by General Atlantic.",
-    "round": "Series F",
-    "amount": "$1 billion",
-    "leadInvestors": "General Atlantic",
-    "valuation": null,
-    "emailDate": "2026-07-09"
-  },
-  {
-    "company": "Lovable",
-    "dealSummary": "Stockholm-based vibe coding startup Lovable is in talks to raise $300 million at a $13.2 billion valuation, Sifted reported.",
+    "company": "Positron",
+    "dealSummary": "Positron, an AI chip startup, is in talks to raise $750 million over a two-phase round.",
     "round": null,
-    "amount": "$300 million",
+    "amount": "$750 million",
     "leadInvestors": null,
-    "valuation": "$13.2 billion",
-    "emailDate": "2026-07-09"
+    "valuation": null,
+    "emailDate": "2026-07-10"
   },
   {
-    "company": "Pearl Health",
-    "dealSummary": "New York-based healthcare technology company Pearl Health raised $110 million, composed of a $50 million equity round led by Andreessen Horowitz and a $60 million debt facility led by Trinity Capital.",
+    "company": "Kraken Technology Group",
+    "dealSummary": "British maritime defense specialist Kraken Technology Group raised a $175 million Series B led by DTCP at a $1 billion valuation.",
+    "round": "Series B",
+    "amount": "$175 million",
+    "leadInvestors": "DTCP",
+    "valuation": "$1 billion",
+    "emailDate": "2026-07-10"
+  },
+  {
+    "company": "Prime Intellect",
+    "dealSummary": "San Francisco-based Prime Intellect, which builds infrastructure for training and deploying open frontier AI models, raised a $130 million Series A led by Radical Ventures.",
+    "round": "Series A",
+    "amount": "$130 million",
+    "leadInvestors": "Radical Ventures",
+    "valuation": null,
+    "emailDate": "2026-07-10"
+  },
+  {
+    "company": "Venus Aerospace",
+    "dealSummary": "Investors included Nvidia. Houston-based startup Venus Aerospace, a developer of rocket engines for hypersonic weapons and space vehicles, raised a $91 million Series B led by Mercury Fund.",
+    "round": "Series B",
+    "amount": "$91 million",
+    "leadInvestors": "Mercury Fund",
+    "valuation": null,
+    "emailDate": "2026-07-10"
+  },
+  {
+    "company": "QuantumDiamonds",
+    "dealSummary": "Munich-based semiconductor equipment group QuantumDiamonds raised €91 million in equity and debt in a round led by World Fund.",
     "round": null,
-    "amount": "$110 million",
-    "leadInvestors": "Andreessen Horowitz, a $60 million debt facility led by Trinity Capital",
+    "amount": "€91 million",
+    "leadInvestors": "World Fund",
     "valuation": null,
-    "emailDate": "2026-07-09"
+    "emailDate": "2026-07-10"
   },
   {
-    "company": "Fore Biotherapeutics",
-    "dealSummary": "Fore Biotherapeutics, a Philadelphia-based developer of oncology treatments, raised a $67.4 million Series D-2 extension led by SR One, Medicxi and SymBiosis.",
-    "round": "Series D",
-    "amount": "$67.4 million",
-    "leadInvestors": "SR One, Medicxi, SymBiosis",
+    "company": "TJM Labs",
+    "dealSummary": "TJM Labs, a pharmacy AI startup, raised a $75 million Series B led by Elephant.",
+    "round": "Series B",
+    "amount": "$75 million",
+    "leadInvestors": "Elephant",
     "valuation": null,
-    "emailDate": "2026-07-09"
+    "emailDate": "2026-07-10"
   },
   {
-    "company": "Arkenstone Defense",
-    "dealSummary": "Arkenstone Defense, which helps commercial technology companies navigate government contracting, raised $35 million in seed funding led by J2 Ventures.",
-    "round": "Seed",
+    "company": "Ollama",
+    "dealSummary": "Ollama, a Palo Alto-based developer platform for open-source AI models, raised a $65 million Series B led by Theory Ventures.",
+    "round": "Series B",
+    "amount": "$65 million",
+    "leadInvestors": "Theory Ventures",
+    "valuation": null,
+    "emailDate": "2026-07-10"
+  },
+  {
+    "company": "Kaon AI",
+    "dealSummary": "Kaon AI, which builds a platform for AI-generated entertainment, raised $60 million in a round from investors including B Capital, Redpoint Ace and Goodwater Capital.",
+    "round": null,
+    "amount": "$60 million",
+    "leadInvestors": "B Capital, Redpoint Ace, Goodwater Capital",
+    "valuation": null,
+    "emailDate": "2026-07-10"
+  },
+  {
+    "company": "Vendelux",
+    "dealSummary": "Vendelux, a New York-based developer of an AI platform for B2B events, raised a $50 million Series B led by Tribeca Venture Partners.",
+    "round": "Series B",
+    "amount": "$50 million",
+    "leadInvestors": "Tribeca Venture Partners",
+    "valuation": null,
+    "emailDate": "2026-07-10"
+  },
+  {
+    "company": "clinical-stage biotech Allotera Therapeutics",
+    "dealSummary": "St. Louis-based clinical-stage biotech Allotera Therapeutics, a developer of therapies for cancers, raised a $35 million Series C extension, which included equity and",
+    "round": "Series C",
     "amount": "$35 million",
-    "leadInvestors": "J2 Ventures",
+    "leadInvestors": null,
     "valuation": null,
-    "emailDate": "2026-07-09"
-  },
-  {
-    "company": "Pediatrica Health Group",
-    "dealSummary": "Miami-based Pediatrica Health Group, which provides pediatric primary care, raised a $28 million Series B led by Valspring Capital.",
-    "round": "Series B",
-    "amount": "$28 million",
-    "leadInvestors": "Valspring Capital",
-    "valuation": null,
-    "emailDate": "2026-07-09"
-  },
-  {
-    "company": "Velocity",
-    "dealSummary": "Velocity, which provides tools for AI-native software companies to monetize their user growth, raised $27 million in seed funding led by NFX and Red Dot Capital Partners.",
-    "round": "Growth",
-    "amount": "$27 million",
-    "leadInvestors": "NFX, Red Dot Capital Partners",
-    "valuation": null,
-    "emailDate": "2026-07-09"
-  },
-  {
-    "company": "Alta",
-    "dealSummary": "Tel Aviv-based Alta, which provides a go-to-market platform for revenue teams, raised a $25 million Series A led by IN Venture.",
-    "round": "Series A",
-    "amount": "$25 million",
-    "leadInvestors": "IN Venture",
-    "valuation": null,
-    "emailDate": "2026-07-09"
-  },
-  {
-    "company": "Fleek",
-    "dealSummary": "Fleek, a London-based developer of AI infrastructure for the secondhand fashion industry, secured a $25 million Series B led by Burda Principal Investments.",
-    "round": "Series B",
-    "amount": "$25 million",
-    "leadInvestors": "Burda Principal Investments",
-    "valuation": null,
-    "emailDate": "2026-07-09"
-  },
-  {
-    "company": "Axle Energy",
-    "dealSummary": "London-based Axle Energy, a startup connecting home energy assets with the flexible energy market, raised a $25 million Series A led by Energize Capital.",
-    "round": "Series A",
-    "amount": "$25 million",
-    "leadInvestors": "Energize Capital",
-    "valuation": null,
-    "emailDate": "2026-07-09"
-  },
-  {
-    "company": "Polysense",
-    "dealSummary": "Polysense, a Belgian developer of AI-powered quality control for food production, received $10.7 million in a round led by Felix Capital.",
-    "round": null,
-    "amount": "$10.7 million",
-    "leadInvestors": "Felix Capital",
-    "valuation": null,
-    "emailDate": "2026-07-09"
+    "emailDate": "2026-07-10"
   }
 ]
