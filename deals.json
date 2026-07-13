@@ -1,92 +1,56 @@
 [
   {
-    "company": "Positron",
-    "dealSummary": "Positron, an AI chip startup, is in talks to raise $750 million over a two-phase round.",
-    "round": null,
-    "amount": "$750 million",
-    "leadInvestors": null,
-    "valuation": null,
-    "emailDate": "2026-07-10"
-  },
-  {
-    "company": "Kraken Technology Group",
-    "dealSummary": "British maritime defense specialist Kraken Technology Group raised a $175 million Series B led by DTCP at a $1 billion valuation.",
+    "company": "Databento",
+    "dealSummary": "Databento, which provides a market data platform for trading and financial firms, raised a $97 million Series B led by NEA.",
     "round": "Series B",
-    "amount": "$175 million",
-    "leadInvestors": "DTCP",
-    "valuation": "$1 billion",
-    "emailDate": "2026-07-10"
-  },
-  {
-    "company": "Prime Intellect",
-    "dealSummary": "San Francisco-based Prime Intellect, which builds infrastructure for training and deploying open frontier AI models, raised a $130 million Series A led by Radical Ventures.",
-    "round": "Series A",
-    "amount": "$130 million",
-    "leadInvestors": "Radical Ventures",
+    "amount": "$97 million",
+    "leadInvestors": "NEA",
     "valuation": null,
-    "emailDate": "2026-07-10"
+    "emailDate": "2026-07-13"
   },
   {
-    "company": "Venus Aerospace",
-    "dealSummary": "Investors included Nvidia. Houston-based startup Venus Aerospace, a developer of rocket engines for hypersonic weapons and space vehicles, raised a $91 million Series B led by Mercury Fund.",
-    "round": "Series B",
-    "amount": "$91 million",
-    "leadInvestors": "Mercury Fund",
-    "valuation": null,
-    "emailDate": "2026-07-10"
-  },
-  {
-    "company": "QuantumDiamonds",
-    "dealSummary": "Munich-based semiconductor equipment group QuantumDiamonds raised €91 million in equity and debt in a round led by World Fund.",
-    "round": null,
-    "amount": "€91 million",
-    "leadInvestors": "World Fund",
-    "valuation": null,
-    "emailDate": "2026-07-10"
-  },
-  {
-    "company": "TJM Labs",
-    "dealSummary": "TJM Labs, a pharmacy AI startup, raised a $75 million Series B led by Elephant.",
-    "round": "Series B",
-    "amount": "$75 million",
-    "leadInvestors": "Elephant",
-    "valuation": null,
-    "emailDate": "2026-07-10"
-  },
-  {
-    "company": "Ollama",
-    "dealSummary": "Ollama, a Palo Alto-based developer platform for open-source AI models, raised a $65 million Series B led by Theory Ventures.",
-    "round": "Series B",
+    "company": "Leo Cancer Care",
+    "dealSummary": "Medtech startup Leo Cancer Care raised a $65 million Series D led by Yu Galaxy.",
+    "round": "Series D",
     "amount": "$65 million",
-    "leadInvestors": "Theory Ventures",
+    "leadInvestors": "Yu Galaxy",
     "valuation": null,
-    "emailDate": "2026-07-10"
+    "emailDate": "2026-07-13"
   },
   {
-    "company": "Kaon AI",
-    "dealSummary": "Kaon AI, which builds a platform for AI-generated entertainment, raised $60 million in a round from investors including B Capital, Redpoint Ace and Goodwater Capital.",
-    "round": null,
-    "amount": "$60 million",
-    "leadInvestors": "B Capital, Redpoint Ace, Goodwater Capital",
-    "valuation": null,
-    "emailDate": "2026-07-10"
-  },
-  {
-    "company": "Vendelux",
-    "dealSummary": "Vendelux, a New York-based developer of an AI platform for B2B events, raised a $50 million Series B led by Tribeca Venture Partners.",
-    "round": "Series B",
-    "amount": "$50 million",
-    "leadInvestors": "Tribeca Venture Partners",
-    "valuation": null,
-    "emailDate": "2026-07-10"
-  },
-  {
-    "company": "clinical-stage biotech Allotera Therapeutics",
-    "dealSummary": "St. Louis-based clinical-stage biotech Allotera Therapeutics, a developer of therapies for cancers, raised a $35 million Series C extension, which included equity and",
+    "company": "Hippo Harvest",
+    "dealSummary": "California-based Hippo Harvest, which grows organic greens in robotics-powered greenhouses, raised a $30 million Series C led by Cox Farms.",
     "round": "Series C",
-    "amount": "$35 million",
-    "leadInvestors": null,
+    "amount": "$30 million",
+    "leadInvestors": "Cox Farms",
     "valuation": null,
-    "emailDate": "2026-07-10"
+    "emailDate": "2026-07-13"
+  },
+  {
+    "company": "Marker",
+    "dealSummary": "London-based AI writing specialist Marker secured a $13 million seed investment led by Index Ventures.",
+    "round": "Seed",
+    "amount": "$13 million",
+    "leadInvestors": "Index Ventures",
+    "valuation": null,
+    "emailDate": "2026-07-13"
+  },
+  {
+    "company": "Fuchs & Eule",
+    "dealSummary": "Fuchs & Eule, a Berlin-based provider of an AI-powered retrofit platform for energy-efficient buildings, raised €10 million in a round led by GET Fund.",
+    "round": null,
+    "amount": "€10 million",
+    "leadInvestors": "GET Fund",
+    "valuation": null,
+    "emailDate": "2026-07-13"
+  },
+  {
+    "company": "Bohr Energie",
+    "dealSummary": "French energy optimization startup Bohr Energie received a €10 million Series A led by Suma Capital.",
+    "round": "Series A",
+    "amount": "€10 million",
+    "leadInvestors": "Suma Capital",
+    "valuation": null,
+    "emailDate": "2026-07-13"
   }
 ]
