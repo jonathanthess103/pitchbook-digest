@@ -1,56 +1,47 @@
 [
   {
-    "company": "Databento",
-    "dealSummary": "Databento, which provides a market data platform for trading and financial firms, raised a $97 million Series B led by NEA.",
-    "round": "Series B",
-    "amount": "$97 million",
+    "company": "Helsing",
+    "dealSummary": "Munich-based defense startup Helsing secured a $1.8 billion Series E from investors including Dragoneer Investment Group, Lightspeed and General Catalyst at an $18 billion valuation.",
+    "round": "Series E",
+    "amount": "$1.8 billion",
+    "leadInvestors": "Dragoneer Investment Group, Lightspeed, General Catalyst at an $18 billion valuation",
+    "valuation": null,
+    "emailDate": "2026-07-14"
+  },
+  {
+    "company": "biotech Drug Farm",
+    "dealSummary": "Shanghai-based biotech Drug Farm, which develops therapies for metabolic and autoimmune diseases, raised $55 million in a Series D led by Shanghai Pudong Leading Area Investment Center and Shanghai Puxing Collaborative Private Equity Fund Partnership Enterprise.",
+    "round": "Series D",
+    "amount": "$55 million",
+    "leadInvestors": "Shanghai Pudong Leading Area Investment Center, Shanghai Puxing Collaborative Private Equity Fund Partnership Enterprise",
+    "valuation": null,
+    "emailDate": "2026-07-14"
+  },
+  {
+    "company": "Valarian",
+    "dealSummary": "Valarian, a London-based startup developing AI and data infrastructure software for governments, raised a $50 million Series A led by NEA.",
+    "round": "Series A",
+    "amount": "$50 million",
     "leadInvestors": "NEA",
     "valuation": null,
-    "emailDate": "2026-07-13"
+    "emailDate": "2026-07-14"
   },
   {
-    "company": "Leo Cancer Care",
-    "dealSummary": "Medtech startup Leo Cancer Care raised a $65 million Series D led by Yu Galaxy.",
-    "round": "Series D",
-    "amount": "$65 million",
-    "leadInvestors": "Yu Galaxy",
-    "valuation": null,
-    "emailDate": "2026-07-13"
-  },
-  {
-    "company": "Hippo Harvest",
-    "dealSummary": "California-based Hippo Harvest, which grows organic greens in robotics-powered greenhouses, raised a $30 million Series C led by Cox Farms.",
-    "round": "Series C",
-    "amount": "$30 million",
-    "leadInvestors": "Cox Farms",
-    "valuation": null,
-    "emailDate": "2026-07-13"
-  },
-  {
-    "company": "Marker",
-    "dealSummary": "London-based AI writing specialist Marker secured a $13 million seed investment led by Index Ventures.",
-    "round": "Seed",
-    "amount": "$13 million",
-    "leadInvestors": "Index Ventures",
-    "valuation": null,
-    "emailDate": "2026-07-13"
-  },
-  {
-    "company": "Fuchs & Eule",
-    "dealSummary": "Fuchs & Eule, a Berlin-based provider of an AI-powered retrofit platform for energy-efficient buildings, raised €10 million in a round led by GET Fund.",
-    "round": null,
-    "amount": "€10 million",
-    "leadInvestors": "GET Fund",
-    "valuation": null,
-    "emailDate": "2026-07-13"
-  },
-  {
-    "company": "Bohr Energie",
-    "dealSummary": "French energy optimization startup Bohr Energie received a €10 million Series A led by Suma Capital.",
+    "company": "functional coffee and matcha brand Reformed",
+    "dealSummary": "London-based functional coffee and matcha brand Reformed received a $22 million Series A led by Iris Ventures.",
     "round": "Series A",
-    "amount": "€10 million",
-    "leadInvestors": "Suma Capital",
+    "amount": "$22 million",
+    "leadInvestors": "Iris Ventures",
     "valuation": null,
-    "emailDate": "2026-07-13"
+    "emailDate": "2026-07-14"
+  },
+  {
+    "company": "Augmodo",
+    "dealSummary": "Seattle-based Augmodo, which makes AI-powered wearable devices for warehouses, facility maintenance and delivery operations, raised $21 million led by TQ Ventures, valuing the company at $350 million.",
+    "round": null,
+    "amount": "$21 million",
+    "leadInvestors": "TQ Ventures, valuing the company at $350 million",
+    "valuation": null,
+    "emailDate": "2026-07-14"
   }
 ]
