@@ -1,47 +1,119 @@
 [
   {
-    "company": "Helsing",
-    "dealSummary": "Munich-based defense startup Helsing secured a $1.8 billion Series E from investors including Dragoneer Investment Group, Lightspeed and General Catalyst at an $18 billion valuation.",
-    "round": "Series E",
-    "amount": "$1.8 billion",
-    "leadInvestors": "Dragoneer Investment Group, Lightspeed, General Catalyst at an $18 billion valuation",
-    "valuation": null,
-    "emailDate": "2026-07-14"
+    "company": "Chai Discovery",
+    "dealSummary": "San Francisco-based Chai Discovery, which builds AI models for molecular drug design, raised a $400 million Series C led by Index Ventures, Kleiner Perkins and Sequoia Capital at a $3.8 billion valuation.",
+    "round": "Series C",
+    "amount": "$400 million",
+    "leadInvestors": "Index Ventures, Kleiner Perkins, Sequoia Capital",
+    "valuation": "$3.8 billion",
+    "emailDate": "2026-07-15"
   },
   {
-    "company": "biotech Drug Farm",
-    "dealSummary": "Shanghai-based biotech Drug Farm, which develops therapies for metabolic and autoimmune diseases, raised $55 million in a Series D led by Shanghai Pudong Leading Area Investment Center and Shanghai Puxing Collaborative Private Equity Fund Partnership Enterprise.",
-    "round": "Series D",
-    "amount": "$55 million",
-    "leadInvestors": "Shanghai Pudong Leading Area Investment Center, Shanghai Puxing Collaborative Private Equity Fund Partnership Enterprise",
-    "valuation": null,
-    "emailDate": "2026-07-14"
-  },
-  {
-    "company": "Valarian",
-    "dealSummary": "Valarian, a London-based startup developing AI and data infrastructure software for governments, raised a $50 million Series A led by NEA.",
-    "round": "Series A",
-    "amount": "$50 million",
-    "leadInvestors": "NEA",
-    "valuation": null,
-    "emailDate": "2026-07-14"
-  },
-  {
-    "company": "functional coffee and matcha brand Reformed",
-    "dealSummary": "London-based functional coffee and matcha brand Reformed received a $22 million Series A led by Iris Ventures.",
-    "round": "Series A",
-    "amount": "$22 million",
-    "leadInvestors": "Iris Ventures",
-    "valuation": null,
-    "emailDate": "2026-07-14"
-  },
-  {
-    "company": "Augmodo",
-    "dealSummary": "Seattle-based Augmodo, which makes AI-powered wearable devices for warehouses, facility maintenance and delivery operations, raised $21 million led by TQ Ventures, valuing the company at $350 million.",
+    "company": "LimX Dynamics",
+    "dealSummary": "LimX Dynamics, a China-based humanoid robotics startup, raised a $200 million round led by IDG Capital, Lens Technology and Stone Venture at a valuation of $2.2 billion.",
     "round": null,
-    "amount": "$21 million",
-    "leadInvestors": "TQ Ventures, valuing the company at $350 million",
+    "amount": "$200 million",
+    "leadInvestors": "IDG Capital, Lens Technology, Stone Venture",
     "valuation": null,
-    "emailDate": "2026-07-14"
+    "emailDate": "2026-07-15"
+  },
+  {
+    "company": "Udaan",
+    "dealSummary": "India-based ecommerce startup Udaan secured $160 million from investors including Lightspeed and M&G Investments, made up of equity, debt and the conversion of a portion of its outstanding convertible bonds into equity.",
+    "round": null,
+    "amount": "$160 million",
+    "leadInvestors": "Lightspeed, M&G Investments, made up of equity, debt, the conversion of a portion of its outstanding convertible bonds into equity",
+    "valuation": null,
+    "emailDate": "2026-07-15"
+  },
+  {
+    "company": "BRINC",
+    "dealSummary": "Seattle-based BRINC, a developer of drones for public safety and emergency responses, raised a $125 million round led by Motorola Solutions.",
+    "round": null,
+    "amount": "$125 million",
+    "leadInvestors": "Motorola Solutions",
+    "valuation": null,
+    "emailDate": "2026-07-15"
+  },
+  {
+    "company": "TerraFirma",
+    "dealSummary": "TerraFirma, an Austin-based startup that builds semi-autonomous construction robotics, raised a $100 million Series A led by Kleiner Perkins.",
+    "round": "Series A",
+    "amount": "$100 million",
+    "leadInvestors": "Kleiner Perkins",
+    "valuation": null,
+    "emailDate": "2026-07-15"
+  },
+  {
+    "company": "Cover Genius",
+    "dealSummary": "Cover Genius, the developer of an insurance platform, raised $100 million from Vista Credit Partners at a $1.9 billion valuation.",
+    "round": null,
+    "amount": "$100 million",
+    "leadInvestors": "Vista Credit Partners",
+    "valuation": "$1.9 billion",
+    "emailDate": "2026-07-15"
+  },
+  {
+    "company": "Open-source AI agent developer Nous Research",
+    "dealSummary": "Open-source AI agent developer Nous Research is raising a new round led by Robot Ventures at a $1.5 billion valuation, TechCrunch reported.",
+    "round": null,
+    "amount": "$1.5 billion",
+    "leadInvestors": "Robot Ventures",
+    "valuation": "$1.5 billion",
+    "emailDate": "2026-07-15"
+  },
+  {
+    "company": "Flex",
+    "dealSummary": "San Francisco-based Flex, the operator of a private banking platform for high-net-worth business owners, raised a $70 million Series B1 led by Halo Fund.",
+    "round": null,
+    "amount": "$70 million",
+    "leadInvestors": "Halo Fund",
+    "valuation": null,
+    "emailDate": "2026-07-15"
+  },
+  {
+    "company": "Draig Therapeutics",
+    "dealSummary": "Draig Therapeutics, which develops treatments for depression and other psychiatric conditions, secured a $65 million Series B led by Deep Track Capital.",
+    "round": "Series B",
+    "amount": "$65 million",
+    "leadInvestors": "Deep Track Capital",
+    "valuation": null,
+    "emailDate": "2026-07-15"
+  },
+  {
+    "company": "InstaLily",
+    "dealSummary": "InstaLily, which builds AI to automate operations for industrial and enterprise industries, raised a $60 million Series B led by Energize Capital.",
+    "round": "Series B",
+    "amount": "$60 million",
+    "leadInvestors": "Energize Capital",
+    "valuation": null,
+    "emailDate": "2026-07-15"
+  },
+  {
+    "company": "Corner Health",
+    "dealSummary": "Corner Health, which develops AI tools for nurse practitioners looking to open their own practices, received a $25 million Series A led by Oak HC/FT.",
+    "round": "Series A",
+    "amount": "$25 million",
+    "leadInvestors": "Oak HC/FT",
+    "valuation": null,
+    "emailDate": "2026-07-15"
+  },
+  {
+    "company": "Project Q",
+    "dealSummary": "Project Q, a Berlin-based defense tech group, raised a €15 million Series A led by Expeditions Fund.",
+    "round": "Series A",
+    "amount": "€15 million",
+    "leadInvestors": "Expeditions Fund",
+    "valuation": null,
+    "emailDate": "2026-07-15"
+  },
+  {
+    "company": "Skalar",
+    "dealSummary": "Skalar, a Munich-based startup building an AI-native tax and accounting firm, secured €12 million in combined pre-seed and seed funding led by Headline.",
+    "round": "Pre-seed",
+    "amount": "€12 million",
+    "leadInvestors": "Headline",
+    "valuation": null,
+    "emailDate": "2026-07-15"
   }
 ]
