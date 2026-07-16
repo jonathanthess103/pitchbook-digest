@@ -1,119 +1,74 @@
 [
   {
-    "company": "Chai Discovery",
-    "dealSummary": "San Francisco-based Chai Discovery, which builds AI models for molecular drug design, raised a $400 million Series C led by Index Ventures, Kleiner Perkins and Sequoia Capital at a $3.8 billion valuation.",
+    "company": "Neko Health",
+    "dealSummary": "Neko Health secured $700 million in a Series C co-led by Lightspeed and OG Venture Partners, with participating investors including Mark Zuckerberg, Claudia Schiffer, Maria Sharapova, Thierry Henry and others.",
     "round": "Series C",
-    "amount": "$400 million",
-    "leadInvestors": "Index Ventures, Kleiner Perkins, Sequoia Capital",
-    "valuation": "$3.8 billion",
-    "emailDate": "2026-07-15"
-  },
-  {
-    "company": "LimX Dynamics",
-    "dealSummary": "LimX Dynamics, a China-based humanoid robotics startup, raised a $200 million round led by IDG Capital, Lens Technology and Stone Venture at a valuation of $2.2 billion.",
-    "round": null,
-    "amount": "$200 million",
-    "leadInvestors": "IDG Capital, Lens Technology, Stone Venture",
+    "amount": "$700 million",
+    "leadInvestors": "Lightspeed, OG Venture Partners, with participating investors including Mark Zuckerberg, Claudia Schiffer, Maria Sharapova, Thierry Henry, others",
     "valuation": null,
-    "emailDate": "2026-07-15"
+    "emailDate": "2026-07-16"
   },
   {
-    "company": "Udaan",
-    "dealSummary": "India-based ecommerce startup Udaan secured $160 million from investors including Lightspeed and M&G Investments, made up of equity, debt and the conversion of a portion of its outstanding convertible bonds into equity.",
+    "company": "Former English soccer star David Beckham’s health drink startup IM8 has",
+    "dealSummary": "Former English soccer star David Beckham’s health drink startup IM8 has raised $1 billion in funding from General Catalyst’s Customer Value Fund.",
     "round": null,
-    "amount": "$160 million",
-    "leadInvestors": "Lightspeed, M&G Investments, made up of equity, debt, the conversion of a portion of its outstanding convertible bonds into equity",
+    "amount": "$1 billion",
+    "leadInvestors": null,
     "valuation": null,
-    "emailDate": "2026-07-15"
+    "emailDate": "2026-07-16"
   },
   {
-    "company": "BRINC",
-    "dealSummary": "Seattle-based BRINC, a developer of drones for public safety and emergency responses, raised a $125 million round led by Motorola Solutions.",
-    "round": null,
-    "amount": "$125 million",
-    "leadInvestors": "Motorola Solutions",
+    "company": "AdvanCell",
+    "dealSummary": "AdvanCell, a clinical-stage radiopharmaceutical company developing targeted alpha therapies for cancer based in Boston and Brisbane, received a $315 million Series D led by Ally Bridge Group and Alpha Wave.",
+    "round": "Series D",
+    "amount": "$315 million",
+    "leadInvestors": "Ally Bridge Group, Alpha Wave",
     "valuation": null,
-    "emailDate": "2026-07-15"
+    "emailDate": "2026-07-16"
   },
   {
-    "company": "TerraFirma",
-    "dealSummary": "TerraFirma, an Austin-based startup that builds semi-autonomous construction robotics, raised a $100 million Series A led by Kleiner Perkins.",
-    "round": "Series A",
-    "amount": "$100 million",
-    "leadInvestors": "Kleiner Perkins",
-    "valuation": null,
-    "emailDate": "2026-07-15"
+    "company": "Walden Robotics",
+    "dealSummary": "Massachusetts-based Walden Robotics, which manufactures general-purpose robots for manufacturing and logistics, raised a $300 million seed round at a $1.1 billion valuation, led by Toyota and Deviation Capital with additional backing from Nvidia, Menlo Ventures and Samsung Ventures.",
+    "round": "Seed",
+    "amount": "$300 million",
+    "leadInvestors": "Toyota, Deviation Capital with additional backing from Nvidia, Menlo Ventures, Samsung Ventures",
+    "valuation": "$1.1 billion",
+    "emailDate": "2026-07-16"
   },
   {
-    "company": "Cover Genius",
-    "dealSummary": "Cover Genius, the developer of an insurance platform, raised $100 million from Vista Credit Partners at a $1.9 billion valuation.",
-    "round": null,
-    "amount": "$100 million",
-    "leadInvestors": "Vista Credit Partners",
-    "valuation": "$1.9 billion",
-    "emailDate": "2026-07-15"
-  },
-  {
-    "company": "Open-source AI agent developer Nous Research",
-    "dealSummary": "Open-source AI agent developer Nous Research is raising a new round led by Robot Ventures at a $1.5 billion valuation, TechCrunch reported.",
-    "round": null,
-    "amount": "$1.5 billion",
-    "leadInvestors": "Robot Ventures",
+    "company": "Emergent, whose AI platform lets non-technical founders build full-stack applications",
+    "dealSummary": "San Francisco-based Emergent, whose AI platform lets non-technical founders build full-stack applications, raised a $130 million Series C at a $1.5 billion valuation, led by Creaegis with additional backing from Khosla, SoftBank’s Vision Fund 2, Lightspeed and Y Combinator.",
+    "round": "Series C",
+    "amount": "$130 million",
+    "leadInvestors": "Creaegis with additional backing from Khosla, SoftBank’s Vision Fund 2, Lightspeed, Y Combinator",
     "valuation": "$1.5 billion",
-    "emailDate": "2026-07-15"
+    "emailDate": "2026-07-16"
   },
   {
-    "company": "Flex",
-    "dealSummary": "San Francisco-based Flex, the operator of a private banking platform for high-net-worth business owners, raised a $70 million Series B1 led by Halo Fund.",
+    "company": "Lumin Digital",
+    "dealSummary": "California-based Lumin Digital, a digital banking software company, raised $115 million at a $1.6 billion valuation from investors including Light Street Capital.",
     "round": null,
-    "amount": "$70 million",
-    "leadInvestors": "Halo Fund",
-    "valuation": null,
-    "emailDate": "2026-07-15"
+    "amount": "$115 million",
+    "leadInvestors": "Light Street Capital",
+    "valuation": "$1.6 billion",
+    "emailDate": "2026-07-16"
   },
   {
-    "company": "Draig Therapeutics",
-    "dealSummary": "Draig Therapeutics, which develops treatments for depression and other psychiatric conditions, secured a $65 million Series B led by Deep Track Capital.",
+    "company": "Spectro Cloud",
+    "dealSummary": "San Jose-based Spectro Cloud, a provider of AI infrastructure management software, raised more than $100 million in a Series D led by Growth Equity at Goldman Sachs Alternatives.",
+    "round": "Series D",
+    "amount": "$100 million",
+    "leadInvestors": "Growth Equity at Goldman Sachs Alternatives",
+    "valuation": null,
+    "emailDate": "2026-07-16"
+  },
+  {
+    "company": "Senra Systems",
+    "dealSummary": "California-based Senra Systems, which uses software to modernize wire harness manufacturing for aerospace and defense, raised a $65 million Series B led by Lowercarbon Capital and Interlagos.",
     "round": "Series B",
     "amount": "$65 million",
-    "leadInvestors": "Deep Track Capital",
+    "leadInvestors": "Lowercarbon Capital, Interlagos",
     "valuation": null,
-    "emailDate": "2026-07-15"
-  },
-  {
-    "company": "InstaLily",
-    "dealSummary": "InstaLily, which builds AI to automate operations for industrial and enterprise industries, raised a $60 million Series B led by Energize Capital.",
-    "round": "Series B",
-    "amount": "$60 million",
-    "leadInvestors": "Energize Capital",
-    "valuation": null,
-    "emailDate": "2026-07-15"
-  },
-  {
-    "company": "Corner Health",
-    "dealSummary": "Corner Health, which develops AI tools for nurse practitioners looking to open their own practices, received a $25 million Series A led by Oak HC/FT.",
-    "round": "Series A",
-    "amount": "$25 million",
-    "leadInvestors": "Oak HC/FT",
-    "valuation": null,
-    "emailDate": "2026-07-15"
-  },
-  {
-    "company": "Project Q",
-    "dealSummary": "Project Q, a Berlin-based defense tech group, raised a €15 million Series A led by Expeditions Fund.",
-    "round": "Series A",
-    "amount": "€15 million",
-    "leadInvestors": "Expeditions Fund",
-    "valuation": null,
-    "emailDate": "2026-07-15"
-  },
-  {
-    "company": "Skalar",
-    "dealSummary": "Skalar, a Munich-based startup building an AI-native tax and accounting firm, secured €12 million in combined pre-seed and seed funding led by Headline.",
-    "round": "Pre-seed",
-    "amount": "€12 million",
-    "leadInvestors": "Headline",
-    "valuation": null,
-    "emailDate": "2026-07-15"
+    "emailDate": "2026-07-16"
   }
 ]
