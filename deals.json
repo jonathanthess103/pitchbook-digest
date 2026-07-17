@@ -1,74 +1,92 @@
 [
   {
-    "company": "Neko Health",
-    "dealSummary": "Neko Health secured $700 million in a Series C co-led by Lightspeed and OG Venture Partners, with participating investors including Mark Zuckerberg, Claudia Schiffer, Maria Sharapova, Thierry Henry and others.",
-    "round": "Series C",
-    "amount": "$700 million",
-    "leadInvestors": "Lightspeed, OG Venture Partners, with participating investors including Mark Zuckerberg, Claudia Schiffer, Maria Sharapova, Thierry Henry, others",
-    "valuation": null,
-    "emailDate": "2026-07-16"
+    "company": "During that period, buzzy startups such as Physical Intelligence, SkildAI and Mytra",
+    "dealSummary": "During that period, buzzy startups such as Physical Intelligence, SkildAI and Mytra raised capital from leading investors, including Sequoia, Eclipse and Khosla Ventures. NVIDIA and other strategic investors also placed their bets. With labor as the dominant cost in warehouse operations, more investment in the category is inevitable. Wages are rising—up 12% over three years as of May 2026, per the US Bureau of Labor, and worker turnover exceeds 100% annually, according to the National Employment Law Project. Meanwhile, warehouse errors result in expensive returns and customer service calls, eroding already-narrow ecommerce margins. With Amazon recently announcing a goal of doubling products sold by 2033 without increasing its US workforce, physical AI is the only answer. Download the expert analysis Related research: Q1 2026 Robotics & Physical AI VC Trends SIDE LETTERS • Getting AI slopped. New York Times reporter Kashmir Hill found AI-generated biographies of herself and other journalists all over Amazon—but how did they get there? [The New York Times] • Commentary: China’s Iran war playbook turned the world’s biggest oil importer into a price maker overnight, and its strategic reserves are barely touched. [Reuters] • AI sovereignty anxiety is reshaping the data center investment calculus for every government outside Washington and Beijing. [The Economist] PEOPLE Founders Fund appointed Ryan Beiermeister as a partner on its investment team, joining from OpenAI, where she led frontier safety systems. VC DEALS Fireworks, which helps enterprises train and serve custom AI models, raised a $1.5 billion Series D at a $17.5 billion valuation led by Atreides Management, Index Ventures and TCV.",
+    "round": "Series D",
+    "amount": "$1.5 billion",
+    "leadInvestors": "Atreides Management, Index Ventures, TCV",
+    "valuation": "$17.5 billion",
+    "emailDate": "2026-07-17"
   },
   {
-    "company": "Former English soccer star David Beckham’s health drink startup IM8 has",
-    "dealSummary": "Former English soccer star David Beckham’s health drink startup IM8 has raised $1 billion in funding from General Catalyst’s Customer Value Fund.",
+    "company": "Wonder",
+    "dealSummary": "New York-based Wonder, a food technology company, raised a $650 million Series D at a $9 billion pre-money valuation from investors including Accel, GV and NEA.",
+    "round": "Series D",
+    "amount": "$650 million",
+    "leadInvestors": "Accel, GV, NEA",
+    "valuation": null,
+    "emailDate": "2026-07-17"
+  },
+  {
+    "company": "Crypto.com",
+    "dealSummary": "Crypto.com, a Singapore-based cryptocurrency exchange, raised $400 million from Citadel Securities at a $20 billion valuation.",
     "round": null,
-    "amount": "$1 billion",
+    "amount": "$400 million",
+    "leadInvestors": "Citadel Securities",
+    "valuation": "$20 billion",
+    "emailDate": "2026-07-17"
+  },
+  {
+    "company": "Astro Mechanica",
+    "dealSummary": "Astro Mechanica, a developer of turboelectric supersonic jet engines it plans to supply to data centers, is raising a $250 million Series B, Axios reported.",
+    "round": "Series B",
+    "amount": "$250 million",
     "leadInvestors": null,
     "valuation": null,
-    "emailDate": "2026-07-16"
+    "emailDate": "2026-07-17"
   },
   {
-    "company": "AdvanCell",
-    "dealSummary": "AdvanCell, a clinical-stage radiopharmaceutical company developing targeted alpha therapies for cancer based in Boston and Brisbane, received a $315 million Series D led by Ally Bridge Group and Alpha Wave.",
-    "round": "Series D",
-    "amount": "$315 million",
-    "leadInvestors": "Ally Bridge Group, Alpha Wave",
-    "valuation": null,
-    "emailDate": "2026-07-16"
-  },
-  {
-    "company": "Walden Robotics",
-    "dealSummary": "Massachusetts-based Walden Robotics, which manufactures general-purpose robots for manufacturing and logistics, raised a $300 million seed round at a $1.1 billion valuation, led by Toyota and Deviation Capital with additional backing from Nvidia, Menlo Ventures and Samsung Ventures.",
-    "round": "Seed",
-    "amount": "$300 million",
-    "leadInvestors": "Toyota, Deviation Capital with additional backing from Nvidia, Menlo Ventures, Samsung Ventures",
-    "valuation": "$1.1 billion",
-    "emailDate": "2026-07-16"
-  },
-  {
-    "company": "Emergent, whose AI platform lets non-technical founders build full-stack applications",
-    "dealSummary": "San Francisco-based Emergent, whose AI platform lets non-technical founders build full-stack applications, raised a $130 million Series C at a $1.5 billion valuation, led by Creaegis with additional backing from Khosla, SoftBank’s Vision Fund 2, Lightspeed and Y Combinator.",
-    "round": "Series C",
-    "amount": "$130 million",
-    "leadInvestors": "Creaegis with additional backing from Khosla, SoftBank’s Vision Fund 2, Lightspeed, Y Combinator",
-    "valuation": "$1.5 billion",
-    "emailDate": "2026-07-16"
-  },
-  {
-    "company": "Lumin Digital",
-    "dealSummary": "California-based Lumin Digital, a digital banking software company, raised $115 million at a $1.6 billion valuation from investors including Light Street Capital.",
+    "company": "Alpaca",
+    "dealSummary": "Alpaca, a developer of brokerage infrastructure for tokenized markets and AI-native financial services, raised $135 million led by Peak XV.",
     "round": null,
-    "amount": "$115 million",
-    "leadInvestors": "Light Street Capital",
-    "valuation": "$1.6 billion",
-    "emailDate": "2026-07-16"
+    "amount": "$135 million",
+    "leadInvestors": "Peak XV",
+    "valuation": null,
+    "emailDate": "2026-07-17"
   },
   {
-    "company": "Spectro Cloud",
-    "dealSummary": "San Jose-based Spectro Cloud, a provider of AI infrastructure management software, raised more than $100 million in a Series D led by Growth Equity at Goldman Sachs Alternatives.",
+    "company": "SWISSto12",
+    "dealSummary": "SWISSto12, a Switzerland-based satellite payload and platform developer, raised $70 million in a Series C.",
+    "round": "Series C",
+    "amount": "$70 million",
+    "leadInvestors": null,
+    "valuation": null,
+    "emailDate": "2026-07-17"
+  },
+  {
+    "company": "Fora",
+    "dealSummary": "New York-based Fora, which provides booking technology for independent travel advisers, raised a $60 million Series D at a $1 billion valuation led by Forerunner and Tactile Ventures.",
     "round": "Series D",
-    "amount": "$100 million",
-    "leadInvestors": "Growth Equity at Goldman Sachs Alternatives",
-    "valuation": null,
-    "emailDate": "2026-07-16"
+    "amount": "$60 million",
+    "leadInvestors": "Forerunner, Tactile Ventures",
+    "valuation": "$1 billion",
+    "emailDate": "2026-07-17"
   },
   {
-    "company": "Senra Systems",
-    "dealSummary": "California-based Senra Systems, which uses software to modernize wire harness manufacturing for aerospace and defense, raised a $65 million Series B led by Lowercarbon Capital and Interlagos.",
+    "company": "Bunkerhill Health",
+    "dealSummary": "San Francisco-based Bunkerhill Health, which builds agentic AI tools for hospitals and health systems, raised a Series B led by Khosla Ventures. Microagi, a Munich-based robotics company, secured $55 million in a round led by Hummingbird.",
     "round": "Series B",
-    "amount": "$65 million",
-    "leadInvestors": "Lowercarbon Capital, Interlagos",
+    "amount": "$55 million",
+    "leadInvestors": "Khosla Ventures",
     "valuation": null,
-    "emailDate": "2026-07-16"
+    "emailDate": "2026-07-17"
+  },
+  {
+    "company": "Syntetica",
+    "dealSummary": "Syntetica, a French textile recycling deep-tech company, raised $30 million in a Series A round led by Bpifrance.",
+    "round": "Series A",
+    "amount": "$30 million",
+    "leadInvestors": "Bpifrance",
+    "valuation": null,
+    "emailDate": "2026-07-17"
+  },
+  {
+    "company": "Applied Computing",
+    "dealSummary": "Applied Computing, a London-based energy AI developer, received a $20 million Series A led by KBR.",
+    "round": "Series A",
+    "amount": "$20 million",
+    "leadInvestors": "KBR",
+    "valuation": null,
+    "emailDate": "2026-07-17"
   }
 ]
