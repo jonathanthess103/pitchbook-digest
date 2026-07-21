@@ -1,56 +1,47 @@
 [
   {
-    "company": "Valar Atomics",
-    "dealSummary": "Valar Atomics, a developer of small nuclear reactors to power data centers, is in talks to raise $1 billion at a $5 billion pre-money valuation led by Sequoia, The Information reported.",
+    "company": "Etched",
+    "dealSummary": "Etched, an AI chip developer, is in talks to raise two rounds: one led by Sequoia at a $10 billion valuation, and one led by Jane Street at a $20 billion valuation, The Wall Street Journal reported.",
     "round": null,
-    "amount": "$1 billion",
-    "leadInvestors": "Sequoia, The Information reported",
-    "valuation": null,
-    "emailDate": "2026-07-20"
+    "amount": "$10 billion",
+    "leadInvestors": "Sequoia",
+    "valuation": "$10 billion",
+    "emailDate": "2026-07-21"
   },
   {
-    "company": "RapidPulse",
-    "dealSummary": "Miami-based RapidPulse, a developer of technology for treating acute ischemic stroke, raised a $48 million Series B led by Medtronic, TechWald Next and S3 Ventures.",
+    "company": "CuspAI",
+    "dealSummary": "CuspAI, a UK deep tech startup focused on materials discovery, raised a $450 million Series B led by Kleiner Perkins and NEA, valuing the company at $2.6 billion.",
     "round": "Series B",
-    "amount": "$48 million",
-    "leadInvestors": "Medtronic, TechWald Next, S3 Ventures",
+    "amount": "$450 million",
+    "leadInvestors": "Kleiner Perkins, NEA, valuing the company at $2",
     "valuation": null,
-    "emailDate": "2026-07-20"
+    "emailDate": "2026-07-21"
   },
   {
-    "company": "Sable",
-    "dealSummary": "San Francisco-based Sable, which builds AI to lead customer sales calls, raised a $45 million round led by Sequoia and 8VC.",
-    "round": null,
-    "amount": "$45 million",
-    "leadInvestors": "Sequoia, 8VC",
-    "valuation": null,
-    "emailDate": "2026-07-20"
-  },
-  {
-    "company": "Flow Labs",
-    "dealSummary": "Flow Labs, a geospatial AI company focused on traffic flow, raised approximately $14 million in a Series A led by AgFunder and Runa Capital, Axios reported.",
+    "company": "Neo",
+    "dealSummary": "Boston-based Neo, which helps enterprises secure and govern AI software, emerged from stealth with a $75 million Series A led by Andreessen Horowitz and Bessemer Venture Partners and a previously undisclosed $25 million seed round.",
     "round": "Series A",
-    "amount": "$14 million",
-    "leadInvestors": "AgFunder, Runa Capital",
+    "amount": "$75 million",
+    "leadInvestors": "Andreessen Horowitz, Bessemer Venture Partners, a previously undisclosed $25 million seed round",
     "valuation": null,
-    "emailDate": "2026-07-20"
+    "emailDate": "2026-07-21"
   },
   {
-    "company": "Self Inspection",
-    "dealSummary": "San Diego-based Self Inspection, a developer of AI-powered vehicle-inspection software, raised $10 million led by Sheryl Sandberg’s Sandberg Bernthal Venture Partners.",
-    "round": null,
-    "amount": "$10 million",
-    "leadInvestors": "Sheryl Sandberg’s Sandberg Bernthal Venture Partners",
+    "company": "Empirical Security",
+    "dealSummary": "Empirical Security, a cybersecurity startup specializing in exposure management, raised a $25 million Series A led by Brightmind Partners.",
+    "round": "Series A",
+    "amount": "$25 million",
+    "leadInvestors": "Brightmind Partners",
     "valuation": null,
-    "emailDate": "2026-07-20"
+    "emailDate": "2026-07-21"
   },
   {
-    "company": "Trellis Bioscience",
-    "dealSummary": "Trellis Bioscience, a clinical-stage developer of monoclonal antibody treatments for antibiotic-resistant infections, raised a $9 million Series C from investors including New Science Ventures, Easton Capital and AMR Action Fund.",
-    "round": "Series C",
-    "amount": "$9 million",
-    "leadInvestors": "New Science Ventures, Easton Capital, AMR Action Fund",
-    "valuation": null,
-    "emailDate": "2026-07-20"
+    "company": "Infinity",
+    "dealSummary": "San Francisco-based Infinity, which builds software that helps AI chips run models faster, raised $15 million in seed funding from investors including Touring Capital and Principal VC at a $100 million valuation.",
+    "round": "Seed",
+    "amount": "$15 million",
+    "leadInvestors": "Touring Capital, Principal VC",
+    "valuation": "$100 million",
+    "emailDate": "2026-07-21"
   }
 ]
