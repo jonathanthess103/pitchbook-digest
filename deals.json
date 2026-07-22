@@ -1,47 +1,137 @@
 [
   {
-    "company": "Etched",
-    "dealSummary": "Etched, an AI chip developer, is in talks to raise two rounds: one led by Sequoia at a $10 billion valuation, and one led by Jane Street at a $20 billion valuation, The Wall Street Journal reported.",
+    "company": "Moonshot AI",
+    "dealSummary": "China-based AI lab Moonshot AI is in talks to raise a final pre-IPO funding round at a valuation of as much as $50 billion, Bloomberg reported.",
     "round": null,
-    "amount": "$10 billion",
-    "leadInvestors": "Sequoia",
-    "valuation": "$10 billion",
-    "emailDate": "2026-07-21"
+    "amount": "$50 billion",
+    "leadInvestors": null,
+    "valuation": null,
+    "emailDate": "2026-07-22"
   },
   {
-    "company": "CuspAI",
-    "dealSummary": "CuspAI, a UK deep tech startup focused on materials discovery, raised a $450 million Series B led by Kleiner Perkins and NEA, valuing the company at $2.6 billion.",
+    "company": "Colossal Biosciences",
+    "dealSummary": "Colossal Biosciences, a startup aiming to bring species back from extinction, is in talks to raise a round at a valuation of between $20 billion and $30 billion, Axios reported.",
+    "round": null,
+    "amount": "$20 billion",
+    "leadInvestors": null,
+    "valuation": null,
+    "emailDate": "2026-07-22"
+  },
+  {
+    "company": "Ant International",
+    "dealSummary": "Digital payments company Ant International secured a $1.2 billion Series A from investors including Ant Group and Alibaba Group.",
+    "round": "Series A",
+    "amount": "$1.2 billion",
+    "leadInvestors": "Ant Group, Alibaba Group",
+    "valuation": null,
+    "emailDate": "2026-07-22"
+  },
+  {
+    "company": "GigaAI",
+    "dealSummary": "Beijing-based AI startup GigaAI is raising a new round at a $3 billion valuation and is in talks to pursue a Hong Kong IPO.",
+    "round": null,
+    "amount": "$3 billion",
+    "leadInvestors": null,
+    "valuation": "$3 billion",
+    "emailDate": "2026-07-22"
+  },
+  {
+    "company": "Fluidstack",
+    "dealSummary": "AI infrastructure startup Fluidstack raised an $830 million Series A led by Situational Awareness.",
+    "round": "Series A",
+    "amount": "$830 million",
+    "leadInvestors": "Situational Awareness",
+    "valuation": null,
+    "emailDate": "2026-07-22"
+  },
+  {
+    "company": "Augustus",
+    "dealSummary": "Fintech Augustus, the developer of a banking platform, secured a $180 million Series B led by Tiger Global at a $1 billion valuation.",
     "round": "Series B",
-    "amount": "$450 million",
-    "leadInvestors": "Kleiner Perkins, NEA, valuing the company at $2",
-    "valuation": null,
-    "emailDate": "2026-07-21"
+    "amount": "$180 million",
+    "leadInvestors": "Tiger Global",
+    "valuation": "$1 billion",
+    "emailDate": "2026-07-22"
   },
   {
-    "company": "Neo",
-    "dealSummary": "Boston-based Neo, which helps enterprises secure and govern AI software, emerged from stealth with a $75 million Series A led by Andreessen Horowitz and Bessemer Venture Partners and a previously undisclosed $25 million seed round.",
+    "company": "Twenty",
+    "dealSummary": "Cyber warfare platform developer Twenty secured a $30 million investment from Khosla Ventures at a $1.2 billion valuation.",
+    "round": null,
+    "amount": "$30 million",
+    "leadInvestors": null,
+    "valuation": "$1.2 billion",
+    "emailDate": "2026-07-22"
+  },
+  {
+    "company": "Natural",
+    "dealSummary": "Natural, the developer of a payments infrastructure platform for AI agents, raised a $30 million Series A led by Forerunner.",
     "round": "Series A",
-    "amount": "$75 million",
-    "leadInvestors": "Andreessen Horowitz, Bessemer Venture Partners, a previously undisclosed $25 million seed round",
+    "amount": "$30 million",
+    "leadInvestors": "Forerunner",
     "valuation": null,
-    "emailDate": "2026-07-21"
+    "emailDate": "2026-07-22"
   },
   {
-    "company": "Empirical Security",
-    "dealSummary": "Empirical Security, a cybersecurity startup specializing in exposure management, raised a $25 million Series A led by Brightmind Partners.",
-    "round": "Series A",
-    "amount": "$25 million",
-    "leadInvestors": "Brightmind Partners",
-    "valuation": null,
-    "emailDate": "2026-07-21"
-  },
-  {
-    "company": "Infinity",
-    "dealSummary": "San Francisco-based Infinity, which builds software that helps AI chips run models faster, raised $15 million in seed funding from investors including Touring Capital and Principal VC at a $100 million valuation.",
+    "company": "SkyPilot",
+    "dealSummary": "AI compute platform developer SkyPilot received a $20 million seed round led by Lux Capital.",
     "round": "Seed",
+    "amount": "$20 million",
+    "leadInvestors": "Lux Capital",
+    "valuation": null,
+    "emailDate": "2026-07-22"
+  },
+  {
+    "company": "Cardiovascular-focused digital health startup Karoo Health",
+    "dealSummary": "Cardiovascular-focused digital health startup Karoo Health raised a $16.2 million Series A led by 7wire Ventures and Allumia Ventures.",
+    "round": "Series A",
+    "amount": "$16.2 million",
+    "leadInvestors": "7wire Ventures, Allumia Ventures",
+    "valuation": null,
+    "emailDate": "2026-07-22"
+  },
+  {
+    "company": "Asio Technologies",
+    "dealSummary": "Asio Technologies, an Israel-based defense tech company, raised $15 million in a round led by Protego Ventures and Aliya Capital Partners.",
+    "round": null,
     "amount": "$15 million",
-    "leadInvestors": "Touring Capital, Principal VC",
-    "valuation": "$100 million",
-    "emailDate": "2026-07-21"
+    "leadInvestors": "Protego Ventures, Aliya Capital Partners",
+    "valuation": null,
+    "emailDate": "2026-07-22"
+  },
+  {
+    "company": "Italy’s Circular Materials",
+    "dealSummary": "Italy’s Circular Materials secured €11.8 million in SAFE financing from investors including CDP Venture Capital, the European Innovation Council Fund and EIT RawMaterials.",
+    "round": null,
+    "amount": "€11.8 million",
+    "leadInvestors": "CDP Venture Capital, the European Innovation Council Fund, EIT RawMaterials",
+    "valuation": null,
+    "emailDate": "2026-07-22"
+  },
+  {
+    "company": "Brenus Pharma",
+    "dealSummary": "Brenus Pharma, a France-based immuno-oncology startup, received €11 million in a Series A extension, bringing its total Series A to €38 million, with backers including Angelor, UI Investissement and Korea Omega Investment.",
+    "round": "Series A",
+    "amount": "€11 million",
+    "leadInvestors": null,
+    "valuation": null,
+    "emailDate": "2026-07-22"
+  },
+  {
+    "company": "DeltaVision",
+    "dealSummary": "DeltaVision, a Munich-based spacecraft fluidic systems maker, raised €10.2 million in a round led by KT Ventures and Valemount Capital.",
+    "round": null,
+    "amount": "€10.2 million",
+    "leadInvestors": "KT Ventures, Valemount Capital",
+    "valuation": null,
+    "emailDate": "2026-07-22"
+  },
+  {
+    "company": "Deutsche Sanierungsberatung",
+    "dealSummary": "Deutsche Sanierungsberatung, a Berlin-based home renovation startup, secured a Series A of over €10 million led by Simon Capital and VERBUND X Ventures.",
+    "round": "Series A",
+    "amount": "€10 million",
+    "leadInvestors": "Simon Capital, VERBUND X Ventures",
+    "valuation": null,
+    "emailDate": "2026-07-22"
   }
 ]
