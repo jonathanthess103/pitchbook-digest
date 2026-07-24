@@ -1,101 +1,101 @@
 [
   {
-    "company": "Mistral is in talks with investors including Samsung and EQT to",
-    "dealSummary": "Paris-based AI startup Mistral is in talks with investors including Samsung and EQT to raise several billion euros at a roughly €20 billion valuation, the Financial Times reported.",
+    "company": "Cathedral",
+    "dealSummary": "Cathedral, a cyber operations startup focused on US military capabilities, raised a $160 million round led by Andreessen Horowitz and Sequoia Capital at a $1.4 billion valuation, Reuters reported.",
     "round": null,
-    "amount": "€20 billion",
-    "leadInvestors": null,
-    "valuation": null,
-    "emailDate": "2026-07-23"
+    "amount": "$160 million",
+    "leadInvestors": "Andreessen Horowitz, Sequoia Capital",
+    "valuation": "$1.4 billion",
+    "emailDate": "2026-07-24"
   },
   {
-    "company": "Atoms",
-    "dealSummary": "Atoms, a robotics company founded by Travis Kalanick, secured a $1.7 billion round led by Andreessen Horowitz.",
+    "company": "AegisAI",
+    "dealSummary": "AegisAI, which builds AI agents to defend against phishing attacks, raised a $36 million Series A led by Battery Ventures.",
+    "round": "Series A",
+    "amount": "$36 million",
+    "leadInvestors": "Battery Ventures",
+    "valuation": null,
+    "emailDate": "2026-07-24"
+  },
+  {
+    "company": "Paper",
+    "dealSummary": "San Francisco-based Paper, the developer of an AI-native creative design platform, raised a $34 million Series A led by Accel and Iconiq.",
+    "round": "Series A",
+    "amount": "$34 million",
+    "leadInvestors": "Accel, Iconiq",
+    "valuation": null,
+    "emailDate": "2026-07-24"
+  },
+  {
+    "company": "Ropedia",
+    "dealSummary": "Singapore-based Ropedia, which builds data infrastructure for physical AI and robotics, raised $30 million in pre-A funding.",
     "round": null,
-    "amount": "$1.7 billion",
-    "leadInvestors": "Andreessen Horowitz",
-    "valuation": null,
-    "emailDate": "2026-07-23"
-  },
-  {
-    "company": "Meshy",
-    "dealSummary": "Meshy, which builds foundation models for AI 3D generation, raised a $400 million Series B at a $1.5 billion valuation.",
-    "round": "Series B",
-    "amount": "$400 million",
-    "leadInvestors": null,
-    "valuation": "$1.5 billion",
-    "emailDate": "2026-07-23"
-  },
-  {
-    "company": "Humanoid",
-    "dealSummary": "London-based robotics startup Humanoid raised a $152 million Series A at a $1.35 billion post-money valuation, achieving unicorn status.",
-    "round": "Series A",
-    "amount": "$152 million",
-    "leadInvestors": null,
-    "valuation": null,
-    "emailDate": "2026-07-23"
-  },
-  {
-    "company": "Crystalys Therapeutics",
-    "dealSummary": "Prime Movers Lab led the round, Reuters reported. San Diego-based Crystalys Therapeutics, a biopharma company developing a treatment for gout, received a $130 million Series B led by Frazier Life Sciences.",
-    "round": "Series B",
-    "amount": "$130 million",
-    "leadInvestors": "Frazier Life Sciences",
-    "valuation": null,
-    "emailDate": "2026-07-23"
-  },
-  {
-    "company": "Candid Health",
-    "dealSummary": "Candid Health, a San Francisco-based developer of a revenue cycle management platform for healthcare providers, raised a $120 million Series D led by Sixth Street Growth.",
-    "round": "Series D",
-    "amount": "$120 million",
-    "leadInvestors": "Sixth Street Growth",
-    "valuation": null,
-    "emailDate": "2026-07-23"
-  },
-  {
-    "company": "Cashea",
-    "dealSummary": "Venezuela-based fintech Cashea raised $100 million across two rounds: a $60 million Series B led by FinSight Ventures and a $40 million Series A led by Spice Expeditions.",
-    "round": "Series B",
-    "amount": "$100 million",
-    "leadInvestors": "FinSight Ventures, a $40 million Series A led by Spice Expeditions",
-    "valuation": null,
-    "emailDate": "2026-07-23"
-  },
-  {
-    "company": "Genius AI (formerly GlossGenius)",
-    "dealSummary": "Genius AI (formerly GlossGenius), which develops an AI operations platform for service businesses, secured a $44 million Series D led by Lux Capital at a $1.15 billion valuation.",
-    "round": "Series D",
-    "amount": "$44 million",
-    "leadInvestors": "Lux Capital",
-    "valuation": "$1.15 billion",
-    "emailDate": "2026-07-23"
-  },
-  {
-    "company": "Arrakis",
-    "dealSummary": "Arrakis, an AI agent deployment startup focused on industrial operations, raised a $30 million Series A led by Blossom Capital.",
-    "round": "Series A",
     "amount": "$30 million",
-    "leadInvestors": "Blossom Capital",
+    "leadInvestors": null,
     "valuation": null,
-    "emailDate": "2026-07-23"
+    "emailDate": "2026-07-24"
   },
   {
-    "company": "Assured",
-    "dealSummary": "Assured, which uses AI agents to automate healthcare provider credentialing and enrollment, received a $19 million Series A led by Insight Partners.",
-    "round": "Series A",
-    "amount": "$19 million",
-    "leadInvestors": "Insight Partners",
+    "company": "Abstract",
+    "dealSummary": "Abstract, the developer of a composable security operations platform, raised a $25 million round led by Cheyenne Ventures and AVP.",
+    "round": null,
+    "amount": "$25 million",
+    "leadInvestors": "Cheyenne Ventures, AVP",
     "valuation": null,
-    "emailDate": "2026-07-23"
+    "emailDate": "2026-07-24"
   },
   {
-    "company": "Passionfroot",
-    "dealSummary": "Berlin-based Passionfroot, the developer of a marketplace connecting B2B creators with brands, secured a $15 million Series A led by Insight Partners.",
-    "round": "Series A",
+    "company": "Transcripta Bio",
+    "dealSummary": "Transcripta Bio, a biopharma company developing treatments for neurological and neuromuscular diseases, raised $24 million from investors including Mayo Clinic, Omnimed and Jazz Venture Partners.",
+    "round": null,
+    "amount": "$24 million",
+    "leadInvestors": "Mayo Clinic, Omnimed, Jazz Venture Partners",
+    "valuation": null,
+    "emailDate": "2026-07-24"
+  },
+  {
+    "company": "Elio",
+    "dealSummary": "Elio, which builds AI-native machine sensors, raised a $21 million round led by Innovation Endeavors and Xora.",
+    "round": null,
+    "amount": "$21 million",
+    "leadInvestors": "Innovation Endeavors, Xora",
+    "valuation": null,
+    "emailDate": "2026-07-24"
+  },
+  {
+    "company": "Trooly",
+    "dealSummary": "Trooly, the developer of a platform for conducting consumer research interviews, raised nearly $20 million in seed funding.",
+    "round": "Seed",
+    "amount": "$20 million",
+    "leadInvestors": null,
+    "valuation": null,
+    "emailDate": "2026-07-24"
+  },
+  {
+    "company": "Prosper Medical",
+    "dealSummary": "San Francisco-based Prosper Medical, which offers AI-powered concierge primary care, raised $16 million led by Fuse.",
+    "round": null,
+    "amount": "$16 million",
+    "leadInvestors": "Fuse",
+    "valuation": null,
+    "emailDate": "2026-07-24"
+  },
+  {
+    "company": "Telli",
+    "dealSummary": "Telli, a Berlin-based AI startup that helps automate customer-facing operations, raised $15 million in a seed round led by Redalpine.",
+    "round": "Seed",
     "amount": "$15 million",
-    "leadInvestors": "Insight Partners",
+    "leadInvestors": "Redalpine",
     "valuation": null,
-    "emailDate": "2026-07-23"
+    "emailDate": "2026-07-24"
+  },
+  {
+    "company": "Neon Commerce",
+    "dealSummary": "Neon Commerce, a fintech startup specializing in DTC commerce for the games industry, closed a $13 million Series A from investors including Krafton, Andreessen Horowitz and Renegade Partners.",
+    "round": "Series A",
+    "amount": "$13 million",
+    "leadInvestors": "Krafton, Andreessen Horowitz, Renegade Partners",
+    "valuation": null,
+    "emailDate": "2026-07-24"
   }
 ]
