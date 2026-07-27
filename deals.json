@@ -1,101 +1,38 @@
 [
   {
-    "company": "Cathedral",
-    "dealSummary": "Cathedral, a cyber operations startup focused on US military capabilities, raised a $160 million round led by Andreessen Horowitz and Sequoia Capital at a $1.4 billion valuation, Reuters reported.",
-    "round": null,
-    "amount": "$160 million",
-    "leadInvestors": "Andreessen Horowitz, Sequoia Capital",
-    "valuation": "$1.4 billion",
-    "emailDate": "2026-07-24"
-  },
-  {
-    "company": "AegisAI",
-    "dealSummary": "AegisAI, which builds AI agents to defend against phishing attacks, raised a $36 million Series A led by Battery Ventures.",
-    "round": "Series A",
-    "amount": "$36 million",
-    "leadInvestors": "Battery Ventures",
-    "valuation": null,
-    "emailDate": "2026-07-24"
-  },
-  {
-    "company": "Paper",
-    "dealSummary": "San Francisco-based Paper, the developer of an AI-native creative design platform, raised a $34 million Series A led by Accel and Iconiq.",
-    "round": "Series A",
-    "amount": "$34 million",
-    "leadInvestors": "Accel, Iconiq",
-    "valuation": null,
-    "emailDate": "2026-07-24"
-  },
-  {
-    "company": "Ropedia",
-    "dealSummary": "Singapore-based Ropedia, which builds data infrastructure for physical AI and robotics, raised $30 million in pre-A funding.",
-    "round": null,
-    "amount": "$30 million",
+    "company": "Corgi",
+    "dealSummary": "Corgi, a San Francisco-based startup that provides insurance tech along with operating two 24-hour coffee shops, raised a second extension of its Series B at a $4 billion valuation, Forbes reported.",
+    "round": "Series B",
+    "amount": "$4 billion",
     "leadInvestors": null,
-    "valuation": null,
-    "emailDate": "2026-07-24"
+    "valuation": "$4 billion",
+    "emailDate": "2026-07-27"
   },
   {
-    "company": "Abstract",
-    "dealSummary": "Abstract, the developer of a composable security operations platform, raised a $25 million round led by Cheyenne Ventures and AVP.",
-    "round": null,
+    "company": "Fly.io",
+    "dealSummary": "Fly.io, a developer of infrastructure for AI agents developing software, secured a $25 million Series A led by Dell Technologies Capital and Intel Capital.",
+    "round": "Series A",
     "amount": "$25 million",
-    "leadInvestors": "Cheyenne Ventures, AVP",
+    "leadInvestors": "Dell Technologies Capital, Intel Capital",
     "valuation": null,
-    "emailDate": "2026-07-24"
+    "emailDate": "2026-07-27"
   },
   {
-    "company": "Transcripta Bio",
-    "dealSummary": "Transcripta Bio, a biopharma company developing treatments for neurological and neuromuscular diseases, raised $24 million from investors including Mayo Clinic, Omnimed and Jazz Venture Partners.",
-    "round": null,
-    "amount": "$24 million",
-    "leadInvestors": "Mayo Clinic, Omnimed, Jazz Venture Partners",
-    "valuation": null,
-    "emailDate": "2026-07-24"
-  },
-  {
-    "company": "Elio",
-    "dealSummary": "Elio, which builds AI-native machine sensors, raised a $21 million round led by Innovation Endeavors and Xora.",
-    "round": null,
-    "amount": "$21 million",
-    "leadInvestors": "Innovation Endeavors, Xora",
-    "valuation": null,
-    "emailDate": "2026-07-24"
-  },
-  {
-    "company": "Trooly",
-    "dealSummary": "Trooly, the developer of a platform for conducting consumer research interviews, raised nearly $20 million in seed funding.",
-    "round": "Seed",
-    "amount": "$20 million",
-    "leadInvestors": null,
-    "valuation": null,
-    "emailDate": "2026-07-24"
-  },
-  {
-    "company": "Prosper Medical",
-    "dealSummary": "San Francisco-based Prosper Medical, which offers AI-powered concierge primary care, raised $16 million led by Fuse.",
-    "round": null,
-    "amount": "$16 million",
-    "leadInvestors": "Fuse",
-    "valuation": null,
-    "emailDate": "2026-07-24"
-  },
-  {
-    "company": "Telli",
-    "dealSummary": "Telli, a Berlin-based AI startup that helps automate customer-facing operations, raised $15 million in a seed round led by Redalpine.",
-    "round": "Seed",
-    "amount": "$15 million",
-    "leadInvestors": "Redalpine",
-    "valuation": null,
-    "emailDate": "2026-07-24"
-  },
-  {
-    "company": "Neon Commerce",
-    "dealSummary": "Neon Commerce, a fintech startup specializing in DTC commerce for the games industry, closed a $13 million Series A from investors including Krafton, Andreessen Horowitz and Renegade Partners.",
+    "company": "Magnendo",
+    "dealSummary": "Magnendo, which develops a magnetic robotic navigation system for vascular procedures, raised an $18 million Series A led by Penumbra.",
     "round": "Series A",
-    "amount": "$13 million",
-    "leadInvestors": "Krafton, Andreessen Horowitz, Renegade Partners",
+    "amount": "$18 million",
+    "leadInvestors": "Penumbra",
     "valuation": null,
-    "emailDate": "2026-07-24"
+    "emailDate": "2026-07-27"
+  },
+  {
+    "company": "Kausable",
+    "dealSummary": "German frontier lab Kausable raised a €12 million seed round led by UVC Partners and Entourage.",
+    "round": "Seed",
+    "amount": "€12 million",
+    "leadInvestors": "UVC Partners, Entourage",
+    "valuation": null,
+    "emailDate": "2026-07-27"
   }
 ]
