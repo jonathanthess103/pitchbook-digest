@@ -1,38 +1,83 @@
 [
   {
-    "company": "Corgi",
-    "dealSummary": "Corgi, a San Francisco-based startup that provides insurance tech along with operating two 24-hour coffee shops, raised a second extension of its Series B at a $4 billion valuation, Forbes reported.",
-    "round": "Series B",
+    "company": "VC DEALS The Boring Company",
+    "dealSummary": "VC DEALS The Boring Company, a startup specializing in underground tunneling owned by Elon Musk, is in talks to raise a $4 billion round at a $20 billion valuation, The Wall Street Journal reported.",
+    "round": null,
     "amount": "$4 billion",
     "leadInvestors": null,
-    "valuation": "$4 billion",
-    "emailDate": "2026-07-27"
+    "valuation": "$20 billion",
+    "emailDate": "2026-07-28"
   },
   {
-    "company": "Fly.io",
-    "dealSummary": "Fly.io, a developer of infrastructure for AI agents developing software, secured a $25 million Series A led by Dell Technologies Capital and Intel Capital.",
-    "round": "Series A",
-    "amount": "$25 million",
-    "leadInvestors": "Dell Technologies Capital, Intel Capital",
+    "company": "Multiverse Computing",
+    "dealSummary": "Spanish AI startup Multiverse Computing secured a $570 million Series C led by Forgepoint Capital International, BNPP SIVF and Bullhound Capital at a $1.7 billion valuation.",
+    "round": "Series C",
+    "amount": "$570 million",
+    "leadInvestors": "Forgepoint Capital International, BNPP SIVF, Bullhound Capital",
+    "valuation": "$1.7 billion",
+    "emailDate": "2026-07-28"
+  },
+  {
+    "company": "Antares",
+    "dealSummary": "Antares, a developer of nuclear microreactors for defense and space applications, raised a $470 million Series C led by Paradigm and Caffeinated Capital which included $370 million in equity and $100 million in debt.",
+    "round": "Series C",
+    "amount": "$470 million",
+    "leadInvestors": "Paradigm, Caffeinated Capital which included $370 million in equity, $100 million in debt",
     "valuation": null,
-    "emailDate": "2026-07-27"
+    "emailDate": "2026-07-28"
   },
   {
-    "company": "Magnendo",
-    "dealSummary": "Magnendo, which develops a magnetic robotic navigation system for vascular procedures, raised an $18 million Series A led by Penumbra.",
+    "company": "The Exploration Company",
+    "dealSummary": "German space tech specialist The Exploration Company is in talks to raise at least $300 million at a $2 billion valuation, the Financial Times reported.",
+    "round": null,
+    "amount": "$300 million",
+    "leadInvestors": null,
+    "valuation": "$2 billion",
+    "emailDate": "2026-07-28"
+  },
+  {
+    "company": "Ominimo",
+    "dealSummary": "Budapest-based digital insurance provider Ominimo received a Series B led by EBRD at a $1.6 billion valuation.",
+    "round": "Series B",
+    "amount": "$1.6 billion",
+    "leadInvestors": "EBRD",
+    "valuation": "$1.6 billion",
+    "emailDate": "2026-07-28"
+  },
+  {
+    "company": "Prentis",
+    "dealSummary": "AI research lab Prentis, which trains AI models on office work, is in talks to raise a $100 million round at a $1 billion valuation, TechCrunch reported.",
+    "round": null,
+    "amount": "$100 million",
+    "leadInvestors": null,
+    "valuation": "$1 billion",
+    "emailDate": "2026-07-28"
+  },
+  {
+    "company": "Flourish Health",
+    "dealSummary": "Virginia-based Flourish Health, which provides in-home mental healthcare, raised a $26 million Series A led by B Capital, F-Prime and Cherryrock Capital.",
     "round": "Series A",
-    "amount": "$18 million",
-    "leadInvestors": "Penumbra",
+    "amount": "$26 million",
+    "leadInvestors": "B Capital, F-Prime, Cherryrock Capital",
     "valuation": null,
-    "emailDate": "2026-07-27"
+    "emailDate": "2026-07-28"
   },
   {
-    "company": "Kausable",
-    "dealSummary": "German frontier lab Kausable raised a €12 million seed round led by UVC Partners and Entourage.",
+    "company": "Way Security",
+    "dealSummary": "Way Security, an identity access management startup, raised a $20 million seed round led by Insight Partners and Glilot Capital.",
     "round": "Seed",
-    "amount": "€12 million",
-    "leadInvestors": "UVC Partners, Entourage",
+    "amount": "$20 million",
+    "leadInvestors": "Insight Partners, Glilot Capital",
     "valuation": null,
-    "emailDate": "2026-07-27"
+    "emailDate": "2026-07-28"
+  },
+  {
+    "company": "Nuclear Turbines",
+    "dealSummary": "Nuclear Turbines, a UK-based developer of compact nuclear power systems, raised £15 million in a round led by IQ Capital.",
+    "round": null,
+    "amount": "£15 million",
+    "leadInvestors": "IQ Capital",
+    "valuation": null,
+    "emailDate": "2026-07-28"
   }
 ]
