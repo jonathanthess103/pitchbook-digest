@@ -1,83 +1,83 @@
 [
   {
-    "company": "VC DEALS The Boring Company",
-    "dealSummary": "VC DEALS The Boring Company, a startup specializing in underground tunneling owned by Elon Musk, is in talks to raise a $4 billion round at a $20 billion valuation, The Wall Street Journal reported.",
-    "round": null,
-    "amount": "$4 billion",
-    "leadInvestors": null,
-    "valuation": "$20 billion",
-    "emailDate": "2026-07-28"
-  },
-  {
-    "company": "Multiverse Computing",
-    "dealSummary": "Spanish AI startup Multiverse Computing secured a $570 million Series C led by Forgepoint Capital International, BNPP SIVF and Bullhound Capital at a $1.7 billion valuation.",
-    "round": "Series C",
-    "amount": "$570 million",
-    "leadInvestors": "Forgepoint Capital International, BNPP SIVF, Bullhound Capital",
-    "valuation": "$1.7 billion",
-    "emailDate": "2026-07-28"
-  },
-  {
-    "company": "Antares",
-    "dealSummary": "Antares, a developer of nuclear microreactors for defense and space applications, raised a $470 million Series C led by Paradigm and Caffeinated Capital which included $370 million in equity and $100 million in debt.",
-    "round": "Series C",
-    "amount": "$470 million",
-    "leadInvestors": "Paradigm, Caffeinated Capital which included $370 million in equity, $100 million in debt",
-    "valuation": null,
-    "emailDate": "2026-07-28"
-  },
-  {
-    "company": "The Exploration Company",
-    "dealSummary": "German space tech specialist The Exploration Company is in talks to raise at least $300 million at a $2 billion valuation, the Financial Times reported.",
-    "round": null,
-    "amount": "$300 million",
-    "leadInvestors": null,
-    "valuation": "$2 billion",
-    "emailDate": "2026-07-28"
-  },
-  {
-    "company": "Ominimo",
-    "dealSummary": "Budapest-based digital insurance provider Ominimo received a Series B led by EBRD at a $1.6 billion valuation.",
+    "company": "Claros Technologies",
+    "dealSummary": "Minneapolis-based Claros Technologies, which develops technology to eliminate chemicals from water and industrial waste, raised a $55 million Series B led by Treehouse Family Capital.",
     "round": "Series B",
-    "amount": "$1.6 billion",
-    "leadInvestors": "EBRD",
-    "valuation": "$1.6 billion",
-    "emailDate": "2026-07-28"
-  },
-  {
-    "company": "Prentis",
-    "dealSummary": "AI research lab Prentis, which trains AI models on office work, is in talks to raise a $100 million round at a $1 billion valuation, TechCrunch reported.",
-    "round": null,
-    "amount": "$100 million",
-    "leadInvestors": null,
-    "valuation": "$1 billion",
-    "emailDate": "2026-07-28"
-  },
-  {
-    "company": "Flourish Health",
-    "dealSummary": "Virginia-based Flourish Health, which provides in-home mental healthcare, raised a $26 million Series A led by B Capital, F-Prime and Cherryrock Capital.",
-    "round": "Series A",
-    "amount": "$26 million",
-    "leadInvestors": "B Capital, F-Prime, Cherryrock Capital",
+    "amount": "$55 million",
+    "leadInvestors": "Treehouse Family Capital",
     "valuation": null,
-    "emailDate": "2026-07-28"
+    "emailDate": "2026-07-29"
   },
   {
-    "company": "Way Security",
-    "dealSummary": "Way Security, an identity access management startup, raised a $20 million seed round led by Insight Partners and Glilot Capital.",
+    "company": "Fish Audio",
+    "dealSummary": "Fish Audio, the developer of an AI voice platform for text-to-speech, voice cloning and voice agents, raised a $52 million seed round led by Coreline Ventures and Capital Today.",
     "round": "Seed",
-    "amount": "$20 million",
-    "leadInvestors": "Insight Partners, Glilot Capital",
+    "amount": "$52 million",
+    "leadInvestors": "Coreline Ventures, Capital Today",
     "valuation": null,
-    "emailDate": "2026-07-28"
+    "emailDate": "2026-07-29"
   },
   {
-    "company": "Nuclear Turbines",
-    "dealSummary": "Nuclear Turbines, a UK-based developer of compact nuclear power systems, raised £15 million in a round led by IQ Capital.",
+    "company": "ProphetX",
+    "dealSummary": "New York-based ProphetX, the developer of a sports prediction platform, secured a $35 million round led by Parlay Capital and Data Point Capital.",
     "round": null,
-    "amount": "£15 million",
-    "leadInvestors": "IQ Capital",
+    "amount": "$35 million",
+    "leadInvestors": "Parlay Capital, Data Point Capital",
     "valuation": null,
-    "emailDate": "2026-07-28"
+    "emailDate": "2026-07-29"
+  },
+  {
+    "company": "Hush Security",
+    "dealSummary": "Hush Security, an enterprise cybersecurity startup focused on identity management, raised a $30 million Series A from investors including Akamai, Battery Ventures and YL Ventures.",
+    "round": "Series A",
+    "amount": "$30 million",
+    "leadInvestors": "Akamai, Battery Ventures, YL Ventures",
+    "valuation": null,
+    "emailDate": "2026-07-29"
+  },
+  {
+    "company": "Epitel",
+    "dealSummary": "Salt Lake City-based Epitel, which develops AI-powered brain health monitoring technology, raised a $26 million Series B led by Catalyst Health Ventures and Genoa Ventures.",
+    "round": "Series B",
+    "amount": "$26 million",
+    "leadInvestors": "Catalyst Health Ventures, Genoa Ventures",
+    "valuation": null,
+    "emailDate": "2026-07-29"
+  },
+  {
+    "company": "ZuriQ",
+    "dealSummary": "Zurich-based quantum computing startup ZuriQ secured a $25.5 million seed investment led by Quantonation.",
+    "round": "Seed",
+    "amount": "$25.5 million",
+    "leadInvestors": "Quantonation",
+    "valuation": null,
+    "emailDate": "2026-07-29"
+  },
+  {
+    "company": "Core Biomedicine",
+    "dealSummary": "Core Biomedicine, a biotech company developing oncology therapeutics, raised a $21 million Series A led by UTokyo Innovation Platform and Elikon Venture.",
+    "round": "Series A",
+    "amount": "$21 million",
+    "leadInvestors": "UTokyo Innovation Platform, Elikon Venture",
+    "valuation": null,
+    "emailDate": "2026-07-29"
+  },
+  {
+    "company": "Array Labs",
+    "dealSummary": "Array Labs, which builds satellite radar systems, received a $21 million investment from Mitsubishi Electric.",
+    "round": null,
+    "amount": "$21 million",
+    "leadInvestors": null,
+    "valuation": null,
+    "emailDate": "2026-07-29"
+  },
+  {
+    "company": "Tiger Technology",
+    "dealSummary": "Bulgarian file data services company Tiger Technology raised a $10 million Series A led by 3TS Capital Partners.",
+    "round": "Series A",
+    "amount": "$10 million",
+    "leadInvestors": "3TS Capital Partners",
+    "valuation": null,
+    "emailDate": "2026-07-29"
   }
 ]
