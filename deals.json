@@ -1,83 +1,119 @@
 [
   {
-    "company": "Claros Technologies",
-    "dealSummary": "Minneapolis-based Claros Technologies, which develops technology to eliminate chemicals from water and industrial waste, raised a $55 million Series B led by Treehouse Family Capital.",
-    "round": "Series B",
-    "amount": "$55 million",
-    "leadInvestors": "Treehouse Family Capital",
-    "valuation": null,
-    "emailDate": "2026-07-29"
-  },
-  {
-    "company": "Fish Audio",
-    "dealSummary": "Fish Audio, the developer of an AI voice platform for text-to-speech, voice cloning and voice agents, raised a $52 million seed round led by Coreline Ventures and Capital Today.",
-    "round": "Seed",
-    "amount": "$52 million",
-    "leadInvestors": "Coreline Ventures, Capital Today",
-    "valuation": null,
-    "emailDate": "2026-07-29"
-  },
-  {
-    "company": "ProphetX",
-    "dealSummary": "New York-based ProphetX, the developer of a sports prediction platform, secured a $35 million round led by Parlay Capital and Data Point Capital.",
+    "company": "Moonshot AI",
+    "dealSummary": "Beijing-based Moonshot AI raised a $3.5 billion round at a $35 billion valuation from investors including The National Artificial Intelligence Industry Investment Fund, Bloomberg reported.",
     "round": null,
-    "amount": "$35 million",
-    "leadInvestors": "Parlay Capital, Data Point Capital",
-    "valuation": null,
-    "emailDate": "2026-07-29"
+    "amount": "$3.5 billion",
+    "leadInvestors": "The National Artificial Intelligence Industry Investment Fund",
+    "valuation": "$35 billion",
+    "emailDate": "2026-07-30"
   },
   {
-    "company": "Hush Security",
-    "dealSummary": "Hush Security, an enterprise cybersecurity startup focused on identity management, raised a $30 million Series A from investors including Akamai, Battery Ventures and YL Ventures.",
+    "company": "Generalist",
+    "dealSummary": "Generalist, a robotics startup developing models for robots to perform dexterous tasks, is in talks to raise a new round led by 8VC at a $3 billion valuation, Business Insider reported.",
+    "round": null,
+    "amount": "$3 billion",
+    "leadInvestors": "8VC",
+    "valuation": "$3 billion",
+    "emailDate": "2026-07-30"
+  },
+  {
+    "company": "ThreatLocker",
+    "dealSummary": "ThreatLocker, a provider of Zero Trust cybersecurity software, secured a $190 million Series F led by Elephant.",
+    "round": "Series F",
+    "amount": "$190 million",
+    "leadInvestors": "Elephant",
+    "valuation": null,
+    "emailDate": "2026-07-30"
+  },
+  {
+    "company": "CAIS",
+    "dealSummary": "CAIS, the developer of an alternative investment platform for financial advisers, raised a $170 million Series D led by Vista Equity Partners that valued the company at over $2 billion.",
+    "round": "Series D",
+    "amount": "$170 million",
+    "leadInvestors": "Vista Equity Partners that valued the company at over $2 billion",
+    "valuation": null,
+    "emailDate": "2026-07-30"
+  },
+  {
+    "company": "Dwelly",
+    "dealSummary": "Dwelly, a London-based startup building an AI operating system for residential lettings, raised a $170 million Series B led by EQT Growth and General Catalyst.",
+    "round": "Series B",
+    "amount": "$170 million",
+    "leadInvestors": "EQT Growth, General Catalyst",
+    "valuation": null,
+    "emailDate": "2026-07-30"
+  },
+  {
+    "company": "Eliyan",
+    "dealSummary": "Eliyan, a developer of connectivity technology for AI infrastructure, closed a $145 million Series C led by Seligman Ventures at a $1 billion valuation.",
+    "round": "Series C",
+    "amount": "$145 million",
+    "leadInvestors": "Seligman Ventures",
+    "valuation": "$1 billion",
+    "emailDate": "2026-07-30"
+  },
+  {
+    "company": "Freehand",
+    "dealSummary": "San Francisco-based Freehand, which develops agents to manage supply chain spending for large enterprises, raised a $75 million round led by Battery Ventures and NewRoad Capital Partners.",
+    "round": null,
+    "amount": "$75 million",
+    "leadInvestors": "Battery Ventures, NewRoad Capital Partners",
+    "valuation": null,
+    "emailDate": "2026-07-30"
+  },
+  {
+    "company": "Encore AI",
+    "dealSummary": "Encore AI, a customer-interaction platform specialist, raised a $30 million Series A led by Team8, Planven and The Garage.",
     "round": "Series A",
     "amount": "$30 million",
-    "leadInvestors": "Akamai, Battery Ventures, YL Ventures",
+    "leadInvestors": "Team8, Planven, The Garage",
     "valuation": null,
-    "emailDate": "2026-07-29"
+    "emailDate": "2026-07-30"
   },
   {
-    "company": "Epitel",
-    "dealSummary": "Salt Lake City-based Epitel, which develops AI-powered brain health monitoring technology, raised a $26 million Series B led by Catalyst Health Ventures and Genoa Ventures.",
-    "round": "Series B",
-    "amount": "$26 million",
-    "leadInvestors": "Catalyst Health Ventures, Genoa Ventures",
-    "valuation": null,
-    "emailDate": "2026-07-29"
-  },
-  {
-    "company": "ZuriQ",
-    "dealSummary": "Zurich-based quantum computing startup ZuriQ secured a $25.5 million seed investment led by Quantonation.",
-    "round": "Seed",
-    "amount": "$25.5 million",
-    "leadInvestors": "Quantonation",
-    "valuation": null,
-    "emailDate": "2026-07-29"
-  },
-  {
-    "company": "Core Biomedicine",
-    "dealSummary": "Core Biomedicine, a biotech company developing oncology therapeutics, raised a $21 million Series A led by UTokyo Innovation Platform and Elikon Venture.",
-    "round": "Series A",
-    "amount": "$21 million",
-    "leadInvestors": "UTokyo Innovation Platform, Elikon Venture",
-    "valuation": null,
-    "emailDate": "2026-07-29"
-  },
-  {
-    "company": "Array Labs",
-    "dealSummary": "Array Labs, which builds satellite radar systems, received a $21 million investment from Mitsubishi Electric.",
+    "company": "Agon",
+    "dealSummary": "UK-based defense tech startup Agon received $30 million from investors including Lakestar, Lux Capital and Northzone.",
     "round": null,
-    "amount": "$21 million",
-    "leadInvestors": null,
+    "amount": "$30 million",
+    "leadInvestors": "Lakestar, Lux Capital, Northzone",
     "valuation": null,
-    "emailDate": "2026-07-29"
+    "emailDate": "2026-07-30"
   },
   {
-    "company": "Tiger Technology",
-    "dealSummary": "Bulgarian file data services company Tiger Technology raised a $10 million Series A led by 3TS Capital Partners.",
-    "round": "Series A",
-    "amount": "$10 million",
-    "leadInvestors": "3TS Capital Partners",
+    "company": "Greyparrot",
+    "dealSummary": "London-based Greyparrot, an AI waste-analytics specialist, raised a $27 million Series B led by Omar Mir.",
+    "round": "Series B",
+    "amount": "$27 million",
+    "leadInvestors": "Omar Mir",
     "valuation": null,
-    "emailDate": "2026-07-29"
+    "emailDate": "2026-07-30"
+  },
+  {
+    "company": "Xeltis",
+    "dealSummary": "Xeltis, a Dutch developer of artificial vessels and valves, raised €20.5 million in a round led by Horizon 3 Healthcare.",
+    "round": null,
+    "amount": "€20.5 million",
+    "leadInvestors": "Horizon 3 Healthcare",
+    "valuation": null,
+    "emailDate": "2026-07-30"
+  },
+  {
+    "company": "Terminal",
+    "dealSummary": "Toronto-based Terminal, which develops data infrastructure for the insurance, fleet management and logistics industries, closed a $20 million Series A led by Battery Ventures.",
+    "round": "Series A",
+    "amount": "$20 million",
+    "leadInvestors": "Battery Ventures",
+    "valuation": null,
+    "emailDate": "2026-07-30"
+  },
+  {
+    "company": "Qureight",
+    "dealSummary": "Qureight, a UK-based quantitative imaging startup, raised a $20 million Series B led by Molten Ventures.",
+    "round": "Series B",
+    "amount": "$20 million",
+    "leadInvestors": "Molten Ventures",
+    "valuation": null,
+    "emailDate": "2026-07-30"
   }
 ]
