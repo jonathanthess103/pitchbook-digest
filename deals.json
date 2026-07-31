@@ -1,119 +1,110 @@
 [
   {
-    "company": "Moonshot AI",
-    "dealSummary": "Beijing-based Moonshot AI raised a $3.5 billion round at a $35 billion valuation from investors including The National Artificial Intelligence Industry Investment Fund, Bloomberg reported.",
+    "company": "Commonwealth Fusion Systems",
+    "dealSummary": "Fusion energy company Commonwealth Fusion Systems secured a $1 billion round.",
     "round": null,
-    "amount": "$3.5 billion",
-    "leadInvestors": "The National Artificial Intelligence Industry Investment Fund",
-    "valuation": "$35 billion",
-    "emailDate": "2026-07-30"
-  },
-  {
-    "company": "Generalist",
-    "dealSummary": "Generalist, a robotics startup developing models for robots to perform dexterous tasks, is in talks to raise a new round led by 8VC at a $3 billion valuation, Business Insider reported.",
-    "round": null,
-    "amount": "$3 billion",
-    "leadInvestors": "8VC",
-    "valuation": "$3 billion",
-    "emailDate": "2026-07-30"
-  },
-  {
-    "company": "ThreatLocker",
-    "dealSummary": "ThreatLocker, a provider of Zero Trust cybersecurity software, secured a $190 million Series F led by Elephant.",
-    "round": "Series F",
-    "amount": "$190 million",
-    "leadInvestors": "Elephant",
+    "amount": "$1 billion",
+    "leadInvestors": null,
     "valuation": null,
-    "emailDate": "2026-07-30"
+    "emailDate": "2026-07-31"
   },
   {
-    "company": "CAIS",
-    "dealSummary": "CAIS, the developer of an alternative investment platform for financial advisers, raised a $170 million Series D led by Vista Equity Partners that valued the company at over $2 billion.",
-    "round": "Series D",
-    "amount": "$170 million",
-    "leadInvestors": "Vista Equity Partners that valued the company at over $2 billion",
-    "valuation": null,
-    "emailDate": "2026-07-30"
-  },
-  {
-    "company": "Dwelly",
-    "dealSummary": "Dwelly, a London-based startup building an AI operating system for residential lettings, raised a $170 million Series B led by EQT Growth and General Catalyst.",
-    "round": "Series B",
-    "amount": "$170 million",
-    "leadInvestors": "EQT Growth, General Catalyst",
-    "valuation": null,
-    "emailDate": "2026-07-30"
-  },
-  {
-    "company": "Eliyan",
-    "dealSummary": "Eliyan, a developer of connectivity technology for AI infrastructure, closed a $145 million Series C led by Seligman Ventures at a $1 billion valuation.",
+    "company": "Antora",
+    "dealSummary": "Antora, an energy storage startup developing thermal batteries, raised a $550 million Series C led by G2 Venture Partners and Eclipse.",
     "round": "Series C",
-    "amount": "$145 million",
-    "leadInvestors": "Seligman Ventures",
-    "valuation": "$1 billion",
-    "emailDate": "2026-07-30"
+    "amount": "$550 million",
+    "leadInvestors": "G2 Venture Partners, Eclipse",
+    "valuation": null,
+    "emailDate": "2026-07-31"
   },
   {
-    "company": "Freehand",
-    "dealSummary": "San Francisco-based Freehand, which develops agents to manage supply chain spending for large enterprises, raised a $75 million round led by Battery Ventures and NewRoad Capital Partners.",
+    "company": "K2 Space",
+    "dealSummary": "K2 Space, a startup developing large satellites for communication and defense, secured a $500 million Series D led by Kleiner Perkins and Iconiq at a $6.8 billion valuation.",
+    "round": "Series D",
+    "amount": "$500 million",
+    "leadInvestors": "Kleiner Perkins, Iconiq",
+    "valuation": "$6.8 billion",
+    "emailDate": "2026-07-31"
+  },
+  {
+    "company": "Function",
+    "dealSummary": "Function, which develops a health platform tracking lab results and other tests, raised a $450 million round from General Catalyst.",
     "round": null,
-    "amount": "$75 million",
-    "leadInvestors": "Battery Ventures, NewRoad Capital Partners",
+    "amount": "$450 million",
+    "leadInvestors": null,
     "valuation": null,
-    "emailDate": "2026-07-30"
+    "emailDate": "2026-07-31"
   },
   {
-    "company": "Encore AI",
-    "dealSummary": "Encore AI, a customer-interaction platform specialist, raised a $30 million Series A led by Team8, Planven and The Garage.",
-    "round": "Series A",
-    "amount": "$30 million",
-    "leadInvestors": "Team8, Planven, The Garage",
-    "valuation": null,
-    "emailDate": "2026-07-30"
-  },
-  {
-    "company": "Agon",
-    "dealSummary": "UK-based defense tech startup Agon received $30 million from investors including Lakestar, Lux Capital and Northzone.",
-    "round": null,
-    "amount": "$30 million",
-    "leadInvestors": "Lakestar, Lux Capital, Northzone",
-    "valuation": null,
-    "emailDate": "2026-07-30"
-  },
-  {
-    "company": "Greyparrot",
-    "dealSummary": "London-based Greyparrot, an AI waste-analytics specialist, raised a $27 million Series B led by Omar Mir.",
+    "company": "Simile",
+    "dealSummary": "Simile, the developer of a human behavior simulation model, raised a $200 million Series B led by Greenoaks at a $2 billion valuation.",
     "round": "Series B",
-    "amount": "$27 million",
-    "leadInvestors": "Omar Mir",
-    "valuation": null,
-    "emailDate": "2026-07-30"
+    "amount": "$200 million",
+    "leadInvestors": "Greenoaks",
+    "valuation": "$2 billion",
+    "emailDate": "2026-07-31"
   },
   {
-    "company": "Xeltis",
-    "dealSummary": "Xeltis, a Dutch developer of artificial vessels and valves, raised €20.5 million in a round led by Horizon 3 Healthcare.",
-    "round": null,
-    "amount": "€20.5 million",
-    "leadInvestors": "Horizon 3 Healthcare",
+    "company": "Inforcer",
+    "dealSummary": "London-based Inforcer, the developer of software for IT managed service providers, secured a $50 million Series C led by Insight Partners.",
+    "round": "Series C",
+    "amount": "$50 million",
+    "leadInvestors": "Insight Partners",
     "valuation": null,
-    "emailDate": "2026-07-30"
+    "emailDate": "2026-07-31"
   },
   {
-    "company": "Terminal",
-    "dealSummary": "Toronto-based Terminal, which develops data infrastructure for the insurance, fleet management and logistics industries, closed a $20 million Series A led by Battery Ventures.",
+    "company": "Lydian",
+    "dealSummary": "Sustainable aviation fuel startup Lydian raised a $43 million Series A led by Breakthrough Energy Ventures.",
     "round": "Series A",
-    "amount": "$20 million",
-    "leadInvestors": "Battery Ventures",
+    "amount": "$43 million",
+    "leadInvestors": "Breakthrough Energy Ventures",
     "valuation": null,
-    "emailDate": "2026-07-30"
+    "emailDate": "2026-07-31"
   },
   {
-    "company": "Qureight",
-    "dealSummary": "Qureight, a UK-based quantitative imaging startup, raised a $20 million Series B led by Molten Ventures.",
+    "company": "DataBahn",
+    "dealSummary": "Dallas-based DataBahn, the developer of an agentic data control platform for businesses, raised a $40 million Series B led by Insight Partners.",
     "round": "Series B",
-    "amount": "$20 million",
-    "leadInvestors": "Molten Ventures",
+    "amount": "$40 million",
+    "leadInvestors": "Insight Partners",
     "valuation": null,
-    "emailDate": "2026-07-30"
+    "emailDate": "2026-07-31"
+  },
+  {
+    "company": "LemonEdge",
+    "dealSummary": "LemonEdge, a London-based fund accounting platform for private markets, raised a $21 million Series A led by Blackstone Innovations Investments.",
+    "round": "Series A",
+    "amount": "$21 million",
+    "leadInvestors": "Blackstone Innovations Investments",
+    "valuation": null,
+    "emailDate": "2026-07-31"
+  },
+  {
+    "company": "AI Infrastructure Capital",
+    "dealSummary": "AI Infrastructure Capital, a Swiss provider of capital for the compute layer of AI, secured $16 million in a round led by Valyou.",
+    "round": null,
+    "amount": "$16 million",
+    "leadInvestors": "Valyou",
+    "valuation": null,
+    "emailDate": "2026-07-31"
+  },
+  {
+    "company": "Intropy",
+    "dealSummary": "Intropy, a UK-based AI engine for spare parts businesses, raised $11 million in a round led by Felix Capital.",
+    "round": null,
+    "amount": "$11 million",
+    "leadInvestors": "Felix Capital",
+    "valuation": null,
+    "emailDate": "2026-07-31"
+  },
+  {
+    "company": "Ahead Health",
+    "dealSummary": "Zurich-based preventive healthcare startup Ahead Health received $10 million in a round led by 3VC and RTP Global.",
+    "round": null,
+    "amount": "$10 million",
+    "leadInvestors": "3VC, RTP Global",
+    "valuation": null,
+    "emailDate": "2026-07-31"
   }
 ]
