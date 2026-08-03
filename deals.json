@@ -1,110 +1,83 @@
 [
   {
-    "company": "Commonwealth Fusion Systems",
-    "dealSummary": "Fusion energy company Commonwealth Fusion Systems secured a $1 billion round.",
+    "company": "Xsight Labs",
+    "dealSummary": "Israeli semiconductor startup Xsight Labs raised over $300 million at a $2.8 billion valuation in a round led by Fidelity Management & Research Company.",
     "round": null,
-    "amount": "$1 billion",
+    "amount": "$300 million",
+    "leadInvestors": "Fidelity Management & Research Company",
+    "valuation": "$2.8 billion",
+    "emailDate": "2026-08-03"
+  },
+  {
+    "company": "Whatnot",
+    "dealSummary": "Los Angeles-based Whatnot, a livestream shopping startup, is in talks to raise a new round at about a $20 billion valuation, Business Insider reported.",
+    "round": null,
+    "amount": "$20 billion",
     "leadInvestors": null,
     "valuation": null,
-    "emailDate": "2026-07-31"
+    "emailDate": "2026-08-03"
   },
   {
-    "company": "Antora",
-    "dealSummary": "Antora, an energy storage startup developing thermal batteries, raised a $550 million Series C led by G2 Venture Partners and Eclipse.",
+    "company": "Ratio Therapeutics",
+    "dealSummary": "Ratio Therapeutics, a Boston-based developer of radiopharmaceuticals for cancer treatment, raised a $70 million Series C from investors including Duquesne Family Office, Bristol Myers Squibb and Catalio Capital Management.",
     "round": "Series C",
-    "amount": "$550 million",
-    "leadInvestors": "G2 Venture Partners, Eclipse",
+    "amount": "$70 million",
+    "leadInvestors": "Duquesne Family Office, Bristol Myers Squibb, Catalio Capital Management",
     "valuation": null,
-    "emailDate": "2026-07-31"
+    "emailDate": "2026-08-03"
   },
   {
-    "company": "K2 Space",
-    "dealSummary": "K2 Space, a startup developing large satellites for communication and defense, secured a $500 million Series D led by Kleiner Perkins and Iconiq at a $6.8 billion valuation.",
-    "round": "Series D",
-    "amount": "$500 million",
-    "leadInvestors": "Kleiner Perkins, Iconiq",
-    "valuation": "$6.8 billion",
-    "emailDate": "2026-07-31"
-  },
-  {
-    "company": "Function",
-    "dealSummary": "Function, which develops a health platform tracking lab results and other tests, raised a $450 million round from General Catalyst.",
-    "round": null,
-    "amount": "$450 million",
+    "company": "PhysicsX",
+    "dealSummary": "London-based physical AI startup PhysicsX raised $25 million from the British Business Bank as part of its $300 million Series C.",
+    "round": "Series C",
+    "amount": "$25 million",
     "leadInvestors": null,
     "valuation": null,
-    "emailDate": "2026-07-31"
+    "emailDate": "2026-08-03"
   },
   {
-    "company": "Simile",
-    "dealSummary": "Simile, the developer of a human behavior simulation model, raised a $200 million Series B led by Greenoaks at a $2 billion valuation.",
-    "round": "Series B",
-    "amount": "$200 million",
-    "leadInvestors": "Greenoaks",
-    "valuation": "$2 billion",
-    "emailDate": "2026-07-31"
-  },
-  {
-    "company": "Inforcer",
-    "dealSummary": "London-based Inforcer, the developer of software for IT managed service providers, secured a $50 million Series C led by Insight Partners.",
-    "round": "Series C",
-    "amount": "$50 million",
-    "leadInvestors": "Insight Partners",
-    "valuation": null,
-    "emailDate": "2026-07-31"
-  },
-  {
-    "company": "Lydian",
-    "dealSummary": "Sustainable aviation fuel startup Lydian raised a $43 million Series A led by Breakthrough Energy Ventures.",
+    "company": "Dili",
+    "dealSummary": "New York-based Dili, a developer of AI compliance software for infrastructure and construction projects, raised a $15 million Series A led by Khosla Ventures.",
     "round": "Series A",
-    "amount": "$43 million",
-    "leadInvestors": "Breakthrough Energy Ventures",
+    "amount": "$15 million",
+    "leadInvestors": "Khosla Ventures",
     "valuation": null,
-    "emailDate": "2026-07-31"
+    "emailDate": "2026-08-03"
   },
   {
-    "company": "DataBahn",
-    "dealSummary": "Dallas-based DataBahn, the developer of an agentic data control platform for businesses, raised a $40 million Series B led by Insight Partners.",
-    "round": "Series B",
-    "amount": "$40 million",
-    "leadInvestors": "Insight Partners",
-    "valuation": null,
-    "emailDate": "2026-07-31"
-  },
-  {
-    "company": "LemonEdge",
-    "dealSummary": "LemonEdge, a London-based fund accounting platform for private markets, raised a $21 million Series A led by Blackstone Innovations Investments.",
+    "company": "Balance Theory",
+    "dealSummary": "Balance Theory, a developer of an AI-native platform for cybersecurity investment decisions, raised a $19 million Series A led by SYN Ventures.",
     "round": "Series A",
-    "amount": "$21 million",
-    "leadInvestors": "Blackstone Innovations Investments",
+    "amount": "$19 million",
+    "leadInvestors": "SYN Ventures",
     "valuation": null,
-    "emailDate": "2026-07-31"
+    "emailDate": "2026-08-03"
   },
   {
-    "company": "AI Infrastructure Capital",
-    "dealSummary": "AI Infrastructure Capital, a Swiss provider of capital for the compute layer of AI, secured $16 million in a round led by Valyou.",
-    "round": null,
-    "amount": "$16 million",
-    "leadInvestors": "Valyou",
+    "company": "The Farmer Companies",
+    "dealSummary": "Burlington, Vermont-based The Farmer Companies, which houses brands like Whisps and Cabot Creamery, raised a $17 million Series A led by Raff Ventures.",
+    "round": "Series A",
+    "amount": "$17 million",
+    "leadInvestors": "Raff Ventures",
     "valuation": null,
-    "emailDate": "2026-07-31"
+    "emailDate": "2026-08-03"
   },
   {
-    "company": "Intropy",
-    "dealSummary": "Intropy, a UK-based AI engine for spare parts businesses, raised $11 million in a round led by Felix Capital.",
-    "round": null,
-    "amount": "$11 million",
-    "leadInvestors": "Felix Capital",
+    "company": "Smallest AI",
+    "dealSummary": "Smallest AI, a developer of real-time voice AI models, raised a $13 million Series A led by Seligman Ventures.",
+    "round": "Series A",
+    "amount": "$13 million",
+    "leadInvestors": "Seligman Ventures",
     "valuation": null,
-    "emailDate": "2026-07-31"
+    "emailDate": "2026-08-03"
   },
   {
-    "company": "Ahead Health",
-    "dealSummary": "Zurich-based preventive healthcare startup Ahead Health received $10 million in a round led by 3VC and RTP Global.",
-    "round": null,
-    "amount": "$10 million",
-    "leadInvestors": "3VC, RTP Global",
+    "company": "Discern Security",
+    "dealSummary": "Discern Security, a developer of AI agents that help close gaps in companies’ existing security tools, raised a $13 million Series A led by Forgepoint Capital.",
+    "round": "Series A",
+    "amount": "$13 million",
+    "leadInvestors": "Forgepoint Capital",
     "valuation": null,
-    "emailDate": "2026-07-31"
+    "emailDate": "2026-08-03"
   }
 ]
