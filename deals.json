@@ -1,83 +1,74 @@
 [
   {
-    "company": "Xsight Labs",
-    "dealSummary": "Israeli semiconductor startup Xsight Labs raised over $300 million at a $2.8 billion valuation in a round led by Fidelity Management & Research Company.",
+    "company": "Base Power",
+    "dealSummary": "Home battery specialist Base Power raised a $1 billion Series D led by Ribbit Capital, Addition, Valor Equity Partners and JPMorgan’s Strategic Investment Group at a $13 billion valuation.",
+    "round": "Series D",
+    "amount": "$1 billion",
+    "leadInvestors": "Ribbit Capital, Addition, Valor Equity Partners, JPMorgan’s Strategic Investment Group",
+    "valuation": "$13 billion",
+    "emailDate": "2026-08-04"
+  },
+  {
+    "company": "Valar Atomics",
+    "dealSummary": "Valar Atomics, a developer of small nuclear reactors, raised a $1 billion round led by Sequoia at a $6 billion valuation.",
     "round": null,
-    "amount": "$300 million",
-    "leadInvestors": "Fidelity Management & Research Company",
-    "valuation": "$2.8 billion",
-    "emailDate": "2026-08-03"
+    "amount": "$1 billion",
+    "leadInvestors": "Sequoia",
+    "valuation": "$6 billion",
+    "emailDate": "2026-08-04"
   },
   {
-    "company": "Whatnot",
-    "dealSummary": "Los Angeles-based Whatnot, a livestream shopping startup, is in talks to raise a new round at about a $20 billion valuation, Business Insider reported.",
-    "round": null,
-    "amount": "$20 billion",
-    "leadInvestors": null,
-    "valuation": null,
-    "emailDate": "2026-08-03"
-  },
-  {
-    "company": "Ratio Therapeutics",
-    "dealSummary": "Ratio Therapeutics, a Boston-based developer of radiopharmaceuticals for cancer treatment, raised a $70 million Series C from investors including Duquesne Family Office, Bristol Myers Squibb and Catalio Capital Management.",
-    "round": "Series C",
-    "amount": "$70 million",
-    "leadInvestors": "Duquesne Family Office, Bristol Myers Squibb, Catalio Capital Management",
-    "valuation": null,
-    "emailDate": "2026-08-03"
-  },
-  {
-    "company": "PhysicsX",
-    "dealSummary": "London-based physical AI startup PhysicsX raised $25 million from the British Business Bank as part of its $300 million Series C.",
-    "round": "Series C",
-    "amount": "$25 million",
-    "leadInvestors": null,
-    "valuation": null,
-    "emailDate": "2026-08-03"
-  },
-  {
-    "company": "Dili",
-    "dealSummary": "New York-based Dili, a developer of AI compliance software for infrastructure and construction projects, raised a $15 million Series A led by Khosla Ventures.",
-    "round": "Series A",
-    "amount": "$15 million",
+    "company": "Mariana Minerals",
+    "dealSummary": "San Francisco-based Mariana Minerals, a rare earth minerals specialist, secured a $310 million Series B led by Khosla Ventures.",
+    "round": "Series B",
+    "amount": "$310 million",
     "leadInvestors": "Khosla Ventures",
     "valuation": null,
-    "emailDate": "2026-08-03"
+    "emailDate": "2026-08-04"
   },
   {
-    "company": "Balance Theory",
-    "dealSummary": "Balance Theory, a developer of an AI-native platform for cybersecurity investment decisions, raised a $19 million Series A led by SYN Ventures.",
-    "round": "Series A",
-    "amount": "$19 million",
-    "leadInvestors": "SYN Ventures",
+    "company": "Horizon3",
+    "dealSummary": "Horizon3 raised a $250 million Series E led by NightDragon and NEA, valuing the cybersecurity company at over $2 billion.",
+    "round": "Series E",
+    "amount": "$250 million",
+    "leadInvestors": "NightDragon, NEA, valuing the cybersecurity company at over $2 billion",
     "valuation": null,
-    "emailDate": "2026-08-03"
+    "emailDate": "2026-08-04"
   },
   {
-    "company": "The Farmer Companies",
-    "dealSummary": "Burlington, Vermont-based The Farmer Companies, which houses brands like Whisps and Cabot Creamery, raised a $17 million Series A led by Raff Ventures.",
-    "round": "Series A",
-    "amount": "$17 million",
-    "leadInvestors": "Raff Ventures",
+    "company": "Inocras",
+    "dealSummary": "Inocras, a bioinformatics company focused on the precision oncology industry, raised a $31 million Series B-3 from investors including NDS Corporation, Aimed Bio and IMM Investment.",
+    "round": "Series B",
+    "amount": "$31 million",
+    "leadInvestors": "NDS Corporation, Aimed Bio, IMM Investment",
     "valuation": null,
-    "emailDate": "2026-08-03"
+    "emailDate": "2026-08-04"
   },
   {
-    "company": "Smallest AI",
-    "dealSummary": "Smallest AI, a developer of real-time voice AI models, raised a $13 million Series A led by Seligman Ventures.",
+    "company": "Dash Bio",
+    "dealSummary": "Dash Bio, which builds infrastructure for drug development, secured a $30 million Series A led by Oak HC/FT.",
     "round": "Series A",
-    "amount": "$13 million",
-    "leadInvestors": "Seligman Ventures",
+    "amount": "$30 million",
+    "leadInvestors": "Oak HC/FT",
     "valuation": null,
-    "emailDate": "2026-08-03"
+    "emailDate": "2026-08-04"
   },
   {
-    "company": "Discern Security",
-    "dealSummary": "Discern Security, a developer of AI agents that help close gaps in companies’ existing security tools, raised a $13 million Series A led by Forgepoint Capital.",
-    "round": "Series A",
-    "amount": "$13 million",
-    "leadInvestors": "Forgepoint Capital",
+    "company": "Stella Automotive AI",
+    "dealSummary": "Stella Automotive AI, a provider of customer engagement tools for auto dealerships, raised a $22.1 million Series B led by Maroone USA.",
+    "round": "Series B",
+    "amount": "$22.1 million",
+    "leadInvestors": "Maroone USA",
     "valuation": null,
-    "emailDate": "2026-08-03"
+    "emailDate": "2026-08-04"
+  },
+  {
+    "company": "June",
+    "dealSummary": "June, which offers tools for integrating AI into companies, raised $20 million in pre-seed funding led by Time Ventures.",
+    "round": "Pre-seed",
+    "amount": "$20 million",
+    "leadInvestors": "Time Ventures",
+    "valuation": null,
+    "emailDate": "2026-08-04"
   }
 ]
