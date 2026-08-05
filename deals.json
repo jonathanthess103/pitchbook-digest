@@ -1,74 +1,92 @@
 [
   {
-    "company": "Base Power",
-    "dealSummary": "Home battery specialist Base Power raised a $1 billion Series D led by Ribbit Capital, Addition, Valor Equity Partners and JPMorgan’s Strategic Investment Group at a $13 billion valuation.",
-    "round": "Series D",
-    "amount": "$1 billion",
-    "leadInvestors": "Ribbit Capital, Addition, Valor Equity Partners, JPMorgan’s Strategic Investment Group",
-    "valuation": "$13 billion",
-    "emailDate": "2026-08-04"
-  },
-  {
-    "company": "Valar Atomics",
-    "dealSummary": "Valar Atomics, a developer of small nuclear reactors, raised a $1 billion round led by Sequoia at a $6 billion valuation.",
+    "company": "Polymarket",
+    "dealSummary": "Polymarket is in talks to raise more than $1 billion in a new funding round at a $20 billion valuation, Bloomberg reported.",
     "round": null,
     "amount": "$1 billion",
-    "leadInvestors": "Sequoia",
-    "valuation": "$6 billion",
-    "emailDate": "2026-08-04"
+    "leadInvestors": null,
+    "valuation": "$20 billion",
+    "emailDate": "2026-08-05"
   },
   {
-    "company": "Mariana Minerals",
-    "dealSummary": "San Francisco-based Mariana Minerals, a rare earth minerals specialist, secured a $310 million Series B led by Khosla Ventures.",
+    "company": "Happyrobot",
+    "dealSummary": "Happyrobot, a startup developing AI agents for mission-critical enterprises, raised a $150 million Series C led by Prysm Capital and Eurazeo.",
+    "round": "Series C",
+    "amount": "$150 million",
+    "leadInvestors": "Prysm Capital, Eurazeo",
+    "valuation": null,
+    "emailDate": "2026-08-05"
+  },
+  {
+    "company": "Convex",
+    "dealSummary": "Convex, which builds backend infrastructure for AI-written software, raised a $57 million Series B led by Insight Partners.",
     "round": "Series B",
-    "amount": "$310 million",
-    "leadInvestors": "Khosla Ventures",
+    "amount": "$57 million",
+    "leadInvestors": "Insight Partners",
     "valuation": null,
-    "emailDate": "2026-08-04"
+    "emailDate": "2026-08-05"
   },
   {
-    "company": "Horizon3",
-    "dealSummary": "Horizon3 raised a $250 million Series E led by NightDragon and NEA, valuing the cybersecurity company at over $2 billion.",
-    "round": "Series E",
-    "amount": "$250 million",
-    "leadInvestors": "NightDragon, NEA, valuing the cybersecurity company at over $2 billion",
-    "valuation": null,
-    "emailDate": "2026-08-04"
-  },
-  {
-    "company": "Inocras",
-    "dealSummary": "Inocras, a bioinformatics company focused on the precision oncology industry, raised a $31 million Series B-3 from investors including NDS Corporation, Aimed Bio and IMM Investment.",
+    "company": "QuantHealth",
+    "dealSummary": "Tel Aviv-based QuantHealth, which uses AI to simulate clinical trials, secured a $45 million Series B led by Qumra Capital.",
     "round": "Series B",
-    "amount": "$31 million",
-    "leadInvestors": "NDS Corporation, Aimed Bio, IMM Investment",
+    "amount": "$45 million",
+    "leadInvestors": "Qumra Capital",
     "valuation": null,
-    "emailDate": "2026-08-04"
+    "emailDate": "2026-08-05"
   },
   {
-    "company": "Dash Bio",
-    "dealSummary": "Dash Bio, which builds infrastructure for drug development, secured a $30 million Series A led by Oak HC/FT.",
+    "company": "Ore Energy",
+    "dealSummary": "Amsterdam-based battery startup Ore Energy raised a $43 million Series A led by Plural and HV.",
     "round": "Series A",
-    "amount": "$30 million",
-    "leadInvestors": "Oak HC/FT",
+    "amount": "$43 million",
+    "leadInvestors": "Plural, HV",
     "valuation": null,
-    "emailDate": "2026-08-04"
+    "emailDate": "2026-08-05"
   },
   {
-    "company": "Stella Automotive AI",
-    "dealSummary": "Stella Automotive AI, a provider of customer engagement tools for auto dealerships, raised a $22.1 million Series B led by Maroone USA.",
+    "company": "Yellow Card",
+    "dealSummary": "Yellow Card, a stablecoin payments infrastructure provider, raised $40 million from investors including SC Ventures, Sony Innovation Fund and Polychain Capital.",
+    "round": null,
+    "amount": "$40 million",
+    "leadInvestors": "SC Ventures, Sony Innovation Fund, Polychain Capital",
+    "valuation": null,
+    "emailDate": "2026-08-05"
+  },
+  {
+    "company": "Multiplier",
+    "dealSummary": "Singapore-based Multiplier, which acquires professional-services firms and builds AI tools around their operations, raised a $35 million Series B led by The General Partnership.",
     "round": "Series B",
-    "amount": "$22.1 million",
-    "leadInvestors": "Maroone USA",
+    "amount": "$35 million",
+    "leadInvestors": "The General Partnership",
     "valuation": null,
-    "emailDate": "2026-08-04"
+    "emailDate": "2026-08-05"
   },
   {
-    "company": "June",
-    "dealSummary": "June, which offers tools for integrating AI into companies, raised $20 million in pre-seed funding led by Time Ventures.",
-    "round": "Pre-seed",
-    "amount": "$20 million",
-    "leadInvestors": "Time Ventures",
+    "company": "Maximum",
+    "dealSummary": "Maximum, which builds an AI operating system for banks, raised a $30 million seed round led by CRV.",
+    "round": "Seed",
+    "amount": "$30 million",
+    "leadInvestors": "CRV",
     "valuation": null,
-    "emailDate": "2026-08-04"
+    "emailDate": "2026-08-05"
+  },
+  {
+    "company": "Advanced Electric Machines",
+    "dealSummary": "Advanced Electric Machines, a UK-based maker of rare-earth and magnet-free electric motors, received £16 million in a round led by investors including Barclays Climate Ventures, PXN Ventures and Northstar Ventures, Tech.eu reported.",
+    "round": null,
+    "amount": "£16 million",
+    "leadInvestors": "Barclays Climate Ventures, PXN Ventures, Northstar Ventures, Tech",
+    "valuation": null,
+    "emailDate": "2026-08-05"
+  },
+  {
+    "company": "Delightree",
+    "dealSummary": "Delightree, the developer of an AI operating system for franchise brands, raised $25 million from investors including Innovius, Accel and Timber Grove Ventures.",
+    "round": null,
+    "amount": "$25 million",
+    "leadInvestors": "Innovius, Accel, Timber Grove Ventures",
+    "valuation": null,
+    "emailDate": "2026-08-05"
   }
 ]
