@@ -1,92 +1,83 @@
 [
   {
-    "company": "Polymarket",
-    "dealSummary": "Polymarket is in talks to raise more than $1 billion in a new funding round at a $20 billion valuation, Bloomberg reported.",
-    "round": null,
-    "amount": "$1 billion",
-    "leadInvestors": null,
-    "valuation": "$20 billion",
-    "emailDate": "2026-08-05"
-  },
-  {
-    "company": "Happyrobot",
-    "dealSummary": "Happyrobot, a startup developing AI agents for mission-critical enterprises, raised a $150 million Series C led by Prysm Capital and Eurazeo.",
+    "company": "Moove",
+    "dealSummary": "Moove, the developer of an operating layer for autonomous fleet management, raised a $250 million Series C led by Mubadala, Woven Capital, Toyota’s Growth Fund and Ion Pacific at a $2.1 billion valuation.",
     "round": "Series C",
-    "amount": "$150 million",
-    "leadInvestors": "Prysm Capital, Eurazeo",
-    "valuation": null,
-    "emailDate": "2026-08-05"
+    "amount": "$250 million",
+    "leadInvestors": "Mubadala, Woven Capital, Toyota’s Growth Fund, Ion Pacific",
+    "valuation": "$2.1 billion",
+    "emailDate": "2026-08-06"
   },
   {
-    "company": "Convex",
-    "dealSummary": "Convex, which builds backend infrastructure for AI-written software, raised a $57 million Series B led by Insight Partners.",
+    "company": "River",
+    "dealSummary": "India-based EV startup River secured a $120 million Series C led by Elev8 Venture Partners and Claypond Capital.",
+    "round": "Series C",
+    "amount": "$120 million",
+    "leadInvestors": "Elev8 Venture Partners, Claypond Capital",
+    "valuation": null,
+    "emailDate": "2026-08-06"
+  },
+  {
+    "company": "Expedition Therapeutics",
+    "dealSummary": "Expedition Therapeutics, a biopharma company developing therapies for inflammatory and respiratory diseases, received a $115 million Series B led by General Atlantic.",
     "round": "Series B",
-    "amount": "$57 million",
-    "leadInvestors": "Insight Partners",
+    "amount": "$115 million",
+    "leadInvestors": "General Atlantic",
     "valuation": null,
-    "emailDate": "2026-08-05"
+    "emailDate": "2026-08-06"
   },
   {
-    "company": "QuantHealth",
-    "dealSummary": "Tel Aviv-based QuantHealth, which uses AI to simulate clinical trials, secured a $45 million Series B led by Qumra Capital.",
-    "round": "Series B",
-    "amount": "$45 million",
-    "leadInvestors": "Qumra Capital",
+    "company": "Faye",
+    "dealSummary": "Faye, the developer of a travel protection platform, raised a $50 million Series C led by Madrona.",
+    "round": "Series C",
+    "amount": "$50 million",
+    "leadInvestors": "Madrona",
     "valuation": null,
-    "emailDate": "2026-08-05"
+    "emailDate": "2026-08-06"
   },
   {
-    "company": "Ore Energy",
-    "dealSummary": "Amsterdam-based battery startup Ore Energy raised a $43 million Series A led by Plural and HV.",
+    "company": "Aurelius Systems",
+    "dealSummary": "Defense tech startup Aurelius Systems, which builds directed-energy laser systems to counter drone threats, received a $40 million Series A led by Draper Associates and KAS Venture Partners.",
     "round": "Series A",
-    "amount": "$43 million",
-    "leadInvestors": "Plural, HV",
-    "valuation": null,
-    "emailDate": "2026-08-05"
-  },
-  {
-    "company": "Yellow Card",
-    "dealSummary": "Yellow Card, a stablecoin payments infrastructure provider, raised $40 million from investors including SC Ventures, Sony Innovation Fund and Polychain Capital.",
-    "round": null,
     "amount": "$40 million",
-    "leadInvestors": "SC Ventures, Sony Innovation Fund, Polychain Capital",
+    "leadInvestors": "Draper Associates, KAS Venture Partners",
     "valuation": null,
-    "emailDate": "2026-08-05"
+    "emailDate": "2026-08-06"
   },
   {
-    "company": "Multiplier",
-    "dealSummary": "Singapore-based Multiplier, which acquires professional-services firms and builds AI tools around their operations, raised a $35 million Series B led by The General Partnership.",
+    "company": "WindBorne Systems",
+    "dealSummary": "WindBorne Systems, which builds a global network of weather forecasting sensing balloons, raised a $37 million Series B led by Khosla Ventures and Galvanize.",
     "round": "Series B",
-    "amount": "$35 million",
-    "leadInvestors": "The General Partnership",
+    "amount": "$37 million",
+    "leadInvestors": "Khosla Ventures, Galvanize",
     "valuation": null,
-    "emailDate": "2026-08-05"
+    "emailDate": "2026-08-06"
   },
   {
-    "company": "Maximum",
-    "dealSummary": "Maximum, which builds an AI operating system for banks, raised a $30 million seed round led by CRV.",
-    "round": "Seed",
-    "amount": "$30 million",
-    "leadInvestors": "CRV",
+    "company": "Moss",
+    "dealSummary": "Berlin-based AI finance startup Moss raised a €30 million Series C at a €1 billion valuation, Sifted reported.",
+    "round": "Series C",
+    "amount": "€30 million",
+    "leadInvestors": null,
     "valuation": null,
-    "emailDate": "2026-08-05"
+    "emailDate": "2026-08-06"
   },
   {
-    "company": "Advanced Electric Machines",
-    "dealSummary": "Advanced Electric Machines, a UK-based maker of rare-earth and magnet-free electric motors, received £16 million in a round led by investors including Barclays Climate Ventures, PXN Ventures and Northstar Ventures, Tech.eu reported.",
+    "company": "InRisk Labs",
+    "dealSummary": "InRisk Labs, a climate-tech startup, raised a $27 million round led by Bessemer Venture Partners and Northpoint Capital.",
     "round": null,
-    "amount": "£16 million",
-    "leadInvestors": "Barclays Climate Ventures, PXN Ventures, Northstar Ventures, Tech",
+    "amount": "$27 million",
+    "leadInvestors": "Bessemer Venture Partners, Northpoint Capital",
     "valuation": null,
-    "emailDate": "2026-08-05"
+    "emailDate": "2026-08-06"
   },
   {
-    "company": "Delightree",
-    "dealSummary": "Delightree, the developer of an AI operating system for franchise brands, raised $25 million from investors including Innovius, Accel and Timber Grove Ventures.",
+    "company": "Neuraspace",
+    "dealSummary": "Portuguese space traffic management startup Neuraspace secured €15.6 million in a round led by Lince Capital, Explorer Investments and Armilar Venture Partners.",
     "round": null,
-    "amount": "$25 million",
-    "leadInvestors": "Innovius, Accel, Timber Grove Ventures",
+    "amount": "€15.6 million",
+    "leadInvestors": "Lince Capital, Explorer Investments, Armilar Venture Partners",
     "valuation": null,
-    "emailDate": "2026-08-05"
+    "emailDate": "2026-08-06"
   }
 ]
