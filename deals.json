@@ -1,83 +1,56 @@
 [
   {
-    "company": "Moove",
-    "dealSummary": "Moove, the developer of an operating layer for autonomous fleet management, raised a $250 million Series C led by Mubadala, Woven Capital, Toyota’s Growth Fund and Ion Pacific at a $2.1 billion valuation.",
+    "company": "Hadrian",
+    "dealSummary": "Defense tech manufacturing company Hadrian secured a $1.37 billion Series D led by WCM Investment Management, Washington Harbour Partners, Valor Equity Partners, 137 Ventures, and Baillie Gifford at a $7.87 billion valuation.",
+    "round": "Series D",
+    "amount": "$1.37 billion",
+    "leadInvestors": "WCM Investment Management, Washington Harbour Partners, Valor Equity Partners, 137 Ventures,, Baillie Gifford",
+    "valuation": "$7.87 billion",
+    "emailDate": "2026-08-07"
+  },
+  {
+    "company": "Lumilens",
+    "dealSummary": "AI infrastructure connectivity platform developer Lumilens raised a $700 million Series C led by Atreides Management, Bain Capital Ventures, Meritech, Seligman Ventures and Spark Capital at a $5.51 billion valuation.",
     "round": "Series C",
-    "amount": "$250 million",
-    "leadInvestors": "Mubadala, Woven Capital, Toyota’s Growth Fund, Ion Pacific",
-    "valuation": "$2.1 billion",
-    "emailDate": "2026-08-06"
+    "amount": "$700 million",
+    "leadInvestors": "Atreides Management, Bain Capital Ventures, Meritech, Seligman Ventures, Spark Capital",
+    "valuation": "$5.51 billion",
+    "emailDate": "2026-08-07"
   },
   {
-    "company": "River",
-    "dealSummary": "India-based EV startup River secured a $120 million Series C led by Elev8 Venture Partners and Claypond Capital.",
-    "round": "Series C",
-    "amount": "$120 million",
-    "leadInvestors": "Elev8 Venture Partners, Claypond Capital",
+    "company": "LifeMine Therapeutics",
+    "dealSummary": "LifeMine Therapeutics, a biopharma startup developing medicines for organ transplantation, raised a $188 million Series E led by Milky Way Investments and a $75 million Series D.",
+    "round": "Series E",
+    "amount": "$188 million",
+    "leadInvestors": "Milky Way Investments, a $75 million Series D",
     "valuation": null,
-    "emailDate": "2026-08-06"
+    "emailDate": "2026-08-07"
   },
   {
-    "company": "Expedition Therapeutics",
-    "dealSummary": "Expedition Therapeutics, a biopharma company developing therapies for inflammatory and respiratory diseases, received a $115 million Series B led by General Atlantic.",
-    "round": "Series B",
-    "amount": "$115 million",
-    "leadInvestors": "General Atlantic",
-    "valuation": null,
-    "emailDate": "2026-08-06"
-  },
-  {
-    "company": "Faye",
-    "dealSummary": "Faye, the developer of a travel protection platform, raised a $50 million Series C led by Madrona.",
-    "round": "Series C",
-    "amount": "$50 million",
-    "leadInvestors": "Madrona",
-    "valuation": null,
-    "emailDate": "2026-08-06"
-  },
-  {
-    "company": "Aurelius Systems",
-    "dealSummary": "Defense tech startup Aurelius Systems, which builds directed-energy laser systems to counter drone threats, received a $40 million Series A led by Draper Associates and KAS Venture Partners.",
-    "round": "Series A",
+    "company": "Vedanta Biosciences",
+    "dealSummary": "Biopharma startup Vedanta Biosciences, which focuses on treatments for gastrointestinal diseases, secured a $40 million round led by AMR Action Fund and BNP Paribas Asset Management Alts as well as $20 million from its existing contract with BARDA.",
+    "round": null,
     "amount": "$40 million",
-    "leadInvestors": "Draper Associates, KAS Venture Partners",
+    "leadInvestors": "AMR Action Fund, BNP Paribas Asset Management Alts as well as $20 million from its existing contract with BARDA",
     "valuation": null,
-    "emailDate": "2026-08-06"
+    "emailDate": "2026-08-07"
   },
   {
-    "company": "WindBorne Systems",
-    "dealSummary": "WindBorne Systems, which builds a global network of weather forecasting sensing balloons, raised a $37 million Series B led by Khosla Ventures and Galvanize.",
-    "round": "Series B",
-    "amount": "$37 million",
-    "leadInvestors": "Khosla Ventures, Galvanize",
+    "company": "Sapiom",
+    "dealSummary": "Sapiom, the developer of a platform to ship, run and scale AI agents, raised a $35 million Series A led by Dragonfly.",
+    "round": "Series A",
+    "amount": "$35 million",
+    "leadInvestors": "Dragonfly",
     "valuation": null,
-    "emailDate": "2026-08-06"
+    "emailDate": "2026-08-07"
   },
   {
-    "company": "Moss",
-    "dealSummary": "Berlin-based AI finance startup Moss raised a €30 million Series C at a €1 billion valuation, Sifted reported.",
-    "round": "Series C",
-    "amount": "€30 million",
-    "leadInvestors": null,
+    "company": "Triangle",
+    "dealSummary": "Singapore-based Triangle, which specializes in live entertainment infrastructure, secured $15 million: a $10 million seed round led by DSG Consumer Partners and a $5 million",
+    "round": "Seed",
+    "amount": "$15 million",
+    "leadInvestors": "DSG Consumer Partners, a $5 million",
     "valuation": null,
-    "emailDate": "2026-08-06"
-  },
-  {
-    "company": "InRisk Labs",
-    "dealSummary": "InRisk Labs, a climate-tech startup, raised a $27 million round led by Bessemer Venture Partners and Northpoint Capital.",
-    "round": null,
-    "amount": "$27 million",
-    "leadInvestors": "Bessemer Venture Partners, Northpoint Capital",
-    "valuation": null,
-    "emailDate": "2026-08-06"
-  },
-  {
-    "company": "Neuraspace",
-    "dealSummary": "Portuguese space traffic management startup Neuraspace secured €15.6 million in a round led by Lince Capital, Explorer Investments and Armilar Venture Partners.",
-    "round": null,
-    "amount": "€15.6 million",
-    "leadInvestors": "Lince Capital, Explorer Investments, Armilar Venture Partners",
-    "valuation": null,
-    "emailDate": "2026-08-06"
+    "emailDate": "2026-08-07"
   }
 ]
