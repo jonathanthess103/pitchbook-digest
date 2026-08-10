@@ -1,56 +1,74 @@
 [
   {
-    "company": "Hadrian",
-    "dealSummary": "Defense tech manufacturing company Hadrian secured a $1.37 billion Series D led by WCM Investment Management, Washington Harbour Partners, Valor Equity Partners, 137 Ventures, and Baillie Gifford at a $7.87 billion valuation.",
-    "round": "Series D",
-    "amount": "$1.37 billion",
-    "leadInvestors": "WCM Investment Management, Washington Harbour Partners, Valor Equity Partners, 137 Ventures,, Baillie Gifford",
-    "valuation": "$7.87 billion",
-    "emailDate": "2026-08-07"
-  },
-  {
-    "company": "Lumilens",
-    "dealSummary": "AI infrastructure connectivity platform developer Lumilens raised a $700 million Series C led by Atreides Management, Bain Capital Ventures, Meritech, Seligman Ventures and Spark Capital at a $5.51 billion valuation.",
-    "round": "Series C",
-    "amount": "$700 million",
-    "leadInvestors": "Atreides Management, Bain Capital Ventures, Meritech, Seligman Ventures, Spark Capital",
-    "valuation": "$5.51 billion",
-    "emailDate": "2026-08-07"
-  },
-  {
-    "company": "LifeMine Therapeutics",
-    "dealSummary": "LifeMine Therapeutics, a biopharma startup developing medicines for organ transplantation, raised a $188 million Series E led by Milky Way Investments and a $75 million Series D.",
-    "round": "Series E",
-    "amount": "$188 million",
-    "leadInvestors": "Milky Way Investments, a $75 million Series D",
-    "valuation": null,
-    "emailDate": "2026-08-07"
-  },
-  {
-    "company": "Vedanta Biosciences",
-    "dealSummary": "Biopharma startup Vedanta Biosciences, which focuses on treatments for gastrointestinal diseases, secured a $40 million round led by AMR Action Fund and BNP Paribas Asset Management Alts as well as $20 million from its existing contract with BARDA.",
+    "company": "Firmus",
+    "dealSummary": "Sydney-based Firmus, an AI infrastructure company, raised $2 billion at a valuation above $10.5 billion from investors including Coatue, Nvidia and Blackstone.",
     "round": null,
-    "amount": "$40 million",
-    "leadInvestors": "AMR Action Fund, BNP Paribas Asset Management Alts as well as $20 million from its existing contract with BARDA",
+    "amount": "$2 billion",
+    "leadInvestors": "Coatue, Nvidia, Blackstone",
     "valuation": null,
-    "emailDate": "2026-08-07"
+    "emailDate": "2026-08-10"
   },
   {
-    "company": "Sapiom",
-    "dealSummary": "Sapiom, the developer of a platform to ship, run and scale AI agents, raised a $35 million Series A led by Dragonfly.",
+    "company": "Whatnot",
+    "dealSummary": "Whatnot, the developer of a live shopping marketplace, raised a $545 million Series G at a $20 billion valuation led by Iconiq, Lightspeed and Avra.",
+    "round": null,
+    "amount": "$545 million",
+    "leadInvestors": "Iconiq, Lightspeed, Avra",
+    "valuation": "$20 billion",
+    "emailDate": "2026-08-10"
+  },
+  {
+    "company": "Harvey",
+    "dealSummary": "Harvey, a legal tech startup, is in talks to raise $500 million at a valuation of $15.5 billion, The Information reported.",
+    "round": null,
+    "amount": "$500 million",
+    "leadInvestors": null,
+    "valuation": null,
+    "emailDate": "2026-08-10"
+  },
+  {
+    "company": "Jeff Bezos-backed Slate Auto",
+    "dealSummary": "Jeff Bezos-backed Slate Auto, a developer of low-cost electric pickup trucks, is raising around $500 million in a Series D, Axios reported.",
+    "round": "Series D",
+    "amount": "$500 million",
+    "leadInvestors": null,
+    "valuation": null,
+    "emailDate": "2026-08-10"
+  },
+  {
+    "company": "Panthalassa",
+    "dealSummary": "Panthalassa, a developer of wave-energy technology to power offshore AI data centers, is raising $225 million at a $2 billion valuation in a round led by 8090 Industries and Hanwha Asset Management, The Information reported.",
+    "round": null,
+    "amount": "$225 million",
+    "leadInvestors": "8090 Industries, Hanwha Asset Management, The Information reported",
+    "valuation": "$2 billion",
+    "emailDate": "2026-08-10"
+  },
+  {
+    "company": "NavVis",
+    "dealSummary": "Munich-based spatial intelligence startup NavVis raised an $85 million Series D led by TJC.",
+    "round": "Series D",
+    "amount": "$85 million",
+    "leadInvestors": "TJC",
+    "valuation": null,
+    "emailDate": "2026-08-10"
+  },
+  {
+    "company": "AI-driven customer service startup Omilia",
+    "dealSummary": "AI-driven customer service startup Omilia received a $67 million Series B led by Expedition Growth Capital.",
+    "round": "Series B",
+    "amount": "$67 million",
+    "leadInvestors": "Expedition Growth Capital",
+    "valuation": null,
+    "emailDate": "2026-08-10"
+  },
+  {
+    "company": "Naïve",
+    "dealSummary": "Naïve, which builds infrastructure for AI agents, raised a $28.5 million Series A led by Nexus Venture Partners.",
     "round": "Series A",
-    "amount": "$35 million",
-    "leadInvestors": "Dragonfly",
+    "amount": "$28.5 million",
+    "leadInvestors": "Nexus Venture Partners",
     "valuation": null,
-    "emailDate": "2026-08-07"
-  },
-  {
-    "company": "Triangle",
-    "dealSummary": "Singapore-based Triangle, which specializes in live entertainment infrastructure, secured $15 million: a $10 million seed round led by DSG Consumer Partners and a $5 million",
-    "round": "Seed",
-    "amount": "$15 million",
-    "leadInvestors": "DSG Consumer Partners, a $5 million",
-    "valuation": null,
-    "emailDate": "2026-08-07"
+    "emailDate": "2026-08-10"
   }
 ]
