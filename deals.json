@@ -1,74 +1,47 @@
 [
   {
-    "company": "Firmus",
-    "dealSummary": "Sydney-based Firmus, an AI infrastructure company, raised $2 billion at a valuation above $10.5 billion from investors including Coatue, Nvidia and Blackstone.",
+    "company": "Erebor",
+    "dealSummary": "Erebor, a bank for startups that was founded by Palmer Luckey, is raising $1.5 billion in a round from investors including Lux Capital, Human Capital and Valor Equity Partners at an $8 billion valuation, the Financial Times reported.",
     "round": null,
-    "amount": "$2 billion",
-    "leadInvestors": "Coatue, Nvidia, Blackstone",
+    "amount": "$1.5 billion",
+    "leadInvestors": "Lux Capital, Human Capital, Valor Equity Partners at an $8 billion valuation, the Financial Times reported",
     "valuation": null,
-    "emailDate": "2026-08-10"
+    "emailDate": "2026-08-11"
   },
   {
-    "company": "Whatnot",
-    "dealSummary": "Whatnot, the developer of a live shopping marketplace, raised a $545 million Series G at a $20 billion valuation led by Iconiq, Lightspeed and Avra.",
-    "round": null,
-    "amount": "$545 million",
-    "leadInvestors": "Iconiq, Lightspeed, Avra",
-    "valuation": "$20 billion",
-    "emailDate": "2026-08-10"
+    "company": "Cambridge Aerospace",
+    "dealSummary": "UK-based defense tech startup Cambridge Aerospace raised a $300 million Series C led by DFJ Growth at a $3.4 billion valuation.",
+    "round": "Series C",
+    "amount": "$300 million",
+    "leadInvestors": "DFJ Growth",
+    "valuation": "$3.4 billion",
+    "emailDate": "2026-08-11"
   },
   {
-    "company": "Harvey",
-    "dealSummary": "Harvey, a legal tech startup, is in talks to raise $500 million at a valuation of $15.5 billion, The Information reported.",
-    "round": null,
-    "amount": "$500 million",
-    "leadInvestors": null,
-    "valuation": null,
-    "emailDate": "2026-08-10"
-  },
-  {
-    "company": "Jeff Bezos-backed Slate Auto",
-    "dealSummary": "Jeff Bezos-backed Slate Auto, a developer of low-cost electric pickup trucks, is raising around $500 million in a Series D, Axios reported.",
-    "round": "Series D",
-    "amount": "$500 million",
-    "leadInvestors": null,
-    "valuation": null,
-    "emailDate": "2026-08-10"
-  },
-  {
-    "company": "Panthalassa",
-    "dealSummary": "Panthalassa, a developer of wave-energy technology to power offshore AI data centers, is raising $225 million at a $2 billion valuation in a round led by 8090 Industries and Hanwha Asset Management, The Information reported.",
-    "round": null,
-    "amount": "$225 million",
-    "leadInvestors": "8090 Industries, Hanwha Asset Management, The Information reported",
-    "valuation": "$2 billion",
-    "emailDate": "2026-08-10"
-  },
-  {
-    "company": "NavVis",
-    "dealSummary": "Munich-based spatial intelligence startup NavVis raised an $85 million Series D led by TJC.",
-    "round": "Series D",
-    "amount": "$85 million",
-    "leadInvestors": "TJC",
-    "valuation": null,
-    "emailDate": "2026-08-10"
-  },
-  {
-    "company": "AI-driven customer service startup Omilia",
-    "dealSummary": "AI-driven customer service startup Omilia received a $67 million Series B led by Expedition Growth Capital.",
+    "company": "Point2 Technology",
+    "dealSummary": "Point2 Technology, the developer of interconnect technology for data center infrastructure, raised a Series B extension led by LB Investment that brings the round’s total to $136 million.",
     "round": "Series B",
-    "amount": "$67 million",
-    "leadInvestors": "Expedition Growth Capital",
+    "amount": "$136 million",
+    "leadInvestors": "LB Investment that brings the round’s total to $136 million",
     "valuation": null,
-    "emailDate": "2026-08-10"
+    "emailDate": "2026-08-11"
   },
   {
-    "company": "Naïve",
-    "dealSummary": "Naïve, which builds infrastructure for AI agents, raised a $28.5 million Series A led by Nexus Venture Partners.",
-    "round": "Series A",
-    "amount": "$28.5 million",
-    "leadInvestors": "Nexus Venture Partners",
+    "company": "Corma",
+    "dealSummary": "Corma, which specializes in AI agents for defensive cybersecurity, secured a $60 million seed round led by Sequoia, Fortune reported.",
+    "round": "Seed",
+    "amount": "$60 million",
+    "leadInvestors": "Sequoia",
     "valuation": null,
-    "emailDate": "2026-08-10"
+    "emailDate": "2026-08-11"
+  },
+  {
+    "company": "VibeIQ",
+    "dealSummary": "Boston-based VibeIQ, the developer of a product decision platform for consumer goods, raised a $22.5 million round led by Volition Capital.",
+    "round": null,
+    "amount": "$22.5 million",
+    "leadInvestors": "Volition Capital",
+    "valuation": null,
+    "emailDate": "2026-08-11"
   }
 ]
